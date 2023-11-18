@@ -4,7 +4,7 @@
 	{% block head %}
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{ user.username }}'s Watchlist</title>
+	<title>{{ user.name }}'s Watchlist</title>
 	<link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
 	<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type="text/css">
 	{% endblock %}
@@ -15,7 +15,7 @@
 	{% endfor %}
 	<h2>
 		<img alt="Avatar" class="avatar" src="{{ url_for('static', filename='images/qiqi.png') }}">
-		{{ user.username }}'s Watchlist
+		{{ user.name }}'s Watchlist
 	</h2>
 	<nav>
 		<ul>
