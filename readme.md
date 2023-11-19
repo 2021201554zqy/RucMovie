@@ -47,7 +47,7 @@ pip install flask flask_sqlalchemy
 ![登录进去看到的状态](./screenshots/login_state.png)
 
 ### 演员界面
-![登录进去看到的状态](./screenshots/actor.png)
+![登录进去看到的状态](./screenshots/actor_state.png)
 
 ### 编辑界面
 ![登录进去看到的状态](./screenshots/edit.png)
