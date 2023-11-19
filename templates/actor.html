@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<p>{{ actors|length }} Titles</p>
+	{% if current_user.is_authenticated %}
+	<form method="post">
+    		Name <input type="text" name="title" autocomplete="off" required>
+    		Year <input type="text" name="year" autocomplete="off" required>
+    		<input class="btn" type="submit" name="submit" value="Add">
+	</form>
+	{% endif %}
+<ul class="movie-list">
+	{% for actor in actors %}
+	<li>{{ actor.actor_name }} - {{ actor.gender }} - {{actor.country}}
+	<!-- pastefrom index  -->
+	</li>
+	{% endfor %}
+</ul>
+<img alt="Walking Totoro" class="totoro" src="{{ url_for('static', filename='images/totoro.png') }}" title="to~to~ro~">
+
+{% endblock %}
+
