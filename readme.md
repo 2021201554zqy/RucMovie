@@ -36,4 +36,4 @@ pip install flask flask_sqlalchemy
 ### login
 ![login](screeshots/login_state.png)
 
-<img src="screeshots/login_state.png"></img>
+<img src="https://raw.githubusercontent.com/2021201554zqy/RucMovie/main/screenshots/login_state.png"></img>
