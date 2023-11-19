@@ -31,9 +31,6 @@ def load_user(user_id): # 创建用户加载回调函数，接受用户 ID 作�
     return user # 返回用户对象  
 
 
-# db = SQLAlchemy(app) # 初始化扩展，传入程序实例 app
-
-
 # many to many relation
 movie_actor_association = db.Table(
     'movie_actor_association',
@@ -175,7 +172,8 @@ def user_page(name):
 def edit(movie_id):
     # movie = Movie.query.filter_by(movie_id=movie_id)
     movie = Movie.query.get_or_404(movie_id)
-
+   
+    
     if request.method == 'POST':  # 处理编辑表单的提交请求
         title = request.form['title']
         year = request.form['year']
@@ -183,23 +181,30 @@ def edit(movie_id):
         if not title or not year or len(year) != 4 or len(title) > 60:
             flash('Invalid input.')
             return redirect(url_for('edit', movie_id=movie_id))  # 重定向回对应的编辑页面
-
-        movie.movie_name = title  # 更新标题
-        movie.release_year = year  # 更新年份
+          # 解除与 MovieBox 的关联关系
+        if movie.moviebox:
+            movie.movie_name = title  # 更新标题
+            movie.release_year = year  # 更新年份
         db.session.commit()  # 提交数据库会话
         flash('Item updated.')
         return redirect(url_for('index'))  # 重定向回主页
     user = User.query.first() # 读取用户记录
     return render_template('edit.html', movie=movie,user=user)  # 传入被编辑的电影记录
 
-@app.route('/movie/delete/<int:movie_id>', methods=['POST']) #
-@login_required # 登录保护
+@app.route('/movie/delete/<int:movie_id>', methods=['POST'])
+@login_required
 def delete(movie_id):
-    movie = Movie.query.get_or_404(movie_id) # 获取电影记录
-    db.session.delete(movie) # 删除对应的记录
-    db.session.commit() # 提交数据库会话
+    movie = Movie.query.get_or_404(movie_id)
+    
+    # 解除与 MovieBox 的关联关系
+    if movie.moviebox:
+        db.session.delete(movie.moviebox)
+    
+    db.session.delete(movie)
+    db.session.commit()
+    
     flash('Item deleted.')
-    return redirect(url_for('index')) # 重定向回主页
+    return redirect(url_for('index'))
 
 
 @app.route('/login', methods=['GET', 'POST'])

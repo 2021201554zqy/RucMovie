@@ -1,30 +1,10 @@
-# notes
-## push my change to [github](https://github.com/2021201554zqy/RucMovie)
-```bash
-git add .
-git commit -m "my message"
-git push
-```
+
 # Watchlist Homework
 ## working enviroment
 - windows 11
 - terminal: powershell
 - anaconda environment
 - flask
-
-## Installation:
-- download [python windows](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe) then install. `Add Python to environment variables`, open powershell and input `python --version` to check.
-- enviroment setup:
-```bash
-# open pwoershell as admin
-Set-ExecutionPolicy RemoteSigned
-mkdir watchlist
-cd watchlist
-python -m venv env
-env\Scripts\activate
-pip install flask flask_sqlalchemy
-# output: (env) PS D:\code\flask-mysql\watchlist>
-```
 
 ## 初始化数据库
 - 先利用SQL语言建立数据库，再将其转为SQLlite方式
@@ -54,3 +34,26 @@ pip install flask flask_sqlalchemy
 
 ### 设置状态
 ![登录进去看到的状态](./screenshots/settings.png)
+
+
+## Installation:
+- download [python windows](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe) then install. `Add Python to environment variables`, open powershell and input `python --version` to check.
+- enviroment setup:
+```bash
+# open pwoershell as admin
+Set-ExecutionPolicy RemoteSigned
+mkdir watchlist
+cd watchlist
+python -m venv env
+env\Scripts\activate
+pip install flask flask_sqlalchemy
+# output: (env) PS D:\code\flask-mysql\watchlist>
+```
+
+# notes
+## push my change to [github](https://github.com/2021201554zqy/RucMovie)
+```bash
+git add .
+git commit -m "my message"
+git push
+```
