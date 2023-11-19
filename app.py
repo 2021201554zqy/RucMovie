@@ -189,8 +189,8 @@ def edit(movie_id):
         db.session.commit()  # 提交数据库会话
         flash('Item updated.')
         return redirect(url_for('index'))  # 重定向回主页
-
-    return render_template('edit.html', movie=movie)  # 传入被编辑的电影记录
+    user = User.query.first() # 读取用户记录
+    return render_template('edit.html', movie=movie,user=user)  # 传入被编辑的电影记录
 
 @app.route('/movie/delete/<int:movie_id>', methods=['POST']) #
 @login_required # 登录保护
