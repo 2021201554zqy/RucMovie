@@ -29,15 +29,66 @@ login_manager.login_view = 'login'
 def load_user(user_id): # 创建用户加载回调函数，接受用户 ID 作为参数
     user = User.query.get(int(user_id)) # 用 ID 作为 User 模型的主键查询对应的用户
     return user # 返回用户对象  
-
-
 # many to many relation
 movie_actor_association = db.Table(
     'movie_actor_association',
     db.Column('movie_id', db.Integer, db.ForeignKey('movie_info.movie_id')),
     db.Column('actor_id', db.Integer, db.ForeignKey('actor_info.actor_id')),
 )
-# class User(db.Model, UserMixin):
+
+movie_director_association = db.Table(
+    'movie_director_association',
+    db.Column('movie_id', db.Integer, db.ForeignKey('movie_info.movie_id')),
+    db.Column('actor_id', db.Integer, db.ForeignKey('actor_info.actor_id')),
+)
+
+class Movie(db.Model):
+    __tablename__ = 'movie_info'
+
+    movie_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    movie_name = db.Column(db.String(20))
+    release_date = db.Column(db.String(15))
+    country = db.Column(db.String(20))
+    movie_type = db.Column(db.String(10))
+    release_year = db.Column(db.Integer)
+    
+    moviebox = db.relationship('MovieBox', back_populates='movies', uselist=False, cascade='all, delete-orphan')
+    actors = db.relationship('Actor', secondary=movie_actor_association, back_populates='movie_actors')
+    directors = db.relationship('Actor', secondary=movie_director_association, back_populates='movie_directs')
+    
+    def __repr__(self):
+        return f'<Movie {self.movie_name}>'
+    
+
+class Actor(db.Model):
+    __tablename__ = 'actor_info'
+
+    actor_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    actor_name = db.Column(db.String(20))
+    gender = db.Column(db.String(2))
+    country = db.Column(db.String(20))
+    
+    movie_actors = db.relationship('Movie', secondary=movie_actor_association)
+    movie_directs = db.relationship('Movie', secondary=movie_director_association)
+    
+    def __repr__(self):
+        return f'<Actor {self.actor_name}>'    
+    
+# one to one relation
+class MovieBox(db.Model):
+    __tablename__ = 'movie_box'
+    box_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    movie_id = db.Column(db.String(10), db.ForeignKey('movie_info.movie_id'))
+    movie_box = db.Column(db.Float)
+    movies = db.relationship('Movie', back_populates='moviebox')
+
+# # many to many relation
+# movie_actor_association = db.Table(
+#     'movie_actor_association',
+#     db.Column('movie_id', db.Integer, db.ForeignKey('movie_info.movie_id')),
+#     db.Column('actor_id', db.Integer, db.ForeignKey('actor_info.actor_id')),
+# )
+# # class User(db.Model, UserMixin):
 class User(db.Model,UserMixin):
     # __table_args__ = {'extend_existing': True}
     id = db.Column(db.Integer, primary_key=True)
@@ -51,41 +102,7 @@ class User(db.Model,UserMixin):
     def validate_password(self, password): # 用于验证密码的方法，接受密码作为参数
         return check_password_hash(self.password_hash, password)
 
-class Movie(db.Model):
-    __tablename__ = 'movie_info'
 
-    movie_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    movie_name = db.Column(db.String(20))
-    release_date = db.Column(db.String(15))
-    country = db.Column(db.String(20))
-    movie_type = db.Column(db.String(10))
-    release_year = db.Column(db.Integer)
-    
-    moviebox = db.relationship('MovieBox', back_populates='movies', uselist=False)
-    actors = db.relationship('Actor', secondary=movie_actor_association, back_populates='movies')
-    
-    def __repr__(self):
-        return f'<Movie {self.movie_name}>'
-    
-class Actor(db.Model):
-    __tablename__ = 'actor_info'
-
-    actor_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    actor_name = db.Column(db.String(20))
-    gender = db.Column(db.String(2))
-    country = db.Column(db.String(20))
-    
-    movies = db.relationship('Movie', secondary=movie_actor_association, back_populates='actors')
-    
-    def __repr__(self):
-        return f'<Actor {self.actor_name}>'    
-    
-# one to one relation
-class MovieBox(db.Model):
-    __tablename__ = 'movie_box'
-    movie_id = db.Column(db.String(10), db.ForeignKey('movie_info.movie_id'), unique=True, nullable=False, primary_key=True)
-    movie_box = db.Column(db.Float)
-    movies = db.relationship('Movie', back_populates='moviebox')
 
 # 在执行数据库查询之前手动推送应用上下文
 with app.app_context():
@@ -134,12 +151,13 @@ def index():
         db.session.commit() # 提交数据库会话
         flash('Item created.') # 显示成功创建的提示
     user = User.query.first() # 读取用户记录
+    movies = Movie.query.all()
     return render_template('index.html', movies=movies,user=user)
 
 @app.route('/actor')
 def actor():
-
     user = User.query.first() # 读取用户记录
+    actors = Actor.query.all()   
     return render_template('actor.html', actors=actors,user=user)
 @app.route('/settings', methods=['GET', 'POST'])
 @login_required
@@ -191,20 +209,105 @@ def edit(movie_id):
     user = User.query.first() # 读取用户记录
     return render_template('edit.html', movie=movie,user=user)  # 传入被编辑的电影记录
 
+
+
+
+@app.route('/movie/details/<int:movie_id>', methods=['GET', 'POST'])
+def movie_details(movie_id):
+    movie = Movie.query.get_or_404(movie_id)
+    # if request.method == 'POST':  # 处理编辑表单的提交请求
+    #     title = request.form['title']
+    #     year = request.form['year']
+
+    #     if not title or not year or len(year) != 4 or len(title) > 60:
+    #         flash('Invalid input.')
+    #         return redirect(url_for('edit', movie_id=movie_id))  # 重定向回对应的编辑页面
+    #       # 解除与 MovieBox 的关联关系
+    #     if movie.moviebox:
+    #         movie.movie_name = title  # 更新标题
+    #         movie.release_year = year  # 更新年份
+    #     db.session.commit()  # 提交数据库会话
+    #     flash('Item updated.')
+    #     return redirect(url_for('index'))  # 重定向回主页
+    # user = User.query.first() # 读取用户记录
+    # return render_template('edit.html', movie=movie,user=user)  # 传入被编辑的电影记录
+
+    # 根据电影 ID 从数据库中获取演员信息
+    # actors = get_actors_by_movie_id(movie_id)
+    directors = movie.directors
+    actors = movie.actors
+    user = User.query.first() # 读取用户记录
+    return render_template('movie_details.html', directors = directors, movie=movie, actors=actors,user=user)
+@app.route('/actor/edit/<int:actor_id>', methods=['GET', 'POST'])
+@login_required
+def edit_actor(actor_id):
+    actor = Actor.query.get_or_404(actor_id)
+    
+    if request.method == 'POST':  # 处理编辑表单的提交请求
+        title = request.form['title']
+        gender = request.form['gender']
+        country = request.form['country']
+        if not title or not gender or not country:
+            flash('Invalid input.')
+            return redirect(url_for('edit_actor', actor_id=actor_id))  # 重定向回对应的编辑页面
+          # 解除与 MovieBox 的关联关系
+        # if movie.moviebox:
+        #     movie.movie_name = title  # 更新标题
+        #     movie.release_year = year  # 更新年份
+        db.session.commit()  # 提交数据库会话
+        flash('Item updated.')
+        return redirect(url_for('index'))  # 重定向回主页
+    user = User.query.first() # 读取用户记录
+    return render_template('edit_actor.html', actor=actor,user=user)  # 传入被编辑的电影记录
+
 @app.route('/movie/delete/<int:movie_id>', methods=['POST'])
 @login_required
 def delete(movie_id):
+    # Step 1: Retrieve the movie by its ID
     movie = Movie.query.get_or_404(movie_id)
-    
-    # 解除与 MovieBox 的关联关系
-    if movie.moviebox:
-        db.session.delete(movie.moviebox)
-    
-    db.session.delete(movie)
+
+    if movie:
+        if len(movie.actors)>0:
+            for actor in movie.actors:
+                db.session.delete(actor)
+        if len(movie.directors)>0:
+            for director in movie.directors:
+                db.session.delete(director)
+        if movie.moviebox:
+            db.session.delete(movie.moviebox)
+        db.session.delete(movie)
     db.session.commit()
-    
+    print(f"Movie with ID {movie_id} has been deleted.")
+        # except:
+        #     db.session.rollback()
+        #     print(f"Movie with ID {movie_id} not found.")
     flash('Item deleted.')
+    # 在执行数据库查询之前手动推送应用上下文
+    with app.app_context():
+        movies = Movie.query.all()
+        actors = Actor.query.all()
     return redirect(url_for('index'))
+
+
+@app.route('/actor/delete/<int:actor_id>', methods=['POST'])
+@login_required
+def delete_actor(actor_id):
+    # Step 1: Retrieve the movie by its ID
+    actor = Actor.query.get_or_404(actor_id)
+
+    if actor:
+        db.session.delete(actor)
+    db.session.commit()
+    # print(f"Movie with ID {movie_id} has been deleted.")
+        # except:
+        #     db.session.rollback()
+        #     print(f"Movie with ID {movie_id} not found.")
+    flash('Item deleted.')
+    # # 在执行数据库查询之前手动推送应用上下文
+    with app.app_context():
+        movies = Movie.query.all()
+        actors = Actor.query.all()
+    return redirect(url_for('actor'))
 
 
 @app.route('/login', methods=['GET', 'POST'])
@@ -232,4 +335,4 @@ def login():
 def logout():
     logout_user() # 登出用户
     flash('Goodbye.')
-    return redirect(url_for('index')) # 重定向回首页
+    return redirect(url_for('index')) # 重定向回首页                                                                  
