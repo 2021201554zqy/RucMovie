@@ -388,3 +388,12 @@ def add_movie():
 
     # print(f"Movie '{new_movie.movie_name}' has been added with ID {new_movie.movie_id}.")
     return redirect(url_for('index'))  # 重定向到主页
+
+@app.route('/search', methods=['GET'])
+def search_movie():
+    keyword = request.args.get('keyword', '')
+
+    # 使用 ilike 进行模糊查询
+    movies_searched = Movie.query.filter(Movie.movie_name.ilike(f'%{keyword}%')).all()
+    user = User.query.first() # 读取用户记录
+    return render_template('search_movie.html', keyword=keyword,movies_searched=movies_searched,user = user)

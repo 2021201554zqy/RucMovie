@@ -8,6 +8,10 @@
     		<input class="btn" type="submit" name="submit" value="Add">
 	</form>
 	{% endif %}
+<form method="get" action="{{ url_for('search_movie') }}">
+	Search Movies: <input type="text" name="keyword" autocomplete="off" required>
+	<input class="btn" type="submit" value="Search">
+</form>
 <ul class="movie-list">
 	{% for movie in movies %}
 	<li>{{ movie.movie_name }} - {{ movie.release_year }}
