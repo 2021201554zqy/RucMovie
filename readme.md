@@ -18,22 +18,30 @@
 ## 网页展示
 
 ### 未登录状态
-![登录进去看到的状态](./screenshots/logout.png)
+![未登录看到的状态](./screenshots/logout.png)
 
 ### 登录界面
-![登录进去看到的状态](./screenshots/login.png)
+![登录状态](./screenshots/login.png)
 
 ### 登录后状态
 ![登录进去看到的状态](./screenshots/login_state.png)
 
 ### 演员界面
-![登录进去看到的状态](./screenshots/actor_state.png)
+![展示演员信息](./screenshots/actor_state.png)
 
 ### 编辑界面
-![登录进去看到的状态](./screenshots/edit.png)
+![点编辑按钮之后](./screenshots/edit1.png)
+![编辑后的效果](./screenshots/edit2.png)
+
+### 删除操作
+![点删除按钮之后](./screenshots/delete.png)
+![哪吒已删的效果](./screenshots/delete2.png)
+
+## 电影详情界面
+![点Details按钮](./screenshots/movie_details.png)
 
 ### 设置状态
-![登录进去看到的状态](./screenshots/settings.png)
+![改变用户名等](./screenshots/settings.png)
 
 
 ## Installation:

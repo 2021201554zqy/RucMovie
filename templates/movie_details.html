@@ -6,14 +6,14 @@
   <p>Type: {{ movie.movie_type }}</p>
   <p>Country: {{ movie.country }}</p>
   <h4>Directors:</h4>
-  <ul>
+  <ul class="movie-list">
     {% for director in directors %}
       <li>{{ director.actor_name }}</li>
     {% endfor %}
   </ul>
   
   <h4>Actors:</h4>
-  <ul>
+  <ul class="movie-list">
     {% for actor in actors %}
       <li>{{ actor.actor_name }}</li>
     {% endfor %}
