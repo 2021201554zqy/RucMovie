@@ -2,7 +2,7 @@
 {% block content %}
 <p>{{ movies|length }} Titles</p>
 	{% if current_user.is_authenticated %}
-	<form method="post">
+	<form method="post" action="{{ url_for('add_movie') }}">
     		Name <input type="text" name="title" autocomplete="off" required>
     		Year <input type="text" name="year" autocomplete="off" required>
     		<input class="btn" type="submit" name="submit" value="Add">
@@ -27,4 +27,3 @@
 <img alt="Walking Totoro" class="totoro" src="{{ url_for('static', filename='images/totoro.png') }}" title="to~to~ro~">
 
 {% endblock %}
-

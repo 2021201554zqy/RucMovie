@@ -56,9 +56,15 @@ class Movie(db.Model):
     actors = db.relationship('Actor', secondary=movie_actor_association, back_populates='movie_actors')
     directors = db.relationship('Actor', secondary=movie_director_association, back_populates='movie_directs')
     
+    def __init__(self, movie_name, release_date, country, movie_type, release_year):
+        self.movie_name = movie_name
+        self.release_date = release_date
+        self.country = country
+        self.movie_type = movie_type
+        self.release_year = release_year
+
     def __repr__(self):
-        return f'<Movie {self.movie_name}>'
-    
+        return f'<Movie {self.movie_name}>' 
 
 class Actor(db.Model):
     __tablename__ = 'actor_info'
@@ -336,3 +342,49 @@ def logout():
     logout_user() # 登出用户
     flash('Goodbye.')
     return redirect(url_for('index')) # 重定向回首页                                                                  
+
+
+@app.route('/add_movie', methods=['POST'])
+def add_movie():
+    title = request.form['title']
+    year = request.form['year']
+
+    # # 在这里可以执行其他操作，例如将数据存储到数据库中
+    # # 为了演示，我们只将数据添加到 movies 列表中
+    # movies.append({'movie_name': title, 'release_year': year})
+
+    # 
+
+    # new_movie = Movie(
+    #     movie_name=title,
+    #     release_date=movie_data['release_date'],
+    #     country=movie_data['country'],
+    #     movie_type=movie_data['movie_type'],
+    #     release_year=movie_data['release_year']
+    # )
+    new_movie = Movie(title, '', '', '', year)   
+    # Step 2: Add any associated records or relationships
+    # # Add actors to the movie
+    # actors_data = movie_data.get('actors', [])
+    # for actor_data in actors_data:
+    #     actor = Actor(**actor_data)
+    #     new_movie.actors.append(actor)
+
+    # # Add directors to the movie
+    # directors_data = movie_data.get('directors', [])
+    # for director_data in directors_data:
+    #     director = Actor(**director_data)
+    #     new_movie.directors.append(director)
+
+    # # Add movie box details
+    # movie_box_data = movie_data.get('movie_box', {})
+    # if movie_box_data:
+    #     movie_box = MovieBox(**movie_box_data)
+    #     new_movie.moviebox = movie_box
+
+    # Step 3: Add the movie to the database
+    db.session.add(new_movie)
+    db.session.commit()
+
+    # print(f"Movie '{new_movie.movie_name}' has been added with ID {new_movie.movie_id}.")
+    return redirect(url_for('index'))  # 重定向到主页

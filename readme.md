@@ -37,6 +37,10 @@
 ![点删除按钮之后](./screenshots/delete.png)
 ![哪吒已删的效果](./screenshots/delete2.png)
 
+### 增加新电影
+![输入电影信息点添加钮之后](./screenshots/add1.png)
+![点删除按钮之后](./screenshots/add2.png)
+
 ## 电影详情界面
 ![点Details按钮](./screenshots/movie_details.png)
 
