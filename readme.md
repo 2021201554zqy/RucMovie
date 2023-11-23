@@ -42,7 +42,10 @@
 ![点删除按钮之后](./screenshots/add2.png)
 
 ## 电影详情界面
-![点Details按钮（单表查询）](./screenshots/movie_details.png)
+![在movie界面下点Details按钮（单表查询）](./screenshots/movie_details.png)
+
+## 演员详情界面
+![在actor界面下点Details按钮（单表查询）](./screenshots/actor_details.png)
 
 ## 搜索电影
 ![输入电影名（的一部分）](./screenshots/search1.png)

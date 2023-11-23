@@ -244,6 +244,17 @@ def movie_details(movie_id):
     actors = movie.actors
     user = User.query.first() # 读取用户记录
     return render_template('movie_details.html', directors = directors, movie=movie, actors=actors,user=user)
+
+@app.route('/actor/details/<int:actor_id>', methods=['GET', 'POST'])
+def actor_details(actor_id):
+    actor = Actor.query.get_or_404(actor_id)
+    # 找到给定演员主演的电影
+    movies_actor = db.session.query(Movie).join(movie_actor_association).filter(movie_actor_association.c.actor_id == actor_id).all()
+    # 找到给定演员导演过的电影
+    movies_director = db.session.query(Movie).join(movie_director_association).filter(movie_director_association.c.actor_id == actor_id).all()
+    user = User.query.first() # 读取用户记录
+    return render_template('actor_details.html',  movies_director = movies_director, movies_actor=movies_actor, actor=actor,user=user)
+
 @app.route('/actor/edit/<int:actor_id>', methods=['GET', 'POST'])
 @login_required
 def edit_actor(actor_id):
@@ -389,7 +400,7 @@ def add_movie():
     # print(f"Movie '{new_movie.movie_name}' has been added with ID {new_movie.movie_id}.")
     return redirect(url_for('index'))  # 重定向到主页
 
-@app.route('/search', methods=['GET'])
+@app.route('/search_movie', methods=['GET'])
 def search_movie():
     keyword = request.args.get('keyword', '')
 
