@@ -42,8 +42,8 @@
 ![点新建按钮之后](./screenshots/add2.png)
 
 同理，也可以新增演员
-![输入演员信息点添加钮之后](./screenshots/add_acotr1.png)
-![点新建按钮之后之后](./screenshots/add_acotr2.png)
+![输入演员信息点添加钮之后](./screenshots/add_actor1.png)
+![点新建按钮之后之后](./screenshots/add_actor2.png)
 ## 电影详情界面
 ![在movie界面下点Details按钮（单表查询）](./screenshots/movie_details.png)
 
