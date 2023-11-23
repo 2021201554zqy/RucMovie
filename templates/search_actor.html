@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block content %}
+<p>Search results for "{{ keyword }}": {{ actors_searched|length }} Titles</p>
+
+<ul class="movie-list">
+    {% for actor in actors_searched %}
+    <li>{{ actor.actor_name }} - {{ actor.gender }} - {{actor.country}}
+		<span class="float-right">
+			{% if current_user.is_authenticated %}
+				<a class="btn" href="{{ url_for('actor_details', actor_id=actor.actor_id) }}">Details</a>
+				<a class="btn" href="{{ url_for('edit_actor', actor_id=actor.actor_id) }}">Edit</a>
+				<form class="inline-form" method="post" action="{{ url_for('.delete_actor', actor_id=actor.actor_id) }}">
+					<input class="btn" type="submit" name="delete" value="Delete" onclick="return confirm('Are you sure?')">
+				</form>
+			{% endif %}
+			<a class="imdb" href="https://www.imdb.com/find?q={{actor.actor_name }}" target="_blank" title="Find this actor on IMDb">IMDb</a>
+		</span>
+	</li>
+    {% endfor %}
+</ul>
+
+<img alt="Walking Totoro" class="totoro" src="{{ url_for('static', filename='images/totoro.png') }}" title="to~to~ro~">
+
+{% endblock %}

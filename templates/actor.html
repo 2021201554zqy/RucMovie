@@ -2,13 +2,17 @@
 {% block content %}
 <p>{{ actors|length }} Titles</p>
 	{% if current_user.is_authenticated %}
-	<form method="post">
+	<form method="post" action="{{ url_for('add_actor') }}">
     		Name <input type="text" name="title" autocomplete="off" required>
     		Gender <input type="text" name="gender" autocomplete="off" required>
 			Country <input type="text" name="country" autocomplete="off" required>
     		<input class="btn" type="submit" name="submit" value="Add">
 	</form>
 	{% endif %}
+<form method="get" action="{{ url_for('search_actor') }}">
+	Search Actors: <input type="text" name="keyword" autocomplete="off" required>
+	<input class="btn" type="submit" value="Search">
+</form>
 <ul class="movie-list">
 	{% for actor in actors %}
 	<li>{{ actor.actor_name }} - {{ actor.gender }} - {{actor.country}}

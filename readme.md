@@ -37,20 +37,24 @@
 ![点删除按钮之后](./screenshots/delete.png)
 ![哪吒已删的效果](./screenshots/delete2.png)
 
-### 增加新电影
+### 新增内容功能
 ![输入电影信息点添加钮之后](./screenshots/add1.png)
-![点删除按钮之后](./screenshots/add2.png)
+![点新建按钮之后](./screenshots/add2.png)
 
+同理，也可以新增演员
+![输入演员信息点添加钮之后](./screenshots/add_acotr1.png)
+![点新建按钮之后之后](./screenshots/add_acotr2.png)
 ## 电影详情界面
 ![在movie界面下点Details按钮（单表查询）](./screenshots/movie_details.png)
 
 ## 演员详情界面
 ![在actor界面下点Details按钮（单表查询）](./screenshots/actor_details.png)
 
-## 搜索电影
+## 搜索功能
 ![输入电影名（的一部分）](./screenshots/search1.png)
 ![点击搜索后（出现包含输入字符的部分）](./screenshots/search2.png)
-
+同理，也可以搜索演员
+![输入演员名（的一部分）](./screenshots/search_actor1.png)
 ### 设置状态
 ![改变用户名等](./screenshots/settings.png)
 

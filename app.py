@@ -76,7 +76,10 @@ class Actor(db.Model):
     
     movie_actors = db.relationship('Movie', secondary=movie_actor_association)
     movie_directs = db.relationship('Movie', secondary=movie_director_association)
-    
+    def __init__(self, actor_name, gender, country):
+        self.actor_name = actor_name
+        self.gender = gender
+        self.country = country   
     def __repr__(self):
         return f'<Actor {self.actor_name}>'    
     
@@ -400,6 +403,20 @@ def add_movie():
     # print(f"Movie '{new_movie.movie_name}' has been added with ID {new_movie.movie_id}.")
     return redirect(url_for('index'))  # 重定向到主页
 
+
+@app.route('/add_actor', methods=['POST'])
+def add_actor():
+    title = request.form['title']
+    gender = request.form['gender']
+    country= request.form['country']
+
+    new_actor = Actor(title, gender,country)   
+    db.session.add(new_actor)
+    db.session.commit()
+
+    # print(f"Movie '{new_movie.movie_name}' has been added with ID {new_movie.movie_id}.")
+    return redirect(url_for('actor'))  # 重定向到主页
+
 @app.route('/search_movie', methods=['GET'])
 def search_movie():
     keyword = request.args.get('keyword', '')
@@ -408,3 +425,13 @@ def search_movie():
     movies_searched = Movie.query.filter(Movie.movie_name.ilike(f'%{keyword}%')).all()
     user = User.query.first() # 读取用户记录
     return render_template('search_movie.html', keyword=keyword,movies_searched=movies_searched,user = user)
+
+@app.route('/search_actor', methods=['GET'])
+def search_actor():
+    keyword = request.args.get('keyword', '')
+
+    # 使用 ilike 进行模糊查询
+    actors_searched = Actor.query.filter(Actor.actor_name.ilike(f'%{keyword}%')).all()
+    print(actors_searched)
+    user = User.query.first() # 读取用户记录
+    return render_template('search_actor.html', keyword=keyword,actors_searched=actors_searched,user = user)
