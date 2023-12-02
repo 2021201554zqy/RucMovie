@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<form method="get" action="{{ url_for('condition_search_movie') }}">
+    Genre:
+    <select id="movie-type-genre" name="movie_type_genre" multiple = "multiple">
+		<option value=999>无</option>
+        <option value="动画">动画</option>
+        <option value="战争">战争</option>
+        <option value="科幻">科幻</option>
+        <option value="喜剧">喜剧</option>
+        <option value="剧情">剧情</option>
+        <option value="动作">动作</option>
+    </select>
+    
+    Country:
+    <select multiple id="movie-type-country" name="movie_type_country">
+        <option value="中国">中国</option>
+        <option value="美国">美国</option>
+    </select>
+    
+    Release Year: <input type="text" name="release_year" autocomplete="off">
+    <input class="btn" type="submit" value="Find">
+</form>
+<p>Search results : {{ movies_searched|length }} Titles</p>
+
+<ul class="movie-list">
+    {% for movie in movies_searched %}
+    <li>{{ movie.movie_name }} - {{ movie.release_year }}
+		<span class="float-right">
+			{% if current_user.is_authenticated %}
+				<a class="btn" href="{{ url_for('movie_details', movie_id=movie.movie_id) }}">Details</a>
+				<a class="btn" href="{{ url_for('edit', movie_id=movie.movie_id) }}">Edit</a>
+				<form class="inline-form" method="post" action="{{ url_for('.delete', movie_id=movie.movie_id) }}">
+					<input class="btn" type="submit" name="delete" value="Delete" onclick="return confirm('Are you sure?')">
+				</form>
+			{% endif %}
+			<a class="imdb" href="https://www.imdb.com/find?q={{movie.title }}" target="_blank" title="Find this movie on IMDb">IMDb</a>
+		</span>
+	</li>
+    {% endfor %}
+</ul>
+
+<img alt="Walking Totoro" class="totoro" src="{{ url_for('static', filename='images/totoro.png') }}" title="to~to~ro~">
+
+{% endblock %}

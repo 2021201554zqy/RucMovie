@@ -12,6 +12,8 @@ from flask_login import UserMixin
 from flask_login import login_user
 from flask_login import login_required, logout_user
 from flask_login import login_required, current_user
+from flask import Flask, render_template, request
+from sqlalchemy import or_, and_, func
 
 import os
 import sys
@@ -420,11 +422,42 @@ def add_actor():
 @app.route('/search_movie', methods=['GET'])
 def search_movie():
     keyword = request.args.get('keyword', '')
-
+    print("!!!!!")
     # 使用 ilike 进行模糊查询
     movies_searched = Movie.query.filter(Movie.movie_name.ilike(f'%{keyword}%')).all()
+    # movie_type = request.args.get('movie_type',)
+    # print(movie_type)
     user = User.query.first() # 读取用户记录
     return render_template('search_movie.html', keyword=keyword,movies_searched=movies_searched,user = user)
+
+@app.route('/condition_search_movie', methods=['GET'])
+def condition_search_movie():
+    genre = request.args.getlist('movie_type_genre')
+    print(genre)
+    country = request.args.getlist('movie_type_country')
+    release_year = request.args.get('release_year', '')
+
+    # Build the filter conditions using in_ for genre and country, and ilike for release year
+    filter_conditions = or_()
+    if genre and '999' not in genre:
+        filter_conditions &= Movie.movie_type.in_(genre)
+    if country:
+        filter_conditions &= Movie.country.in_(country)
+    if release_year:
+        filter_conditions &= Movie.release_year.ilike(f'%{release_year}%')
+
+    # Use filter to apply the conditions and retrieve the matching movies
+    movies_searched = Movie.query.filter(filter_conditions).all()
+
+    # Print the filter conditions and selected values for debugging
+    print(f"Filter Conditions: {filter_conditions}")
+    print(f"Selected Genre: {genre}")
+    print(f"Selected Country: {country}")
+    print(f"Selected Release Year: {release_year}")
+
+    user = User.query.first()  # Read user record
+    return render_template('condition_search_movie.html', movies_searched=movies_searched, user=user)
+
 
 @app.route('/search_actor', methods=['GET'])
 def search_actor():
