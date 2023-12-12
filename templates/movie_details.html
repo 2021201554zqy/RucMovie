@@ -1,17 +1,17 @@
 {% extends 'base.html' %}
 
 {% block content %}
-  <h3>{{ movie.title }}</h3>
+  <h3>{{movie.title }}</h3>
   <p>Release Date: {{ movie.release_date }}</p>
   <p>Type: {{ movie.movie_type }}</p>
   <p>Country: {{ movie.country }}</p>
+  <p>Movie Box: {{ movie_box }}</p>
   <h4>Directors:</h4>
   <ul class="movie-list">
     {% for director in directors %}
       <li>{{ director.actor_name }}</li>
     {% endfor %}
   </ul>
-  
   <h4>Actors:</h4>
   <ul class="movie-list">
     {% for actor in actors %}

@@ -1,6 +1,7 @@
 from flask import Flask, render_template
 from markupsafe import escape
-
+from collections import defaultdict
+import pandas as pd
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import text
 from sqlalchemy.sql import func
@@ -14,7 +15,9 @@ from flask_login import login_required, logout_user
 from flask_login import login_required, current_user
 from flask import Flask, render_template, request
 from sqlalchemy import or_, and_, func
-
+# from douban import blueprint_douban
+from helpers.echarts import hbar_option
+# from box_analysis import blueprint_box
 import os
 import sys
 import click
@@ -22,6 +25,9 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(app.root_path, 'movie.db')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False 
 app.config['SECRET_KEY'] = 'dev' # 等同于 app.secret_key = 'dev'
+# app.register_blueprint(blueprint_douban, url_prefix='/douban')
+# app.register_blueprint(blueprint_box, url_prefix='/box')
+
 # app.app_context().push()
 
 db = SQLAlchemy(app)
@@ -116,9 +122,10 @@ class User(db.Model,UserMixin):
 
 
 # 在执行数据库查询之前手动推送应用上下文
-with app.app_context():
-    movies = Movie.query.all()
-    actors = Actor.query.all()
+# with app.app_context():
+app.app_context().push()
+movies = Movie.query.all()
+actors = Actor.query.all()
 
 @app.cli.command()
 @click.option('--username', prompt=True, help='The username usedto login.')
@@ -247,8 +254,13 @@ def movie_details(movie_id):
     # actors = get_actors_by_movie_id(movie_id)
     directors = movie.directors
     actors = movie.actors
+    result = db.session.query(Movie.movie_id, Movie.movie_name, MovieBox.movie_box) \
+    .join(MovieBox, Movie.movie_id == MovieBox.movie_id) \
+    .filter(Movie.movie_id == 1016) \
+    .first()
+    movie_id, movie_name, movie_box = result
     user = User.query.first() # 读取用户记录
-    return render_template('movie_details.html', directors = directors, movie=movie, actors=actors,user=user)
+    return render_template('movie_details.html', directors = directors, movie=movie, actors=actors,user=user, movie_box = movie_box)
 
 @app.route('/actor/details/<int:actor_id>', methods=['GET', 'POST'])
 def actor_details(actor_id):
@@ -263,6 +275,26 @@ def actor_details(actor_id):
 @app.route('/actor/edit/<int:actor_id>', methods=['GET', 'POST'])
 @login_required
 def edit_actor(actor_id):
+     # movie = Movie.query.filter_by(movie_id=movie_id)
+    # movie = Movie.query.get_or_404(movie_id)
+   
+    
+    # if request.method == 'POST':  # 处理编辑表单的提交请求
+    #     title = request.form['title']
+    #     year = request.form['year']
+
+    #     if not title or not year or len(year) != 4 or len(title) > 60:
+    #         flash('Invalid input.')
+    #         return redirect(url_for('edit', movie_id=movie_id))  # 重定向回对应的编辑页面
+    #       # 解除与 MovieBox 的关联关系
+    #     if movie.moviebox:
+    #         movie.movie_name = title  # 更新标题
+    #         movie.release_year = year  # 更新年份
+    #     db.session.commit()  # 提交数据库会话
+    #     flash('Item updated.')
+    #     return redirect(url_for('index'))  # 重定向回主页
+    # user = User.query.first() # 读取用户记录
+
     actor = Actor.query.get_or_404(actor_id)
     
     if request.method == 'POST':  # 处理编辑表单的提交请求
@@ -276,9 +308,12 @@ def edit_actor(actor_id):
         # if movie.moviebox:
         #     movie.movie_name = title  # 更新标题
         #     movie.release_year = year  # 更新年份
+        actor.actor_name = title
+        actor.gender = gender
+        actor.country = country
         db.session.commit()  # 提交数据库会话
         flash('Item updated.')
-        return redirect(url_for('index'))  # 重定向回主页
+        return redirect(url_for('actor'))  # 重定向回主页
     user = User.query.first() # 读取用户记录
     return render_template('edit_actor.html', actor=actor,user=user)  # 传入被编辑的电影记录
 
@@ -422,7 +457,7 @@ def add_actor():
 @app.route('/search_movie', methods=['GET'])
 def search_movie():
     keyword = request.args.get('keyword', '')
-    print("!!!!!")
+    # print("!!!!!")
     # 使用 ilike 进行模糊查询
     movies_searched = Movie.query.filter(Movie.movie_name.ilike(f'%{keyword}%')).all()
     # movie_type = request.args.get('movie_type',)
@@ -433,7 +468,7 @@ def search_movie():
 @app.route('/condition_search_movie', methods=['GET'])
 def condition_search_movie():
     genre = request.args.getlist('movie_type_genre')
-    print(genre)
+    # print(genre)
     country = request.args.getlist('movie_type_country')
     release_year = request.args.get('release_year', '')
 
@@ -441,9 +476,9 @@ def condition_search_movie():
     filter_conditions = or_()
     if genre and '999' not in genre:
         filter_conditions &= Movie.movie_type.in_(genre)
-    if country:
+    if country and '999' not in country:
         filter_conditions &= Movie.country.in_(country)
-    if release_year:
+    if release_year and len(release_year)==4:
         filter_conditions &= Movie.release_year.ilike(f'%{release_year}%')
 
     # Use filter to apply the conditions and retrieve the matching movies
@@ -457,8 +492,29 @@ def condition_search_movie():
 
     user = User.query.first()  # Read user record
     return render_template('condition_search_movie.html', movies_searched=movies_searched, user=user)
+@app.route('/condition_search_actor', methods=['GET'])
+def condition_search_actor():
+    gender = request.args.getlist('actor_gender')
+    # print(gender)
+    country = request.args.getlist('actor_country')
 
+    # Build the filter conditions using in_ for genre and country, and ilike for release year
+    filter_conditions = or_()
+    if gender and '999' not in gender:
+        filter_conditions &= Actor.gender.in_(gender)
+    if country and '999' not in country:
+        filter_conditions &= Actor.country.in_(country)
 
+    # Use filter to apply the conditions and retrieve the matching movies
+    actors_searched = Actor.query.filter(filter_conditions).all()
+
+    # Print the filter conditions and selected values for debugging
+    print(f"Filter Conditions: {filter_conditions}")
+    print(f"Selected Genre: {gender}")
+    print(f"Selected Country: {country}")
+
+    user = User.query.first()  # Read user record
+    return render_template('condition_search_actor.html', actors_searched=actors_searched, user=user)
 @app.route('/search_actor', methods=['GET'])
 def search_actor():
     keyword = request.args.get('keyword', '')
@@ -468,3 +524,177 @@ def search_actor():
     print(actors_searched)
     user = User.query.first() # 读取用户记录
     return render_template('search_actor.html', keyword=keyword,actors_searched=actors_searched,user = user)
+
+@app.route('/box-movie-all')
+def box_movie():
+    movies = Movie.query.all()
+    data = [[movie.movie_id, movie.movie_name, movie.country, movie.release_year,
+     movie.movie_type, movie.moviebox.movie_box] 
+    for movie in movies]
+    vars = dict(data = data, ensure_ascii=True)
+    user = User.query.first() # 读取用户记录
+    return render_template('box/movie_list.html', vars=vars, user=user)
+@app.route('/box-movie-top10')
+def  box_top10():
+    data=[[movie.movie_id, movie.movie_name, movie.country, movie.release_year,movie.movie_type, movie.moviebox.movie_box] for movie in movies]
+    df_movie=pd.DataFrame(data,columns=['movie_id', 'movie_name', 'country', 'release_year','movie_type', 'movie_box'])
+    vars = {}
+    # data = df_movie.sort_values('movie_box', ascending=False)[:10]
+    # vars['echart_all'] = hbar_option("全部电影票房榜", data.movie_name.tolist(), data['movie_box'].tolist())
+    df1=df_movie.loc[:,['movie_name','movie_box']].set_index('movie_name').sort_values('movie_box', ascending=False)[:10]
+    vars['echart_all'] = hbar_option("全部票房榜", df1.index.values.tolist(), df1['movie_box'].values.tolist())
+    data = df_movie.groupby('movie_type')['movie_box'].mean().sort_values(ascending=False)[:10]
+    vars['echart_type'] = hbar_option("按类型划分电影票房榜", data.index.values.tolist(), data.values.tolist())
+    data = df_movie.groupby('release_year')['movie_box'].mean().sort_values(ascending=False)[:10]
+    vars['echart_year'] = hbar_option("按年份电影票房榜", data.index.values.tolist(), data.values.tolist())
+
+    user = User.query.first() # 读取用户记录
+    return render_template('box/movie_top10.html', vars=vars,user=user)
+
+@app.route('/actor-box')
+def box_actor():
+    actors = Actor.query.all()
+    actor_box_office_query1 = db.session.query(
+        Actor.actor_id,
+        Actor.actor_name,
+        Actor.country,
+        Actor.gender,
+        func.sum(MovieBox.movie_box).label('total_box_office'),
+        func.avg(MovieBox.movie_box).label('average_box_office'),
+        func.max(MovieBox.movie_box).label('max_box_office')
+    ).join(
+        movie_actor_association,
+        Actor.actor_id == movie_actor_association.c.actor_id
+    ).join(
+        MovieBox,
+        MovieBox.movie_id == movie_actor_association.c.movie_id
+    ).group_by(
+        Actor.actor_id
+    ).all()
+
+    # Create a list with actor attributes
+    actor_data = [
+        [actor.actor_name, actor.gender, actor.country, actor.total_box_office, actor.average_box_office, actor.max_box_office]
+        for actor in actor_box_office_query1
+    ]
+
+    vars = dict(data = actor_data, ensure_ascii=True)
+    user = User.query.first() # 读取用户记录
+    return render_template('box/actor_list.html', vars=vars,user=user)
+
+@app.route('/actor-box-top10')
+def  actor_box_top10():
+    actors = Actor.query.all()
+    actor_box_office_query1 = db.session.query(
+        Actor.actor_id,
+        Actor.actor_name,
+        Actor.country,
+        Actor.gender,
+        func.sum(MovieBox.movie_box).label('total_box_office'),
+        func.avg(MovieBox.movie_box).label('average_box_office'),
+        func.max(MovieBox.movie_box).label('max_box_office')
+    ).join(
+        movie_actor_association,
+        Actor.actor_id == movie_actor_association.c.actor_id
+    ).join(
+        MovieBox,
+        MovieBox.movie_id == movie_actor_association.c.movie_id
+    ).group_by(
+        Actor.actor_id
+    ).all()
+
+    # Create a list with actor attributes
+    actor_data = [
+        [actor.actor_name, actor.gender, actor.country, actor.total_box_office, actor.average_box_office, actor.max_box_office]
+        for actor in actor_box_office_query1
+    ]
+    df_actors=pd.DataFrame(actor_data,columns=['actor_name', 'gender', 'country', 'total_box_office', 'average_box_office', 'max_box_office'])
+    vars = {}
+    # data = df_movie.sort_values('movie_box', ascending=False)[:10]
+    # vars['echart_all'] = hbar_option("全部电影票房榜", data.movie_name.tolist(), data['movie_box'].tolist())
+    df1=df_actors.loc[:,['actor_name','total_box_office']].set_index('actor_name').sort_values('total_box_office', ascending=False)[:10]
+    vars['echart_sum'] = hbar_option("总票房榜", df1.index.values.tolist(), df1['total_box_office'].values.tolist())
+    df2=df_actors.loc[:,['actor_name','average_box_office']].set_index('actor_name').sort_values('average_box_office', ascending=False)[:10]
+    vars['echart_avg'] = hbar_option("最大票房榜", df2.index.values.tolist(), df2['average_box_office'].values.tolist())
+    df3=df_actors.loc[:,['actor_name','max_box_office']].set_index('actor_name').sort_values('max_box_office', ascending=False)[:10]
+    vars['echart_max'] = hbar_option("平均票房榜", df3.index.values.tolist(), df3['max_box_office'].values.tolist())
+    # app.logger.info(vars)
+    user = User.query.first() # 读取用户记录
+    return render_template('box/actor_top10.html', vars=vars,user=user)
+
+
+@app.route('/box-predict')
+def box_predict():
+    movies = Movie.query.all()
+    data = [[movie.movie_id, movie.movie_name, movie.country, movie.release_year,
+     movie.movie_type, movie.moviebox.movie_box] 
+    for movie in movies]
+    df_movie=pd.DataFrame(data,columns=['movie_id', 'movie_name', 'country', 'release_year','movie_type', 'movie_box'])
+    data_type = df_movie.groupby('movie_type')['movie_box'].mean()
+    data_year = df_movie.groupby('release_year')['movie_box'].mean()
+    data_country = df_movie.groupby('country')['movie_box'].mean()
+    actors = Actor.query.all()
+    actor_box_office_query1 = db.session.query(
+        Actor.actor_id,
+        Actor.actor_name,
+        Actor.country,
+        Actor.gender,
+        func.avg(MovieBox.movie_box).label('average_box_office')
+    ).join(
+        movie_actor_association,
+        Actor.actor_id == movie_actor_association.c.actor_id
+    ).join(
+        MovieBox,
+        MovieBox.movie_id == movie_actor_association.c.movie_id
+    ).group_by(
+        Actor.actor_id
+    ).all()
+
+    # Create a list with actor attributes
+    actor_data = [
+        [actor.actor_id, actor.average_box_office]
+        for actor in actor_box_office_query1
+    ]
+    # Iterate through each movie and match the average box office for the corresponding type, year, country, and actors
+    movie_data=[]
+    for movie in movies:
+        avg_type_box_office = data_type.get(movie.movie_type, 0)
+        avg_year_box_office = data_year.get(movie.release_year, 0)
+        avg_country_box_office = data_country.get(movie.country, 0)
+
+        # Calculate the average actor box office for the given movie
+        avg_actor_box_office = 0
+        actor_count = 0
+        for actor in actor_data:
+            actor_id, actor_avg_box_office = actor  # Unpack the actor data
+            # Check if the movie is associated with the actor (you might need to adjust this based on your data structure)
+            if db.session.query(movie_actor_association).filter_by(actor_id=actor_id, movie_id=movie.movie_id).first():
+                avg_actor_box_office += actor_avg_box_office
+                actor_count += 1
+
+        # Avoid division by zero
+        if actor_count > 0:
+            avg_actor_box_office /= actor_count
+
+        # Calculate the overall average box office for the movie
+        overall_avg_box_office = (avg_type_box_office + avg_year_box_office + avg_country_box_office + avg_actor_box_office) / 4
+
+        # Add the actual box office for the movie
+        actual_box_office = movie.moviebox.movie_box if movie.moviebox else 0
+
+        # Round the values to two decimal places
+        overall_avg_box_office = round(overall_avg_box_office, 2)
+        actual_box_office = round(actual_box_office, 2)
+        percentage_difference = ((actual_box_office - overall_avg_box_office) / actual_box_office) * 100
+
+    # Format the percentage as a string with a percentage sign
+        percentage_difference_str = f"{round(percentage_difference, 2)}%"
+        movie_data.append([movie.movie_id, movie.movie_name, overall_avg_box_office, actual_box_office, percentage_difference_str])
+
+
+# Now, `movie_data` contains the movie_id, movie_name, overall average box office, and actual box office for each movie
+
+
+    vars = dict(data = movie_data, ensure_ascii=True)
+    user = User.query.first() # 读取用户记录
+    return render_template('box/movie_predict.html', vars=vars, user=user) 

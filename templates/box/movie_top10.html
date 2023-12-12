@@ -1,0 +1,28 @@
+{% extends 'box/base.html' %}
+{% block content %}
+<section id="movie_rank">
+
+    <div class="row">
+        <div id="chart_rank_all" class="col-4 my-3" style="height:800px;"></div>
+        <div id="chart_rank_type" class="col-4 my-3" style="height:800px;"></div>
+        <div id="chart_rank_year" class="col-4 my-3" style="height:800px;"></div>
+    </div>
+
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+    // echarts ranking
+    var eChart_rank_main = echarts.init(document.getElementById('chart_rank_all'));
+    var option = {{ vars.echart_all | tojson | safe  }}
+    eChart_rank_main.setOption(option);
+
+    var eChart_rank_main = echarts.init(document.getElementById('chart_rank_type'));
+    var option = {{ vars.echart_type | tojson | safe  }}
+    eChart_rank_main.setOption(option);
+
+    var eChart_rank_oversea = echarts.init(document.getElementById('chart_rank_year'));
+    var option = {{ vars.echart_year | tojson | safe  }}
+    eChart_rank_oversea.setOption(option);
+</script>
+{% endblock %}

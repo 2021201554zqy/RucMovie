@@ -1,0 +1,605 @@
+movie_id,title,douban_url,poster,导演,主演,类型,制片国家/地区,年份
+1292052,肖申克的救赎 The Shawshank Redemption,https://movie.douban.com/subject/1292052/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg,弗兰克·德拉邦特,蒂姆·罗宾斯/摩根·弗里曼/鲍勃·冈顿,犯罪/剧情,美国,1994
+1291546,霸王别姬,https://movie.douban.com/subject/1291546/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg,陈凯歌,张国荣/张丰毅/巩俐,剧情/爱情/同性,中国大陆/中国香港,1993
+1292063,美丽人生 La vita è bella,https://movie.douban.com/subject/1292063/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg,罗伯托·贝尼尼,罗伯托·贝尼尼/尼可莱塔·布拉斯基/乔治·坎塔里尼,剧情/喜剧/爱情/战争,意大利,1997
+1295124,辛德勒的名单 Schindler's List,https://movie.douban.com/subject/1295124/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg,史蒂文·斯皮尔伯格,连姆·尼森/本·金斯利/拉尔夫·费因斯,剧情/历史/战争,美国,1993
+1296141,控方证人 Witness for the Prosecution,https://movie.douban.com/subject/1296141/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg,比利·怀尔德,泰隆·鲍华/玛琳·黛德丽/查尔斯·劳顿,剧情/犯罪/悬疑,美国,1957
+1292720,阿甘正传 Forrest Gump,https://movie.douban.com/subject/1292720/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg,罗伯特·泽米吉斯,汤姆·汉克斯/罗宾·怀特/加里·西尼斯,剧情/爱情,美国,1994
+1461403,茶馆,https://movie.douban.com/subject/1461403/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528965424.jpg,谢添,于是之/郑榕/蓝天野,剧情/历史,中国大陆,1982
+1307856,背靠背，脸对脸,https://movie.douban.com/subject/1307856/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505048077.jpg,黄建新/杨亚洲,牛振华/雷恪生/李强,剧情,中国大陆/中国香港,1994
+1422283,高山下的花环,https://movie.douban.com/subject/1422283/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319879389.jpg,谢晋,吕晓禾/唐国强/何伟,剧情/战争,中国大陆,1984
+1303408,福尔摩斯二世 Sherlock Jr.,https://movie.douban.com/subject/1303408/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2206737207.jpg,巴斯特·基顿,巴斯特·基顿/凯瑟琳·麦奎尔/乔·基顿,喜剧/动作/爱情,美国,1924
+1295644,这个杀手不太冷 Léon,https://movie.douban.com/subject/1295644/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg,吕克·贝松,让·雷诺/娜塔莉·波特曼/加里·奥德曼,剧情/动作/犯罪,法国/美国,1994
+1292722,泰坦尼克号 Titanic,https://movie.douban.com/subject/1292722/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg,詹姆斯·卡梅隆,莱昂纳多·迪卡普里奥/凯特·温丝莱特/比利·赞恩,剧情/爱情/灾难,美国/墨西哥,1997
+3541415,盗梦空间 Inception,https://movie.douban.com/subject/3541415/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg,克里斯托弗·诺兰,莱昂纳多·迪卡普里奥/约瑟夫·高登-莱维特/艾利奥特·佩吉,剧情/科幻/悬疑/冒险,美国/英国,2010
+1889243,星际穿越 Interstellar,https://movie.douban.com/subject/1889243/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg,克里斯托弗·诺兰,马修·麦康纳/安妮·海瑟薇/杰西卡·查斯坦,剧情/科幻/冒险,美国/英国/加拿大,2014
+3011091,忠犬八公的故事 Hachi: A Dog's Tale,https://movie.douban.com/subject/3011091/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.jpg,拉斯·霍尔斯道姆,理查·基尔/莎拉·罗默尔/琼·艾伦,剧情,美国/英国,2009
+1293182,十二怒汉 12 Angry Men,https://movie.douban.com/subject/1293182/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg,西德尼·吕美特,亨利·方达/马丁·鲍尔萨姆/约翰·菲德勒,剧情,美国,1957
+1291831,灿烂人生 La meglio gioventù,https://movie.douban.com/subject/1291831/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1161132422.jpg,马可·图利奥·吉奥达纳,路易吉·洛·卡肖/阿莱西奥·博尼/索尼娅·贝加马斯科,剧情/爱情/家庭,意大利,2003
+5294851,控方证人 Witness for the Prosecution,https://movie.douban.com/subject/5294851/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2367853261.jpg,艾伦·吉布森,拉尔夫·理查德森/黛博拉·蔻儿/博·布里奇斯,剧情/犯罪/悬疑,美国/英国,1982
+1304920,切腹,https://movie.douban.com/subject/1304920/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2151748293.jpg,小林正树,仲代达矢/石浜朗/岩下志麻,剧情/动作/悬疑,日本,1962
+1292001,海上钢琴师 La leggenda del pianista sull'oceano,https://movie.douban.com/subject/1292001/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574551676.jpg,朱塞佩·托纳多雷,蒂姆·罗斯/普路特·泰勒·文斯/比尔·努恩,剧情/音乐,意大利,1998
+1292064,楚门的世界 The Truman Show,https://movie.douban.com/subject/1292064/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg,彼得·威尔,金·凯瑞/劳拉·琳妮/艾德·哈里斯,剧情/科幻,美国,1998
+5912992,熔炉 도가니,https://movie.douban.com/subject/5912992/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg,黄东赫,孔刘/郑有美/金贤秀,剧情,韩国,2011
+1464526,横空出世,https://movie.douban.com/subject/1464526/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2681316033.jpg,陈国星,李雪健/李幼斌/高明,剧情/历史,中国大陆,1999
+1307914,无间道 無間道,https://movie.douban.com/subject/1307914/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg,刘伟强/麦兆辉,刘德华/梁朝伟/黄秋生,剧情/犯罪/惊悚,中国香港,2002
+1291549,放牛班的春天 Les choristes,https://movie.douban.com/subject/1291549/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg,克里斯托夫·巴哈蒂,让-巴蒂斯特·莫尼耶/热拉尔·朱尼奥/弗朗索瓦·贝莱昂,剧情/音乐,法国/瑞士/德国,2004
+6786002,触不可及 Intouchables,https://movie.douban.com/subject/6786002/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg,奥利维埃·纳卡什/埃里克·托莱达诺,弗朗索瓦·克鲁塞/奥玛·希/安娜·勒尼,剧情/喜剧,法国,2011
+1291841,教父 The Godfather,https://movie.douban.com/subject/1291841/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg,弗朗西斯·福特·科波拉,马龙·白兰度/阿尔·帕西诺/詹姆斯·肯恩,剧情/犯罪,美国,1972
+1293172,末代皇帝 The Last Emperor,https://movie.douban.com/subject/1293172/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg,贝纳尔多·贝托鲁奇,尊龙/陈冲/邬君梅,剧情/传记/历史,英国/意大利/中国大陆/法国,1987
+1292365,活着,https://movie.douban.com/subject/1292365/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597919477.jpg,张艺谋,葛优/巩俐/姜武,剧情/历史/家庭,中国大陆/中国香港,1994
+1291552,指环王3：王者无敌 The Lord of the Rings: The Return of the King,https://movie.douban.com/subject/1291552/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2642829472.jpg,彼得·杰克逊,伊利亚·伍德/西恩·奥斯汀/维果·莫腾森,剧情/动作/奇幻/冒险,美国/新西兰,2003
+1300267,乱世佳人 Gone with the Wind,https://movie.douban.com/subject/1300267/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg,维克多·弗莱明/乔治·库克/山姆·伍德,费雯·丽/克拉克·盖博/奥利维娅·德哈维兰,剧情/历史/爱情/战争,美国,1939
+21937452,素媛 소원,https://movie.douban.com/subject/21937452/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg,李濬益,薛景求/严志媛/李来,剧情,韩国,2013
+1291858,鬼子来了,https://movie.douban.com/subject/1291858/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg,姜文,姜文/香川照之/袁丁,剧情/喜剧,中国大陆,2000
+1296736,钢琴家 The Pianist,https://movie.douban.com/subject/1296736/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1381339291.jpg,罗曼·波兰斯基,阿德里安·布罗迪/托马斯·克莱舒曼/艾米莉娅·福克斯,剧情/传记/战争/音乐,英国/法国/波兰/德国,2002
+25958717,海蒂和爷爷 Heidi,https://movie.douban.com/subject/25958717/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg,阿兰·葛斯彭纳,阿努克·斯特芬/布鲁诺·冈茨/昆林·艾格匹,剧情/冒险/家庭,德国/瑞士,2015
+1299131,教父2 The Godfather: Part II,https://movie.douban.com/subject/1299131/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg,弗朗西斯·福特·科波拉,阿尔·帕西诺/罗伯特·杜瓦尔/黛安·基顿,剧情/犯罪,美国,1974
+1294371,摩登时代 Modern Times,https://movie.douban.com/subject/1294371/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg,查理·卓别林,查理·卓别林/宝莲·高黛/亨利·伯格曼,剧情/喜剧/爱情,美国,1936
+1295399,七武士 七人の侍,https://movie.douban.com/subject/1295399/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215886505.jpg,黑泽明,三船敏郎/志村乔/津岛惠子,动作/冒险/剧情,日本,1954
+1293908,城市之光 City Lights,https://movie.douban.com/subject/1293908/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2170238828.jpg,查理·卓别林,查理·卓别林/弗吉尼亚·切瑞尔/佛罗伦斯·李,喜剧/剧情/爱情,美国,1931
+1293749,生活多美好 It's a Wonderful Life,https://movie.douban.com/subject/1293749/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p771490367.jpg,弗兰克·卡普拉,詹姆斯·斯图尔特/唐娜·里德/莱昂纳尔·巴里摩尔,剧情/爱情/奇幻,美国,1946
+1303913,南海十三郎,https://movie.douban.com/subject/1303913/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578760496.jpg,高志森,谢君豪/潘灿良/苏玉华,剧情/传记/爱情,中国香港,1997
+4719384,哀乐中年 哀樂中年,https://movie.douban.com/subject/4719384/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2151942226.jpg,桑弧,石挥/朱嘉琛/沈扬,剧情/爱情/家庭,中国大陆,1949
+3793023,三傻大闹宝莱坞 3 Idiots,https://movie.douban.com/subject/3793023/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg,拉吉库马尔·希拉尼,阿米尔·汗/卡琳娜·卡普尔/马达范,剧情/喜剧/爱情/歌舞,印度,2009
+1292213,大话西游之大圣娶亲 西遊記大結局之仙履奇緣,https://movie.douban.com/subject/1292213/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg,刘镇伟,周星驰/吴孟达/朱茵,喜剧/爱情/奇幻/古装,中国香港/中国大陆,1995
+1849031,当幸福来敲门 The Pursuit of Happyness,https://movie.douban.com/subject/1849031/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614359276.jpg,加布里埃莱·穆奇诺,威尔·史密斯/贾登·史密斯/坦迪·牛顿,剧情/传记/家庭,美国,2006
+1851857,蝙蝠侠：黑暗骑士 The Dark Knight,https://movie.douban.com/subject/1851857/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg,克里斯托弗·诺兰,克里斯蒂安·贝尔/希斯·莱杰/艾伦·艾克哈特,剧情/动作/科幻/犯罪/惊悚,美国/英国,2008
+1291572,指环王2：双塔奇兵 The Lord of the Rings: The Two Towers,https://movie.douban.com/subject/1291572/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2640236255.jpg,彼得·杰克逊,伊利亚·伍德/西恩·奥斯汀/多米尼克·莫纳汉,剧情/动作/奇幻/冒险,美国/新西兰,2002
+1291548,死亡诗社 Dead Poets Society,https://movie.douban.com/subject/1291548/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg,彼得·威尔,罗宾·威廉姆斯/罗伯特·肖恩·莱纳德/伊桑·霍克,剧情,美国,1989
+1291828,天堂电影院 Nuovo Cinema Paradiso,https://movie.douban.com/subject/1291828/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2653054340.jpg,朱塞佩·托纳多雷,菲利普·努瓦雷/萨瓦特利·卡西欧/雅克·贝汉,剧情/爱情,意大利/法国,1988
+1291818,饮食男女 飲食男女,https://movie.douban.com/subject/1291818/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg,李安,郎雄/杨贵媚/吴倩莲,剧情/家庭,中国台湾/美国,1994
+21937445,辩护人 변호인,https://movie.douban.com/subject/21937445/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg,杨宇硕,宋康昊/金英爱/吴达洙,剧情,韩国,2013
+1900841,窃听风暴 Das Leben der Anderen,https://movie.douban.com/subject/1900841/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg,弗洛里安·亨克尔·冯·多纳斯马尔克,乌尔里希·穆埃/马蒂娜·格德克/塞巴斯蒂安·科赫,剧情/悬疑,德国,2006
+3008247,穿条纹睡衣的男孩 The Boy in the Striped Pajamas,https://movie.douban.com/subject/3008247/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg,马克·赫尔曼,阿萨·巴特菲尔德/维拉·法米加/卡拉·霍根,剧情/战争,英国/美国,2008
+1292262,美国往事 Once Upon a Time in America,https://movie.douban.com/subject/1292262/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg,赛尔乔·莱昂内,罗伯特·德尼罗/詹姆斯·伍兹/伊丽莎白·麦戈文,犯罪/剧情,美国/意大利,1984
+1303021,小鞋子 بچه های آسمان,https://movie.douban.com/subject/1303021/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg,马基德·马基迪,默罕默德·阿米尔·纳吉/法拉赫阿米尔·哈什米安/巴哈丽·西迪奇,剧情/儿童/家庭,伊朗,1997
+1959195,忠犬八公物语 ハチ公物語,https://movie.douban.com/subject/1959195/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2603716224.jpg,神山征二郎,仲代达矢/八千草薰/柳叶敏郎,剧情,日本,1987
+1297880,芙蓉镇,https://movie.douban.com/subject/1297880/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2174804034.jpg,谢晋,刘晓庆/姜文/郑在石,剧情/爱情,中国大陆,1987
+1401118,"黄金三镖客 Il buono, il brutto, il cattivo",https://movie.douban.com/subject/1401118/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178150710.jpg,赛尔乔·莱昂内,克林特·伊斯特伍德/埃里·瓦拉赫/李·范·克里夫,冒险/西部,意大利/西班牙/西德,1966
+1769507,沉静如海 Le silence de la mer,https://movie.douban.com/subject/1769507/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p541622159.jpg,皮埃尔·布特龙,朱莉·德拉姆/米歇尔·加拉布吕/托马斯·儒阿特,剧情/爱情/战争,法国/比利时,2004
+1295646,大独裁者 The Great Dictator,https://movie.douban.com/subject/1295646/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1960167314.jpg,查理·卓别林,查理·卓别林/宝莲·高黛/杰克·奥克,喜剧/剧情/战争,美国,1940
+4860078,无间道(正序版),https://movie.douban.com/subject/4860078/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2236103938.jpg,刘伟强/麦兆辉,刘德华/梁朝伟/黎明,剧情/犯罪,中国香港,2006
+1292206,地下 Подземље,https://movie.douban.com/subject/1292206/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1833776334.jpg,埃米尔·库斯图里卡,米基·马诺伊洛维奇/拉扎尔·里斯托夫斯基/米里亚娜·约科维奇,剧情/战争,南斯拉夫/法国/德国/保加利亚/捷克/匈牙利/英国/美国,1995
+1298817,淘金记 The Gold Rush,https://movie.douban.com/subject/1298817/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1581774481.jpg,查理·卓别林,查理·卓别林/马克·斯旺/汤姆·默里,喜剧/爱情/西部/冒险,美国,1925
+1424334,洞 Le trou,https://movie.douban.com/subject/1424334/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497389079.jpg,雅克·贝克,马克·米歇尔/吉恩·凯乐蒂/菲利普·勒鲁瓦,犯罪/剧情/惊悚,法国/意大利,1960
+1303418,你逃我也逃 To Be or Not to Be,https://movie.douban.com/subject/1303418/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1339915772.jpg,恩斯特·刘别谦,卡洛·朗白/杰克·本尼/罗伯特·斯塔克,喜剧/爱情/战争,美国,1942
+1293270,寻子遇仙记 The Kid,https://movie.douban.com/subject/1293270/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506524685.jpg,查理·卓别林,查理·卓别林/卡尔米勒/艾德娜·珀薇安丝,剧情/喜剧/家庭,美国,1921
+1418076,天堂回信,https://movie.douban.com/subject/1418076/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869825054.jpg,王君正,石晨/李丁/肖雄,剧情/儿童,中国大陆,1992
+1293847,生之欲 生きる,https://movie.douban.com/subject/1293847/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215888214.jpg,黑泽明,志村乔/日守新一/田中春男,剧情,日本,1952
+1293989,十二怒汉 12 Angry Men,https://movie.douban.com/subject/1293989/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2337734157.jpg,威廉·弗莱德金,考特尼·万斯/奥西·戴维斯/乔治·C·斯科特,剧情/犯罪,美国,1997
+1299628,马戏团 The Circus,https://movie.douban.com/subject/1299628/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1959764913.jpg,查理·卓别林,查理·卓别林/阿尔·欧内斯特·加西亚/梅尔纳·肯尼迪,喜剧/爱情,美国,1928
+1298944,无言的山丘 無言的山丘,https://movie.douban.com/subject/1298944/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522310203.jpg,王童,杨贵媚/黄品源/澎恰恰,剧情/历史,中国台湾,1992
+1301026,革命往事 Giù la testa,https://movie.douban.com/subject/1301026/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2133349777.jpg,赛尔乔·莱昂内,罗德·斯泰格尔/詹姆斯·柯本/罗慕洛·瓦利,冒险/战争/西部,意大利,1971
+3097352,剃头匠,https://movie.douban.com/subject/3097352/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2190291916.jpg,哈斯朝鲁,靖奎,剧情/传记,中国大陆,2006
+3319755,怦然心动 Flipped,https://movie.douban.com/subject/3319755/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg,罗伯·莱纳,玛德琳·卡罗尔/卡兰·麦克奥利菲/瑞贝卡·德·莫妮,剧情/喜剧/爱情,美国,2010
+1929463,少年派的奇幻漂流 Life of Pi,https://movie.douban.com/subject/1929463/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg,李安,苏拉·沙玛/伊尔凡·可汗/拉菲·斯波,剧情/奇幻/冒险,美国/中国台湾/英国/加拿大,2012
+30170448,何以为家 كفرناحوم,https://movie.douban.com/subject/30170448/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg,娜丁·拉巴基,赞恩·阿尔·拉菲亚/约丹诺斯·希费罗/博鲁瓦蒂夫·特雷杰·班科尔,剧情,黎巴嫩/美国/法国/塞浦路斯/卡塔尔/英国,2018
+1293839,罗马假日 Roman Holiday,https://movie.douban.com/subject/1293839/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg,威廉·惠勒,奥黛丽·赫本/格利高里·派克/埃迪·艾伯特,喜剧/剧情/爱情,美国,1953
+1298624,闻香识女人 Scent of a Woman,https://movie.douban.com/subject/1298624/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg,马丁·布莱斯特,阿尔·帕西诺/克里斯·奥唐纳/詹姆斯·瑞布霍恩,剧情,美国,1992
+1291571,指环王1：护戒使者 The Lord of the Rings: The Fellowship of the Ring,https://movie.douban.com/subject/1291571/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2197698335.jpg,彼得·杰克逊,伊利亚·伍德/西恩·奥斯汀/伊恩·麦克莱恩,剧情/动作/奇幻/冒险,新西兰/美国,2001
+1291843,黑客帝国 The Matrix,https://movie.douban.com/subject/1291843/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg,莉莉·沃卓斯基/拉娜·沃卓斯基,基努·里维斯/劳伦斯·菲什伯恩/凯瑞-安·莫斯,动作/科幻,美国,1999
+1306029,美丽心灵 A Beautiful Mind,https://movie.douban.com/subject/1306029/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg,朗·霍华德,罗素·克劳/艾德·哈里斯/詹妮弗·康纳利,传记/剧情,美国,2001
+1292849,拯救大兵瑞恩 Saving Private Ryan,https://movie.douban.com/subject/1292849/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg,史蒂文·斯皮尔伯格,汤姆·汉克斯/汤姆·塞兹摩尔/爱德华·伯恩斯,剧情/战争,美国,1998
+1294408,音乐之声 The Sound of Music,https://movie.douban.com/subject/1294408/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg,罗伯特·怀斯,朱莉·安德鲁斯/克里斯托弗·普卢默/埃琳诺·帕克,剧情/传记/爱情/歌舞,美国,1965
+1293350,"两杆大烟枪 Lock, Stock and Two Smoking Barrels",https://movie.douban.com/subject/1293350/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg,盖·里奇,杰森·弗莱明/德克斯特·弗莱彻/尼克·莫兰,剧情/喜剧/犯罪,英国,1998
+1292224,飞越疯人院 One Flew Over the Cuckoo's Nest,https://movie.douban.com/subject/1292224/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg,米洛斯·福尔曼,杰克·尼科尔森/丹尼·德维托/克里斯托弗·洛伊德,剧情,美国,1975
+6985810,狩猎 Jagten,https://movie.douban.com/subject/6985810/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg,托马斯·温特伯格,麦斯·米科尔森/托玛斯·博·拉森/安妮卡·韦德科普,剧情,丹麦/瑞典,2012
+1292434,一一,https://movie.douban.com/subject/1292434/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg,杨德昌,吴念真/李凯莉/金燕玲,剧情/爱情/家庭,中国台湾/日本,2000
+1292337,无人知晓 誰も知らない,https://movie.douban.com/subject/1292337/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg,是枝裕和,柳乐优弥/北浦爱/木村飞影,剧情,日本,2004
+1300992,完美的世界 A Perfect World,https://movie.douban.com/subject/1300992/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg,克林特·伊斯特伍德,凯文·科斯特纳/劳拉·邓恩/克林特·伊斯特伍德,剧情/犯罪,美国,1993
+1293460,雨中曲 Singin' in the Rain,https://movie.douban.com/subject/1293460/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg,斯坦利·多南/吉恩·凯利,吉恩·凯利/唐纳德·奥康纳/黛比·雷诺斯,喜剧/歌舞/爱情,美国,1952
+1291568,东京物语 東京物語,https://movie.douban.com/subject/1291568/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1925331564.jpg,小津安二郎,笠智众/原节子/杉村春子,剧情/家庭,日本,1953
+25938803,莫娣 Maudie,https://movie.douban.com/subject/25938803/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2431089276.jpg,艾斯林·沃什,莎莉·霍金斯/伊桑·霍克/卡瑞·玛切特,剧情/传记/爱情,爱尔兰/加拿大,2016
+1300894,城南旧事,https://movie.douban.com/subject/1300894/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2178268394.jpg,吴贻弓,沈洁/张丰毅/张闽,剧情,中国大陆,1983
+1295873,偷自行车的人 Ladri di biciclette,https://movie.douban.com/subject/1295873/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p759707912.jpg,维托里奥·德西卡,兰贝托·马乔拉尼/恩佐·斯泰奥拉/莉安拉·卡雷尔,犯罪/剧情,意大利,1948
+1299361,爱·回家 집으로...,https://movie.douban.com/subject/1299361/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2107418134.jpg,李廷香,金艺芬/俞承豪/童孝熙,剧情/家庭,韩国,2002
+1298107,大都会 Metropolis,https://movie.douban.com/subject/1298107/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p906689323.jpg,弗里茨·朗,阿弗莱德·阿贝尔/古斯塔夫·佛力施/鲁道夫·克莱恩-鲁格,剧情/科幻,德国,1927
+1303067,影武者,https://movie.douban.com/subject/1303067/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p997945263.jpg,黑泽明,仲代达矢/山崎努/萩原健一,剧情/历史/战争,日本/美国,1980
+1292969,光荣之路 Paths of Glory,https://movie.douban.com/subject/1292969/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p955392372.jpg,斯坦利·库布里克,柯克·道格拉斯/拉尔夫·米克/阿道夫·门吉欧,剧情/战争,美国,1957
+1293909,从海底出击 Das Boot,https://movie.douban.com/subject/1293909/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2088879323.jpg,沃尔夫冈·彼德森,尤尔根·普洛斯诺/赫贝特·格勒内梅厄/KlausWennemann,剧情/历史/战争/冒险,西德,1981
+1291556,乡愁 Ностальгия,https://movie.douban.com/subject/1291556/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2594191712.jpg,安德烈·塔可夫斯基,奥列格·扬科夫斯基/厄兰·约瑟夫森/多米齐亚娜·焦尔达诺,剧情,苏联/意大利,1983
+1294781,卡比利亚之夜 Le notti di Cabiria,https://movie.douban.com/subject/1294781/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2204675868.jpg,费德里科·费里尼,朱丽叶塔·马西纳/弗朗索瓦·佩里埃/弗兰卡·马尔齐,剧情,意大利/法国,1957
+1293455,永恒和一日 Μία αιωνιότητα και μία μέρα,https://movie.douban.com/subject/1293455/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1391839595.jpg,西奥·安哲罗普洛斯,布鲁诺·冈茨/伊莎贝拉·雷纳德/法布里齐奥·本蒂沃利奥,剧情,法国/意大利/希腊/德国,1998
+1302210,神女,https://movie.douban.com/subject/1302210/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2028929312.jpg,吴永刚,阮玲玉/黎铿/章志直,剧情,中国大陆,1934
+1300334,熊的故事 L'ours,https://movie.douban.com/subject/1300334/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454268056.jpg,让-雅克·阿诺,巴特熊/约克熊/切基·卡尤,剧情,法国/美国,1988
+1292778,将军号 The General,https://movie.douban.com/subject/1292778/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2248676081.jpg,巴斯特·基顿/克莱德·布鲁克曼,巴斯特·基顿/玛丽昂·马克/格伦·卡文德,剧情/喜剧/动作/战争/冒险,美国,1926
+1301811,鳄鱼波鞋走天涯 The Cure,https://movie.douban.com/subject/1301811/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2188484411.jpg,彼得·霍顿,布拉德·兰弗洛/埃里克·伊根/,剧情/冒险,美国,1995
+1303525,流浪者之歌 Дом за вешање,https://movie.douban.com/subject/1303525/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2384320756.jpg,埃米尔·库斯图里卡,达沃尔·杜伊莫维奇/博拉·托德洛维奇/LjubicaAdzovic,喜剧/犯罪/剧情/奇幻,意大利/英国/南斯拉夫,1988
+1295614,士兵之歌 Баллада о солдате,https://movie.douban.com/subject/1295614/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p806332287.jpg,格利高利·丘赫莱依,弗拉迪米尔·伊瓦绍夫/然娜·普罗霍连科/安东宁娜·马克西莫娃,剧情/爱情/战争,苏联,1959
+1422091,情迷意乱 乱れる,https://movie.douban.com/subject/1422091/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1449763371.jpg,成濑巳喜男,高峰秀子/加山雄三/草笛光子,剧情/爱情/家庭,日本,1964
+26752088,我不是药神,https://movie.douban.com/subject/26752088/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg,文牧野,徐峥/王传君/周一围,剧情/喜剧,中国大陆,2018
+3742360,让子弹飞,https://movie.douban.com/subject/3742360/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg,姜文,姜文/葛优/周润发,剧情/喜剧/动作/西部,中国大陆/中国香港,2010
+26387939,摔跤吧！爸爸 Dangal,https://movie.douban.com/subject/26387939/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg,涅提·蒂瓦里,阿米尔·汗/法缇玛·萨那·纱卡/桑亚·玛荷塔,剧情/传记/运动/家庭,印度,2016
+1299398,大话西游之月光宝盒 西遊記第壹佰零壹回之月光寶盒,https://movie.douban.com/subject/1299398/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg,刘镇伟,周星驰/吴孟达/罗家英,喜剧/爱情/奇幻/古装,中国香港/中国大陆,1995
+1485260,本杰明·巴顿奇事 The Curious Case of Benjamin Button,https://movie.douban.com/subject/1485260/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg,大卫·芬奇,凯特·布兰切特/布拉德·皮特/朱莉娅·奥蒙德,剧情/爱情/奇幻,美国,2008
+1292000,搏击俱乐部 Fight Club,https://movie.douban.com/subject/1292000/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910931622.jpg,大卫·芬奇,爱德华·诺顿/布拉德·皮特/海伦娜·伯翰·卡特,剧情/动作/悬疑/惊悚,美国,1999
+3011235,哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2,https://movie.douban.com/subject/3011235/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg,大卫·叶茨,丹尼尔·雷德克里夫/艾玛·沃森/鲁伯特·格林特,奇幻/冒险,美国/英国,2011
+1292679,春光乍泄 春光乍洩,https://movie.douban.com/subject/1292679/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg,王家卫,张国荣/梁朝伟/张震,剧情/爱情/同性,中国香港/日本/韩国,1997
+5322596,超脱 Detachment,https://movie.douban.com/subject/5322596/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg,托尼·凯耶,阿德里安·布罗迪/马西娅·盖伊·哈登/詹姆斯·肯恩,剧情,美国,2011
+1294240,教父3 The Godfather: Part III,https://movie.douban.com/subject/1294240/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg,弗朗西斯·福特·科波拉,阿尔·帕西诺/黛安·基顿/塔莉娅·夏尔,剧情/犯罪,美国,1990
+1303037,喜宴 囍宴,https://movie.douban.com/subject/1303037/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2249048907.jpg,李安,赵文瑄/归亚蕾/郎雄,剧情/喜剧/爱情/同性/家庭,中国台湾/美国,1993
+1306861,我是山姆 I Am Sam,https://movie.douban.com/subject/1306861/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg,杰茜·尼尔森,西恩·潘/达科塔·范宁/米歇尔·菲佛,剧情/家庭,美国,2001
+1292208,上帝之城 Cidade de Deus,https://movie.douban.com/subject/1292208/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg,费尔南多·梅里尔斯/卡迪亚·兰德,亚历桑德雷·罗德里格斯/莱安德鲁·菲尔米诺/菲利佩·哈根森,犯罪/剧情,巴西/法国,2002
+1293181,惊魂记 Psycho,https://movie.douban.com/subject/1293181/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg,阿尔弗雷德·希区柯克,安东尼·博金斯/维拉·迈尔斯/约翰·加文,悬疑/惊悚/恐怖,美国,1960
+5908478,我爱你 그대를 사랑합니다,https://movie.douban.com/subject/5908478/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2797335004.jpg,秋昌旼,宋在浩/李顺载/尹秀晶,剧情/爱情,韩国,2011
+1296703,楢山节考 楢山節考,https://movie.douban.com/subject/1296703/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p981755735.jpg,今村昌平,绪形拳/坂本澄子/左顿平,剧情/家庭,日本,1983
+1292515,用心棒,https://movie.douban.com/subject/1292515/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2163659004.jpg,黑泽明,三船敏郎/仲代达矢/司叶子,剧情/动作/惊悚,日本,1961
+1294252,雾中风景 Τοπίο στην ομίχλη,https://movie.douban.com/subject/1294252/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1117765592.jpg,西奥·安哲罗普洛斯,米哈利斯·齐克/塔尼娅·帕拉依奥罗葛/斯特拉托斯·楚措格卢,剧情,希腊/法国/意大利,1988
+1299248,镜子 Зеркало,https://movie.douban.com/subject/1299248/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2327630533.jpg,安德烈·塔可夫斯基,玛格丽特·捷列霍娃/因诺肯季·斯莫克图诺夫斯基/奥列格·扬科夫斯基,传记/剧情/历史/战争,苏联,1975
+1763905,我是 Jestem,https://movie.douban.com/subject/1763905/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p537073155.jpg,多罗塔·肯杰扎夫斯卡,PiotrJagielski/AgnieszkaNagórzycka/EdytaJungowska,剧情,波兰,2005
+1292220,情书 Love Letter,https://movie.douban.com/subject/1292220/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2648230660.jpg,岩井俊二,中山美穗/丰川悦司/酒井美纪,剧情/爱情,日本,1995
+1292343,蝴蝶效应 The Butterfly Effect,https://movie.douban.com/subject/1292343/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg,埃里克·布雷斯/J·麦基·格鲁伯,阿什顿·库彻/梅洛拉·沃尔特斯/艾米·斯马特,剧情/悬疑/科幻/惊悚,美国/加拿大,2004
+1293544,沉默的羔羊 The Silence of the Lambs,https://movie.douban.com/subject/1293544/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg,乔纳森·戴米,朱迪·福斯特/安东尼·霍普金斯/斯科特·格伦,剧情/犯罪/惊悚,美国,1991
+1780330,致命魔术 The Prestige,https://movie.douban.com/subject/1780330/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg,克里斯托弗·诺兰,休·杰克曼/克里斯蒂安·贝尔/迈克尔·凯恩,剧情/悬疑/惊悚,英国/美国,2006
+1291832,低俗小说 Pulp Fiction,https://movie.douban.com/subject/1291832/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg,昆汀·塔伦蒂诺,约翰·特拉沃尔塔/乌玛·瑟曼/阿曼达·普拉莫,剧情/喜剧/犯罪,美国,1994
+1787291,被嫌弃的松子的一生 嫌われ松子の一生,https://movie.douban.com/subject/1787291/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p884763596.jpg,中岛哲也,中谷美纪/永山瑛太/香川照之,剧情/歌舞,日本,2006
+1292656,心灵捕手 Good Will Hunting,https://movie.douban.com/subject/1292656/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg,格斯·范·桑特,马特·达蒙/罗宾·威廉姆斯/本·阿弗莱克,剧情,美国,1997
+2149806,入殓师 おくりびと,https://movie.douban.com/subject/2149806/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2707581855.jpg,泷田洋二郎,本木雅弘/广末凉子/山崎努,剧情,日本,2008
+1291875,阳光灿烂的日子,https://movie.douban.com/subject/1291875/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg,姜文,夏雨/宁静/陶虹,剧情/爱情,中国大陆/中国香港,1994
+1293359,菊次郎的夏天 菊次郎の夏,https://movie.douban.com/subject/1293359/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.jpg,北野武,北野武/关口雄介/岸本加世子,剧情/喜剧,日本,1999
+1294639,勇敢的心 Braveheart,https://movie.douban.com/subject/1294639/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg,梅尔·吉布森,梅尔·吉布森/苏菲·玛索/布莱恩·考克斯,动作/传记/剧情/历史/战争,美国,1995
+1297630,第六感 The Sixth Sense,https://movie.douban.com/subject/1297630/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg,M·奈特·沙马兰,布鲁斯·威利斯/海利·乔·奥斯蒙/托妮·科莱特,剧情/悬疑/惊悚,美国,1999
+10777687,7号房的礼物 7번방의 선물,https://movie.douban.com/subject/10777687/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg,李焕庆,柳承龙/朴信惠/郑镇荣,剧情/喜剧/家庭,韩国,2013
+1291990,爱在日落黄昏时 Before Sunset,https://movie.douban.com/subject/1291990/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561542458.jpg,理查德·林克莱特,伊桑·霍克/朱莉·德尔佩/弗农·多布切夫,剧情/爱情,美国/法国,2004
+1305164,甜蜜蜜,https://movie.douban.com/subject/1305164/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2223011274.jpg,陈可辛,黎明/张曼玉/杨恭如,剧情/爱情,中国香港,1996
+10808442,爱在午夜降临前 Before Midnight,https://movie.douban.com/subject/10808442/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg,理查德·林克莱特,伊桑·霍克/朱莉·德尔佩/肖姆斯·戴维-菲茨帕特里克,剧情/爱情,美国/希腊,2013
+1291822,卢旺达饭店 Hotel Rwanda,https://movie.douban.com/subject/1291822/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg,特瑞·乔治,唐·钱德尔/苏菲·奥康内多/华金·菲尼克斯,剧情/传记/历史/战争,英国/南非/意大利/美国,2004
+1300374,绿里奇迹 The Green Mile,https://movie.douban.com/subject/1300374/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg,弗兰克·德拉邦特,汤姆·汉克斯/大卫·摩斯/迈克·克拉克·邓肯,犯罪/剧情/奇幻/悬疑,美国,1999
+1292329,牯岭街少年杀人事件 牯嶺街少年殺人事件,https://movie.douban.com/subject/1292329/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg,杨德昌,张震/杨静怡/张国柱,剧情/犯罪,中国台湾,1991
+1296909,虎口脱险 La grande vadrouille,https://movie.douban.com/subject/1296909/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg,热拉尔·乌里,路易·德·菲奈斯/布尔维尔/克劳迪奥·布鲁克,喜剧/战争,法国/英国,1966
+2363506,地球上的星星 Taare Zameen Par,https://movie.douban.com/subject/2363506/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2197897857.jpg,阿米尔·汗,达席尔·萨法瑞/阿米尔·汗/塔奈·切赫达,剧情/儿童/家庭,印度,2007
+1397546,追随 Following,https://movie.douban.com/subject/1397546/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561545031.jpg,克里斯托弗·诺兰,杰里米·西奥伯德/亚历克斯·霍/露西·拉塞尔,犯罪/悬疑/惊悚,英国,1998
+3217169,勇士 Warrior,https://movie.douban.com/subject/3217169/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1145536386.jpg,加文·欧康诺,汤姆·哈迪/乔尔·埃哲顿/尼克·诺特,剧情/运动/家庭,美国,2011
+1292925,伴我同行 Stand by Me,https://movie.douban.com/subject/1292925/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1979379460.jpg,罗伯·莱纳,瑞凡·菲尼克斯/威尔·惠顿/科里·费尔德曼,剧情/儿童/冒险,美国,1986
+10450409,赛德克·巴莱(上)：太阳旗 賽德克·巴萊(上)太陽旗,https://movie.douban.com/subject/10450409/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1520558918.jpg,魏德圣,林庆台/游大庆/马志翔,剧情/历史/战争,中国台湾,2011
+1322848,奇爱博士 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,https://movie.douban.com/subject/1322848/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p835946292.jpg,斯坦利·库布里克,彼得·塞勒斯/乔治·C·斯科特/斯特林·海登,剧情/喜剧/战争,美国/英国,1964
+1296196,乱,https://movie.douban.com/subject/1296196/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556724149.jpg,黑泽明,仲代达矢/寺尾聪/根津甚八,剧情/动作,日本/法国,1985
+1293764,与狼共舞 Dances with Wolves,https://movie.douban.com/subject/1293764/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p499158228.jpg,凯文·科斯特纳,凯文·科斯特纳/玛丽·麦克唐纳/格雷厄姆·格林,剧情/西部/冒险,美国/英国,1990
+1294194,悲情城市,https://movie.douban.com/subject/1294194/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885665343.jpg,侯孝贤,梁朝伟/辛树芬/陈松勇,剧情/历史,中国台湾,1989
+3236904,自闭历程 Temple Grandin,https://movie.douban.com/subject/3236904/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p583188016.jpg,米克·杰克逊,克莱尔·丹尼斯/朱莉娅·奥蒙德/凯瑟琳·欧哈拉,剧情/传记,美国,2010
+1292574,热情如火 Some Like It Hot,https://movie.douban.com/subject/1292574/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p860250155.jpg,比利·怀尔德,玛丽莲·梦露/托尼·柯蒂斯/杰克·莱蒙,喜剧,美国,1959
+1300572,童年往事,https://movie.douban.com/subject/1300572/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2259777287.jpg,侯孝贤,游安顺/田丰/梅芳,剧情/传记/家庭,中国台湾,1985
+1292642,伴你高飞 Fly Away Home,https://movie.douban.com/subject/1292642/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2623005170.jpg,卡罗尔·巴拉德,杰夫·丹尼尔斯/安娜·帕奎因/达娜·德拉尼,冒险/剧情/家庭,美国,1996
+3154003,天佑鲍比 Prayers for Bobby,https://movie.douban.com/subject/3154003/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1662271271.jpg,拉塞尔·穆卡希,西格妮·韦弗/亨利·科泽尼/瑞恩·凯利,剧情/传记/同性,美国,2009
+1295586,黄昏双镖客 Per qualche dollaro in più,https://movie.douban.com/subject/1295586/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191195219.jpg,赛尔乔·莱昂内,克林特·伊斯特伍德/李·范·克里夫/吉安·马里亚·沃隆特,西部,意大利/西班牙/西德,1965
+1308162,女人，四十,https://movie.douban.com/subject/1308162/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2441944656.jpg,许鞍华,萧芳芳/乔宏/罗家英,剧情/家庭,中国香港,1995
+1292719,大路 La strada,https://movie.douban.com/subject/1292719/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1137199702.jpg,费德里科·费里尼,安东尼·奎恩/朱丽叶塔·马西纳/理查德·贝斯哈特,剧情,意大利,1954
+2078398,听见天堂 Rosso come il cielo,https://movie.douban.com/subject/2078398/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p501470993.jpg,克里斯提诺·波顿,FrancescoCampobasso/卢卡·卡波里提/马可·科奇,剧情,意大利,2006
+1292547,卡里加里博士的小屋 Das Cabinet des Dr. Caligari,https://movie.douban.com/subject/1292547/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191024349.jpg,罗伯特·维内,维尔纳·克劳斯/康拉德·韦特/弗里德里希·费赫尔,犯罪/悬疑/恐怖,德国,1920
+1793200,我的父亲，我的儿子 Babam ve Oğlum,https://movie.douban.com/subject/1793200/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1975027048.jpg,查恩·厄尔马克,切邓·泰肯多尔/菲克雷特·库斯坎/休姆拉,剧情/家庭,土耳其,2005
+1400935,乌龟也会飞 لاک پشت ها هم پرواز می کنند,https://movie.douban.com/subject/1400935/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2178989826.jpg,巴赫曼·戈巴迪,SoranEbrahim/AvazLatif,剧情/战争,伊朗/法国/伊拉克,2004
+1652587,阿凡达 Avatar,https://movie.douban.com/subject/1652587/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg,詹姆斯·卡梅隆,萨姆·沃辛顿/佐伊·索尔达娜/西格妮·韦弗,动作/科幻/冒险,美国,2009
+1292223,七宗罪 Se7en,https://movie.douban.com/subject/1292223/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg,大卫·芬奇,摩根·弗里曼/布拉德·皮特/凯文·史派西,剧情/犯罪/悬疑/惊悚,美国,1995
+1291999,重庆森林 重慶森林,https://movie.douban.com/subject/1291999/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg,王家卫,林青霞/金城武/梁朝伟,剧情/爱情,中国香港,1994
+4268598,告白,https://movie.douban.com/subject/4268598/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg,中岛哲也,松隆子/冈田将生/木村佳乃,剧情/悬疑,日本,2010
+1296339,爱在黎明破晓前 Before Sunrise,https://movie.douban.com/subject/1296339/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555762374.jpg,理查德·林克莱特,伊桑·霍克/朱莉·德尔佩/安德莉亚·埃克特,剧情/爱情,美国/奥地利/瑞士,1995
+4917726,阳光姐妹淘 써니,https://movie.douban.com/subject/4917726/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg,姜炯哲,沈恩敬/闵孝琳/姜素拉,剧情/喜剧,韩国,2011
+1291545,大鱼 Big Fish,https://movie.douban.com/subject/1291545/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg,蒂姆·波顿,伊万·麦克格雷格/阿尔伯特·芬尼/比利·克鲁德普,剧情/家庭/奇幻/冒险,美国,2003
+1417598,电锯惊魂 Saw,https://movie.douban.com/subject/1417598/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p726839485.jpg,温子仁,雷·沃纳尔/加利·艾尔维斯/丹尼·格洛弗,悬疑/惊悚/恐怖,美国,2004
+1295409,纵横四海 緃横四海,https://movie.douban.com/subject/1295409/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597918718.jpg,吴宇森,周润发/张国荣/钟楚红,剧情/喜剧/动作/犯罪,中国香港,1991
+1578507,谍影重重3 The Bourne Ultimatum,https://movie.douban.com/subject/1578507/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg,保罗·格林格拉斯,马特·达蒙/朱丽娅·斯蒂尔斯/大卫·斯特雷泽恩,动作/悬疑/惊悚,美国/德国/法国/英国,2007
+1291879,罗生门 羅生門,https://movie.douban.com/subject/1291879/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1598883511.jpg,黑泽明,三船敏郎/京町子/森雅之,剧情/犯罪/悬疑,日本,1950
+1295865,燃情岁月 Legends of the Fall,https://movie.douban.com/subject/1295865/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2797313535.jpg,爱德华·兹威克,布拉德·皮特/安东尼·霍普金斯/艾丹·奎因,剧情/爱情/战争/西部,美国,1994
+1293964,魂断蓝桥 Waterloo Bridge,https://movie.douban.com/subject/1293964/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg,茂文·勒鲁瓦,费雯·丽/罗伯特·泰勒/露塞尔·沃特森,剧情/爱情/战争,美国,1940
+2222996,步履不停 歩いても 歩いても,https://movie.douban.com/subject/2222996/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg,是枝裕和,阿部宽/夏川结衣/江原由希子,剧情/家庭,日本,2008
+5964718,一次别离 جدایی نادر از سیمین,https://movie.douban.com/subject/5964718/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189835254.jpg,阿斯加·法哈蒂,佩曼·莫阿迪/蕾拉·哈塔米/萨瑞·巴亚特,剧情/家庭,伊朗/法国,2011
+1292270,梦之安魂曲 Requiem for a Dream,https://movie.douban.com/subject/1292270/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2328516855.jpg,达伦·阿伦诺夫斯基,艾伦·伯斯汀/杰瑞德·莱托/詹妮弗·康纳利,剧情,美国,2000
+6803494,极速风流 Rush,https://movie.douban.com/subject/6803494/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532780924.jpg,朗·霍华德,克里斯·海姆斯沃斯/丹尼尔·布鲁赫/奥利维亚·王尔德,剧情/传记/运动,英国/德国/美国,2013
+3824274,刺猬的优雅 Le hérisson,https://movie.douban.com/subject/3824274/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p489369851.jpg,莫娜·阿查切,若西安·巴拉斯科/佳朗丝·勒·吉耶米克/伊川东吾,剧情,法国/意大利,2009
+5960606,再见我们的幼儿园 さよならぼくたちのようちえん,https://movie.douban.com/subject/5960606/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2173712235.jpg,水田伸生,芦田爱菜/满岛光/桥本智哉,剧情,日本,2011
+1300056,四百击 Les quatre cents coups,https://movie.douban.com/subject/1300056/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191743027.jpg,弗朗索瓦·特吕弗,让-皮埃尔·利奥德/克莱尔·莫里耶/阿尔贝·雷米,犯罪/剧情,法国,1959
+3430271,沙漠之花 Desert Flower,https://movie.douban.com/subject/3430271/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2198481680.jpg,雪莉·霍曼,索亚那·奥马尔-斯切戈/IdrissAbdillahiHoufaneh/AwaSaïdDarar,剧情/传记,英国/德国/奥地利/法国,2009
+1301169,跳出我天地 Billy Elliot,https://movie.douban.com/subject/1301169/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p531278288.jpg,史蒂芬·戴德利,杰米·贝尔/朱丽·沃特斯/杰米·德拉文,剧情/儿童/歌舞/家庭,英国/法国,2000
+1292055,再见列宁 Good Bye Lenin!,https://movie.douban.com/subject/1292055/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p478546260.jpg,沃尔夫冈·贝克,丹尼尔·布鲁赫/卡特琳·萨斯/丘尔潘·哈马托娃,剧情/喜剧,德国,2003
+1293071,野草莓 Smultronstället,https://movie.douban.com/subject/1293071/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p540202708.jpg,英格玛·伯格曼,维克多·斯约斯特洛姆/毕比·安德松/英格丽·图林,剧情/爱情/家庭,瑞典,1957
+1298733,日落大道 Sunset Blvd.,https://movie.douban.com/subject/1298733/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1119483806.jpg,比利·怀尔德,威廉·霍尔登/葛洛丽亚·斯旺森/埃里克·冯·施特罗海姆,剧情/黑色电影,美国,1950
+1294753,追梦赤子心 Rudy,https://movie.douban.com/subject/1294753/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p452578349.jpg,大卫·安斯鲍夫,西恩·奥斯汀/乔恩·费儒/尼德·巴蒂,传记/剧情/运动,美国,1993
+1294490,上帝也疯狂2 The Gods Must Be Crazy II,https://movie.douban.com/subject/1294490/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2654309783.jpg,加美·尤伊斯,历苏/LenaFarugia/HansStrydom,喜剧,南非/博茨瓦纳,1989
+1296157,迷墙 Pink Floyd The Wall,https://movie.douban.com/subject/1296157/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567407809.jpg,艾伦·帕克,鲍勃·吉尔道夫/ChristineHargreaves/詹姆斯·劳伦森,剧情/动画/奇幻,英国,1982
+1292994,开罗紫玫瑰 The Purple Rose of Cairo,https://movie.douban.com/subject/1292994/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2218755965.jpg,伍迪·艾伦,米娅·法罗/杰夫·丹尼尔斯/丹尼·爱罗,喜剧/爱情/奇幻,美国,1985
+1394218,桃色公寓 The Apartment,https://movie.douban.com/subject/1394218/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501319736.jpg,比利·怀尔德,杰克·莱蒙/雪莉·麦克雷恩/弗莱德·麦克莫瑞,爱情/喜剧/剧情,美国,1960
+1304476,独立时代 獨立時代,https://movie.douban.com/subject/1304476/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2873828796.jpg,杨德昌,陈湘琪/王柏森/邓安宁,剧情,中国台湾,1994
+1294421,伊万的童年 Иваново детство,https://movie.douban.com/subject/1294421/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2360167553.jpg,安德烈·塔可夫斯基/爱德华·阿巴洛夫,尼古拉·布尔里亚耶夫/瓦连京·祖布科夫/叶甫盖尼·扎里科夫,剧情/战争,苏联,1962
+1463224,永远的三丁目的夕阳 ALWAYS 三丁目の夕日,https://movie.douban.com/subject/1463224/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517414566.jpg,山崎贵,吉冈秀隆/堤真一/药师丸博子,剧情/家庭,日本,2005
+1297009,因父之名 In the Name of the Father,https://movie.douban.com/subject/1297009/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p758788727.jpg,吉姆·谢里丹,丹尼尔·戴-刘易斯/皮特·波斯尔思韦特/约翰·林奇,传记/剧情,爱尔兰/英国/美国,1993
+1292230,刺杀肯尼迪 JFK,https://movie.douban.com/subject/1292230/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2185846004.jpg,奥利佛·斯通,凯文·科斯特纳/茜茜·斯派塞克/汤米·李·琼斯,传记/剧情/历史/悬疑/惊悚,美国/法国,1991
+1294438,假面 Persona,https://movie.douban.com/subject/1294438/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507966309.jpg,英格玛·伯格曼,毕比·安德松/丽芙·乌曼/玛格丽塔·克罗克,剧情/惊悚,瑞典,1966
+1294570,爱情短片 Krótki film o miłości,https://movie.douban.com/subject/1294570/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2189908788.jpg,克日什托夫·基耶斯洛夫斯基,格拉日娜·沙波沃夫斯卡/奥拉夫·卢巴申科/斯特凡尼亚·伊文斯卡,剧情/爱情,波兰,1988
+1293767,金色池塘 On Golden Pond,https://movie.douban.com/subject/1293767/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1211238404.jpg,马克·雷戴尔,凯瑟琳·赫本/亨利·方达/简·方达,剧情/家庭,英国/美国,1982
+1305697,桥 Мост,https://movie.douban.com/subject/1305697/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576327873.jpg,哈伊鲁丁·克尔瓦瓦茨,韦利米尔·巴塔·日沃伊诺维奇/斯洛博丹·佩罗维奇/鲍里斯·德沃尔尼克,动作/战争,南斯拉夫,1969
+1298468,邮差 Il postino,https://movie.douban.com/subject/1298468/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537507687.jpg,迈克尔·莱德福/马西莫·特洛伊西,菲利普·努瓦雷/马西莫·特洛伊西/玛丽亚·格拉齐亚·库奇诺塔,传记/喜剧/剧情/爱情,意大利/法国/比利时,1994
+1302205,办公室的故事 Служебный Роман,https://movie.douban.com/subject/1302205/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2216166945.jpg,埃利达尔·梁赞诺夫,阿丽萨·弗雷因德利赫/安德烈·米亚赫科夫/斯维特拉娜·涅墨耶娃,剧情/喜剧/爱情,苏联,1977
+1308228,鲁冰花 魯冰花,https://movie.douban.com/subject/1308228/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2233267812.jpg,杨立国,黄坤玄/李淑桢/张瑞竹,家庭/剧情,中国台湾,1989
+1293146,豹 Il gattopardo,https://movie.douban.com/subject/1293146/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2195195471.jpg,卢基诺·维斯康蒂,伯特·兰卡斯特/克劳迪娅·卡汀娜/阿兰·德龙,剧情/历史/爱情/战争,意大利/法国,1963
+1467748,我的九月,https://movie.douban.com/subject/1467748/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494288807.jpg,尹力,张萌/张国立/陶泽如,剧情/儿童,中国大陆,1990
+1420080,悲惨世界 Les misérables,https://movie.douban.com/subject/1420080/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2164568451.jpg,让-保罗·勒沙努瓦,让·迦本/布尔维尔/费尔南·勒杜,剧情,法国/意大利/东德,1958
+1292370,剪刀手爱德华 Edward Scissorhands,https://movie.douban.com/subject/1292370/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg,蒂姆·波顿,约翰尼·德普/薇诺娜·瑞德/黛安·韦斯特,剧情/奇幻/爱情,美国,1990
+1292215,天使爱美丽 Le fabuleux destin d'Amélie Poulain,https://movie.douban.com/subject/1292215/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2447590313.jpg,让-皮埃尔·热内,奥黛丽·塔图/马修·卡索维茨/吕菲斯,剧情/喜剧/爱情,法国/德国,2001
+1316510,射雕英雄传之东成西就 射鵰英雄傳之東成西就,https://movie.douban.com/subject/1316510/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2609063922.jpg,刘镇伟,梁朝伟/林青霞/张国荣,喜剧/奇幻/武侠/古装,中国香港,1993
+3792799,岁月神偷 歲月神偷,https://movie.douban.com/subject/3792799/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg,罗启锐,吴君如/任达华/钟绍图,剧情/家庭,中国香港/中国大陆,2010
+2297265,浪潮 Die Welle,https://movie.douban.com/subject/2297265/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg,丹尼斯·甘塞尔,于尔根·福格尔/弗雷德里克·劳/马克思·雷迈特,剧情/惊悚,德国,2008
+1296753,卡萨布兰卡 Casablanca,https://movie.douban.com/subject/1296753/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1244791866.jpg,迈克尔·柯蒂兹,亨弗莱·鲍嘉/英格丽·褒曼/保罗·亨雷德,剧情/爱情/战争,美国,1942
+4798888,叫我第一名 Front of the Class,https://movie.douban.com/subject/4798888/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p628364149.jpg,彼得·维纳,詹姆斯·沃克/特里特·威廉斯/多米尼克·斯科特·凯伊,剧情/传记,美国,2008
+1307793,燕尾蝶 スワロウテイル,https://movie.douban.com/subject/1307793/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p532195562.jpg,岩井俊二,恰拉/伊藤步/三上博史,犯罪/剧情,日本,1996
+1300960,碧海蓝天 Le grand bleu,https://movie.douban.com/subject/1300960/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p455724599.jpg,吕克·贝松,让-马克·巴尔/让·雷诺/罗姗娜·阿奎特,剧情/爱情,法国/意大利,1988
+1297478,上帝也疯狂 The Gods Must Be Crazy,https://movie.douban.com/subject/1297478/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2173719538.jpg,加美·尤伊斯,马瑞斯·威尔斯/SandraPrinsloo/历苏,喜剧,南非/博茨瓦纳,1980
+1292047,蓝白红三部曲之红 Trois couleurs: Rouge,https://movie.douban.com/subject/1292047/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2173726043.jpg,克日什托夫·基耶斯洛夫斯基,伊莲娜·雅各布/让-路易·特兰蒂尼昂/弗雷德里奎·费德,剧情/爱情/悬疑,法国/波兰/瑞士,1994
+1292218,中央车站 Central do Brasil,https://movie.douban.com/subject/1292218/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2239441575.jpg,沃尔特·塞勒斯,费尔南达·蒙特内格罗/马里利娅·佩拉/文尼西斯·狄·奥利维拉,剧情,巴西/法国,1998
+1293399,莫扎特传 Amadeus,https://movie.douban.com/subject/1293399/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p595764767.jpg,米洛斯·福尔曼,F·默里·亚伯拉罕/汤姆·休斯克/伊丽莎白·贝里奇,剧情/传记/历史/音乐,美国/法国/捷克斯洛伐克/意大利,1984
+1293374,热天午后 Dog Day Afternoon,https://movie.douban.com/subject/1293374/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2100141196.jpg,西德尼·吕美特,阿尔·帕西诺/约翰·凯泽尔/查尔斯·德恩,剧情/喜剧/犯罪,美国,1975
+4304402,精英部队2：大敌当前 Tropa de Elite 2 - O Inimigo Agora É Outro,https://movie.douban.com/subject/4304402/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p858211193.jpg,何塞·帕迪里亚,瓦格纳·马拉/安德烈·拉米罗/米尔黑·考塔兹,剧情/动作/犯罪/惊悚,巴西,2010
+2133337,斯图尔特：倒带人生 Stuart: A Life Backwards,https://movie.douban.com/subject/2133337/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2170102215.jpg,戴维·阿特伍德,汤姆·哈迪/本尼迪克特·康伯巴奇/GeorgeAnton,剧情,英国,2007
+1323746,小城之春,https://movie.douban.com/subject/1323746/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2029605819.jpg,费穆,李纬/韦伟/石羽,剧情/爱情,中国大陆,1948
+1292269,骗中骗 The Sting,https://movie.douban.com/subject/1292269/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1227416748.jpg,乔治·罗伊·希尔,保罗·纽曼/罗伯特·雷德福/罗伯特·肖,剧情/喜剧/犯罪,美国,1973
+1293394,西部往事 C'era una volta il West,https://movie.douban.com/subject/1293394/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792368479.jpg,赛尔乔·莱昂内,亨利·方达/查尔斯·布朗森/克劳迪娅·卡汀娜,剧情/犯罪/西部,意大利/美国,1968
+1294433,秋刀鱼之味 秋刀魚の味,https://movie.douban.com/subject/1294433/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1995499987.jpg,小津安二郎,笠智众/岩下志麻/冈田茉莉子,剧情/家庭,日本,1962
+1293492,战舰波将金号 Броненосец Потёмкин,https://movie.douban.com/subject/1293492/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2173021177.jpg,谢尔盖·爱森斯坦,亚历山大·安东诺夫/弗拉迪米尔·巴斯基/格里高利·亚历山德罗夫,剧情/历史/战争,苏联,1925
+1307265,晚春 晩春,https://movie.douban.com/subject/1307265/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1994505696.jpg,小津安二郎,笠智众/原节子/月丘梦路,剧情/家庭,日本,1949
+1292784,芬妮与亚历山大 Fanny och Alexander,https://movie.douban.com/subject/1292784/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1172714598.jpg,英格玛·伯格曼,克里斯蒂娜·阿道夫森/伯杰·阿斯特/佩妮娜·奥威,剧情,法国/瑞典/西德,1982
+1304406,天堂的颜色 رنگ خدا,https://movie.douban.com/subject/1304406/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1484017510.jpg,马基德·马基迪,侯赛因·马哈古/MohsenRamezani/SalamehFeyzi,剧情/家庭,伊朗,1999
+2357302,爱犬的奇迹 マリと子犬の物語,https://movie.douban.com/subject/2357302/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p638702029.jpg,猪股隆一,船越英一郎/松本明子/广田亮平,剧情/儿童,日本,2007
+1299932,恐惧的代价 Le Salaire de la peur,https://movie.douban.com/subject/1299932/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2204999616.jpg,亨利-乔治·克鲁佐,伊夫·蒙当/夏尔·瓦内尔/福尔科·卢利,剧情/惊悚/冒险,法国/意大利,1953
+1293820,巴比龙 Papillon,https://movie.douban.com/subject/1293820/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575050412.jpg,富兰克林·沙夫纳,史蒂夫·麦奎因/达斯汀·霍夫曼/维克托·乔里,剧情/传记/犯罪,法国/美国,1973
+1401196,神迹 Something the Lord Made,https://movie.douban.com/subject/1401196/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2480753692.jpg,约瑟夫·萨金特,艾伦·瑞克曼/茅斯·达夫/玛丽·斯图尔特·马斯特森,剧情/传记,美国,2004
+1300956,一九零零 Novecento,https://movie.douban.com/subject/1300956/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1071334596.jpg,贝纳尔多·贝托鲁奇,罗伯特·德尼罗/热拉尔·德帕迪约/多米妮克·桑达,剧情/历史/爱情/战争,意大利/法国/西德,1976
+1297574,英雄本色,https://movie.douban.com/subject/1297574/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg,吴宇森,周润发/狄龙/张国荣,剧情/动作/犯罪,中国香港,1986
+1388216,撞车 Crash,https://movie.douban.com/subject/1388216/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2075132390.jpg,保罗·哈吉斯,桑德拉·布洛克/唐·钱德尔/马特·狄龙,犯罪/剧情,美国/德国/澳大利亚,2004
+3007773,海盗电台 The Boat That Rocked,https://movie.douban.com/subject/3007773/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p769608791.jpg,理查德·柯蒂斯,比尔·奈伊/肯尼思·布拉纳/菲利普·塞默·霍夫曼,剧情/喜剧/音乐,英国/德国/法国,2009
+1305725,大卫·戈尔的一生 The Life of David Gale,https://movie.douban.com/subject/1305725/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2186861098.jpg,艾伦·帕克,凯文·史派西/凯特·温丝莱特/劳拉·琳妮,剧情/犯罪/悬疑,美国/德国/英国/西班牙,2003
+1905462,荒野生存 Into the Wild,https://movie.douban.com/subject/1905462/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p465687407.jpg,西恩·潘,埃米尔·赫斯基/马西娅·盖伊·哈登/威廉·赫特,冒险/传记/剧情,美国,2007
+1301617,不一样的天空 What's Eating Gilbert Grape,https://movie.douban.com/subject/1301617/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2175712032.jpg,拉斯·霍尔斯道姆,约翰尼·德普/莱昂纳多·迪卡普里奥/朱丽叶特·刘易斯,剧情/爱情/家庭,美国,1993
+3157605,巴黎淘气帮 Le petit Nicolas,https://movie.douban.com/subject/3157605/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p524581356.jpg,洛朗·蒂拉尔,马克西姆·戈达尔/瓦莱丽·勒梅西埃/凯德·麦拉德,儿童/喜剧/家庭,法国/比利时,2009
+3026357,老爷车 Gran Torino,https://movie.douban.com/subject/3026357/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1155946363.jpg,克林特·伊斯特伍德,克林特·伊斯特伍德/克里斯托弗·卡利/比·王,剧情,美国/德国,2008
+3041749,天伦之旅 Everybody's Fine,https://movie.douban.com/subject/3041749/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1217133544.jpg,柯克·琼斯,罗伯特·德尼罗/凯特·贝金赛尔/山姆·洛克威尔,剧情/家庭,美国,2009
+1301106,布达佩斯之恋 Gloomy Sunday - Ein Lied von Liebe und Tod,https://movie.douban.com/subject/1301106/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p467734271.jpg,诺夫·舒贝尔,艾丽卡·莫露珊/约阿希姆·克罗尔/斯特法诺·迪奥尼斯,爱情/剧情,德国/匈牙利,1999
+1394488,小情人 แฟนฉัน,https://movie.douban.com/subject/1394488/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p450895244.jpg,威特查·戈杰乌/颂裕·素玛戈南/尼提瓦·塔拉吞/维塔亚·东俞扬/埃迪森·特斯利卡森/孔里特·契威摩,查理·瑞纳/霍嘉丝·芝华顾/CharwinJitsomboon,儿童/喜剧,泰国,2003
+1302061,"德州巴黎 Paris, Texas",https://movie.douban.com/subject/1302061/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2237305324.jpg,维姆·文德斯,哈利·戴恩·斯坦通/萨姆·贝瑞/伯恩哈德·维基,剧情,西德/法国/英国/美国,1984
+1303001,西伯利亚的理发师 Сибирский цирюльник,https://movie.douban.com/subject/1303001/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1949265483.jpg,尼基塔·米哈尔科夫,朱莉娅·奥蒙德/欧列格·缅希科夫/阿列克谢·彼得连科,喜剧/剧情/爱情,俄罗斯/法国/意大利/捷克,1998
+1855131,东京塔 東京タワー～オカンとボクと、時々、オトン～,https://movie.douban.com/subject/1855131/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2177767108.jpg,松冈锭司,小田切让/树木希林/伊藤步,剧情/家庭,日本,2007
+1900840,想飞的钢琴少年 Vitus,https://movie.douban.com/subject/1900840/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p492586288.jpg,弗兰迪-M.米偌,法比齐奥·波萨尼/泰欧·盖尔基/朱莉卡·詹金斯,剧情/音乐,瑞士,2006
+1298506,史崔特先生的故事 The Straight Story,https://movie.douban.com/subject/1298506/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1634826666.jpg,大卫·林奇,茜茜·斯派塞克/JaneGallowayHeitz/JosephA.Carpenter,剧情/传记,法国/英国/美国,1999
+1293271,甜蜜的生活 La dolce vita,https://movie.douban.com/subject/1293271/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2627931935.jpg,费德里科·费里尼,马塞洛·马斯楚安尼/安妮塔·艾克伯格/阿努克·艾梅,剧情/喜剧,意大利/法国,1960
+1296147,呼喊与细语 Viskningar och rop,https://movie.douban.com/subject/1296147/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2183935299.jpg,英格玛·伯格曼,哈里特·安德森/卡莉·西尔万/英格丽·图林,剧情/爱情,瑞典,1972
+1308074,回归 Возвращение,https://movie.douban.com/subject/1308074/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2493692221.jpg,安德烈·兹维亚金采夫,弗拉迪米尔·加林/伊万·杜布朗拉沃夫/康斯坦丁·拉夫罗年科,剧情/家庭,俄罗斯,2003
+1303036,暴雨将至 Пред дождот,https://movie.douban.com/subject/1303036/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p470344042.jpg,米尔科·曼彻夫斯基,格莱戈尔·科林/DzemailMaksut/拉宾娜·米特威斯卡,剧情/战争,马其顿/法国/英国,1994
+1297602,虎豹小霸王 Butch Cassidy and the Sundance Kid,https://movie.douban.com/subject/1297602/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449568577.jpg,乔治·罗伊·希尔,保罗·纽曼/罗伯特·雷德福/凯瑟琳·罗斯,冒险/犯罪/剧情/西部,美国,1969
+1301867,烈日灼人 Утомлённые солнцем,https://movie.douban.com/subject/1301867/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p799102683.jpg,尼基塔·米哈尔科夫,欧列格·缅希科夫/尼基塔·米哈尔科夫/茵格保加·达坤耐特,剧情/历史,俄罗斯/法国,1994
+3419943,无声婚礼 Nunta Muta,https://movie.douban.com/subject/3419943/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2287838763.jpg,霍拉丘·默勒埃莱,梅达·安德列亚·维克托/亚历山德鲁·波托切安/瓦伦汀·蒂奥多修,喜剧/剧情,罗马尼亚/卢森堡/法国,2008
+1294366,霹雳五号 Short Circuit,https://movie.douban.com/subject/1294366/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2264218557.jpg,约翰·班德汉姆,艾丽·西蒂/斯蒂夫·古根伯格/费舍·史蒂芬斯,喜剧/家庭/科幻,美国,1986
+1297127,史密斯先生到华盛顿 Mr. Smith Goes to Washington,https://movie.douban.com/subject/1297127/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2100240855.jpg,弗兰克·卡普拉,詹姆斯·斯图尔特/琪恩·亚瑟/克劳德·雷恩斯,剧情,美国,1939
+1297585,两个人的车站 Вокзал для двоих,https://movie.douban.com/subject/1297585/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p856874299.jpg,埃利达尔·梁赞诺夫,柳德米拉·古尔琴柯/奥列格·巴希拉什维利/尼基塔·米哈尔科夫,剧情/爱情,苏联,1983
+1295025,艾美的世界 Amy,https://movie.douban.com/subject/1295025/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p676443493.jpg,纳迪娅·塔斯,艾拉娜·德·罗玛/瑞切尔·格里菲斯/本·门德尔森,剧情/音乐,澳大利亚,1997
+1308686,毕加索的奇异旅程 Picassos äventyr,https://movie.douban.com/subject/1308686/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2464922315.jpg,泰治·丹尼尔森,约斯塔·埃克曼/汉斯·阿尔弗莱德森/玛格丽塔·克罗克,喜剧,瑞典,1978
+1295467,罗密欧与朱丽叶 Romeo and Juliet,https://movie.douban.com/subject/1295467/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2872356655.jpg,佛朗哥·泽菲雷里,莱昂纳德·怀廷/奥丽维娅·赫西/约翰·麦克埃尼,剧情/爱情,英国/意大利,1968
+21360417,恐怖直播 더 테러 라이브,https://movie.douban.com/subject/21360417/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg,金秉祐,河正宇/李璟荣/全慧珍,剧情/犯罪/悬疑,韩国,2013
+3792848,相助 The Help,https://movie.douban.com/subject/3792848/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1225179026.jpg,泰特·泰勒,艾玛·斯通/维奥拉·戴维斯/布莱丝·达拉斯·霍华德,剧情,美国/印度/阿联酋,2011
+11525673,布达佩斯大饭店 The Grand Budapest Hotel,https://movie.douban.com/subject/11525673/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2183539003.jpg,韦斯·安德森,拉尔夫·费因斯/托尼·雷沃罗利/阿德里安·布罗迪,剧情/喜剧/冒险,美国/德国/英国,2014
+21318488,消失的爱人 Gone Girl,https://movie.douban.com/subject/21318488/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg,大卫·芬奇,本·阿弗莱克/裴淳华/尼尔·帕特里克·哈里斯,剧情/犯罪/悬疑/惊悚,美国,2014
+3592854,疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road,https://movie.douban.com/subject/3592854/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg,乔治·米勒,汤姆·哈迪/查理兹·塞隆/尼古拉斯·霍尔特,动作/科幻/冒险,澳大利亚/美国,2015
+1295070,布朗克斯的故事 A Bronx Tale,https://movie.douban.com/subject/1295070/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1413550329.jpg,罗伯特·德尼罗,罗伯特·德尼罗/查兹·帕尔明特瑞/李洛·布兰卡托,犯罪/剧情,美国,1993
+24750126,荒蛮故事 Relatos salvajes,https://movie.douban.com/subject/24750126/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584519452.jpg,达米安·斯兹弗隆,达里奥·格兰迪内蒂/玛丽娅·玛努尔/莫妮卡·比利亚,剧情/喜剧/犯罪,阿根廷/西班牙,2014
+1299481,查令十字街84号 84 Charing Cross Road,https://movie.douban.com/subject/1299481/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1188142682.jpg,大卫·休·琼斯,安妮·班克罗夫特/安东尼·霍普金斯/朱迪·丹奇,传记/剧情/爱情,英国/美国,1987
+26325320,血战钢锯岭 Hacksaw Ridge,https://movie.douban.com/subject/26325320/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg,梅尔·吉布森,安德鲁·加菲尔德/萨姆·沃辛顿/文斯·沃恩,剧情/传记/历史/战争,澳大利亚/美国,2016
+25724855,房间 Room,https://movie.douban.com/subject/25724855/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg,伦尼·阿伯拉罕森,布丽·拉尔森/雅各布·特伦布莱/肖恩·布里吉格斯,剧情/家庭,爱尔兰/加拿大/英国/美国,2015
+26799731,请以你的名字呼唤我 Call Me by Your Name,https://movie.douban.com/subject/26799731/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg,卢卡·瓜达尼诺,艾米·汉莫/提莫西·查拉梅/迈克尔·斯图巴,剧情/爱情/同性,意大利/法国/巴西/美国,2017
+1482022,霍金传 Hawking,https://movie.douban.com/subject/1482022/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2212448360.jpg,菲利普·马丁,本尼迪克特·康伯巴奇/丽莎·迪伦/亚当·戈德利,剧情/传记,英国,2004
+4920389,头号玩家 Ready Player One,https://movie.douban.com/subject/4920389/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg,史蒂文·斯皮尔伯格,泰伊·谢里丹/奥利维亚·库克/本·门德尔森,动作/科幻/冒险,美国,2018
+26580232,看不见的客人 Contratiempo,https://movie.douban.com/subject/26580232/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg,奥里奥尔·保罗,马里奥·卡萨斯/阿娜·瓦格纳/何塞·科罗纳多,剧情/犯罪/悬疑/惊悚,西班牙,2016
+27059130,大佛普拉斯,https://movie.douban.com/subject/27059130/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg,黄信尧,庄益增/陈竹升/戴立忍,剧情/喜剧,中国台湾,2017
+25980443,海边的曼彻斯特 Manchester by the Sea,https://movie.douban.com/subject/25980443/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg,肯尼思·洛纳根,卡西·阿弗莱克/卢卡斯·赫奇斯/米歇尔·威廉姆斯,剧情/家庭,美国,2016
+27000061,我能说 아이 캔 스피크,https://movie.douban.com/subject/27000061/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498433749.jpg,金炫锡,罗文姬/李帝勋/廉惠兰,剧情/喜剧,韩国,2017
+1306303,无主之地 Ničija zemlja,https://movie.douban.com/subject/1306303/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2192940679.jpg,丹尼斯·塔诺维奇,布兰科·德约里奇/雷内·比托拉亚茨/菲利普·索瓦戈维奇,剧情/战争,波黑/斯洛文尼亚/意大利/法国/英国/比利时,2001
+1296282,歌厅 Cabaret,https://movie.douban.com/subject/1296282/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2359981021.jpg,鲍勃·福斯,丽莎·明奈利/麦克尔·约克/赫尔穆特·格里姆,剧情/爱情/歌舞,美国,1972
+1756073,我们俩,https://movie.douban.com/subject/1756073/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2173725381.jpg,马俪文,宫哲/金雅琴/张淑芳,剧情,中国大陆,2005
+5300054,波西米亚狂想曲 Bohemian Rhapsody,https://movie.douban.com/subject/5300054/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg,布莱恩·辛格,拉米·马雷克/本·哈迪/约瑟夫·梅泽罗,剧情/传记/同性/音乐,英国/美国,2018
+1424627,乌鸦与麻雀 烏鴉与麻雀,https://movie.douban.com/subject/1424627/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582290536.jpg,郑君里,赵丹/上官云珠/孙道临,剧情,中国大陆,1949
+1298063,早安 お早よう,https://movie.douban.com/subject/1298063/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2200572533.jpg,小津安二郎,杉村春子/笠智众/久我美子,喜剧,日本,1959
+6311260,上海滩 上海灘,https://movie.douban.com/subject/6311260/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2344833803.jpg,招振强,周润发/吕良伟/赵雅芝,剧情/动作/犯罪,中国香港,1983
+10437779,新世界 신세계,https://movie.douban.com/subject/10437779/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1903379979.jpg,朴勋政,李政宰/崔岷植/黄政民,剧情/犯罪,韩国,2013
+27010768,寄生虫 기생충,https://movie.douban.com/subject/27010768/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg,奉俊昊,宋康昊/李善均/曹汝贞,剧情,韩国,2019
+27119724,小丑 Joker,https://movie.douban.com/subject/27119724/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567198874.jpg,托德·菲利普斯,华金·菲尼克斯/罗伯特·德尼罗/马克·马龙,剧情/犯罪/惊悚,美国/加拿大,2019
+26628357,一个叫欧维的男人决定去死 En man som heter Ove,https://movie.douban.com/subject/26628357/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg,汉内斯·赫尔姆,罗夫·拉斯加德/巴哈·帕斯/托比亚斯·阿姆博瑞,剧情,瑞典,2015
+1304102,谍影重重 The Bourne Identity,https://movie.douban.com/subject/1304102/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg,道格·里曼,马特·达蒙/弗朗卡·波滕特/克里斯·库珀,动作/悬疑/惊悚,美国/德国/捷克,2002
+1307306,黄昏的清兵卫 たそがれ清兵衛,https://movie.douban.com/subject/1307306/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1529771932.jpg,山田洋次,真田广之/宫泽理惠/小林稔侍,剧情/历史/爱情,日本,2002
+1308767,谍影重重2 The Bourne Supremacy,https://movie.douban.com/subject/1308767/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg,保罗·格林格拉斯,马特·达蒙/布莱恩·考克斯/琼·艾伦,动作/悬疑/惊悚,美国/德国,2004
+1291844,终结者2：审判日 Terminator 2: Judgment Day,https://movie.douban.com/subject/1291844/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg,詹姆斯·卡梅隆,阿诺·施瓦辛格/琳达·汉密尔顿/爱德华·福隆,动作/科幻,美国/法国,1991
+1291824,黑鹰坠落 Black Hawk Down,https://movie.douban.com/subject/1291824/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910900710.jpg,雷德利·斯科特,乔什·哈奈特/伊万·麦克格雷格/汤姆·塞兹摩尔,动作/历史/战争,美国/英国,2001
+1418834,断背山 Brokeback Mountain,https://movie.douban.com/subject/1418834/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2604889017.jpg,李安,希斯·莱杰/杰克·吉伦哈尔/米歇尔·威廉姆斯,剧情/爱情/同性/家庭,美国/加拿大,2005
+1477448,南极大冒险 Eight Below,https://movie.douban.com/subject/1477448/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p687048224.jpg,弗兰克·马歇尔,保罗·沃克/布鲁斯·格林伍德/穆恩·布拉得古德,剧情/冒险,美国,2006
+1291992,末路狂花 Thelma & Louise,https://movie.douban.com/subject/1291992/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910924635.jpg,雷德利·斯科特,吉娜·戴维斯/苏珊·萨兰登/哈威·凯特尔,犯罪/剧情/惊悚,美国/英国/法国,1991
+1890572,坠入 The Fall,https://movie.douban.com/subject/1890572/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2493007551.jpg,塔西姆·辛,凯婷卡·安塔鲁/贾斯蒂恩·瓦戴尔/李·佩斯,剧情/喜剧/奇幻/冒险,美国/南非/印度,2006
+1292274,幸福终点站 The Terminal,https://movie.douban.com/subject/1292274/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p854757687.jpg,史蒂文·斯皮尔伯格,汤姆·汉克斯/凯瑟琳·泽塔-琼斯/斯坦利·图齐,喜剧/剧情/爱情,美国,2004
+1292646,情枭的黎明 Carlito's Way,https://movie.douban.com/subject/1292646/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1365185044.jpg,布莱恩·德·帕尔玛,阿尔·帕西诺/西恩·潘/佩内洛普·安·米勒,犯罪/剧情/惊悚,美国,1993
+1418519,铁拳男人 Cinderella Man,https://movie.douban.com/subject/1418519/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p456421395.jpg,朗·霍华德,罗素·克劳/蕾妮·齐薇格/保罗·吉亚玛提,剧情/家庭/传记/运动,美国,2005
+1292402,西西里的美丽传说 Malèna,https://movie.douban.com/subject/1292402/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg,朱塞佩·托纳多雷,莫妮卡·贝鲁奇/朱塞佩·苏尔法罗/,剧情/战争/情色,意大利/美国,2000
+1298070,加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl,https://movie.douban.com/subject/1298070/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg,戈尔·维宾斯基,约翰尼·德普/杰弗里·拉什/奥兰多·布鲁姆,动作/冒险/奇幻,美国,2003
+2209573,贫民窟的百万富翁 Slumdog Millionaire,https://movie.douban.com/subject/2209573/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg,丹尼·博伊尔/洛芙琳·坦丹,戴夫·帕特尔/沙鲁巴·舒克拉/亚尼·卡普,剧情/爱情,英国,2008
+1301897,何处是我朋友的家 خانه دوست کجاست؟‎,https://movie.douban.com/subject/1301897/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2637230609.jpg,阿巴斯·基亚罗斯塔米,巴比·艾哈迈德·波/艾哈迈德·艾哈迈德·波/科达·巴和·迪范,剧情,伊朗,1987
+1297294,迷魂记 Vertigo,https://movie.douban.com/subject/1297294/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1275162115.jpg,阿尔弗雷德·希区柯克,詹姆斯·斯图尔特/金·诺瓦克/芭芭拉·贝尔·戈迪斯,爱情/悬疑/惊悚,美国,1958
+1292330,恋恋风尘 戀戀風塵,https://movie.douban.com/subject/1292330/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p743473590.jpg,侯孝贤,李天禄/辛树芬/王晶文,剧情/爱情,中国台湾,1986
+1300613,土拨鼠之日 Groundhog Day,https://movie.douban.com/subject/1300613/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493191199.jpg,哈罗德·雷米斯,比尔·默瑞/安迪·麦克道威尔/克里斯·艾略特,剧情/喜剧/爱情/奇幻,美国,1993
+1302642,花火 HANA-BI,https://movie.douban.com/subject/1302642/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p513347103.jpg,北野武,北野武/岸本加世子/大杉涟,剧情/爱情/犯罪/惊悚,日本,1997
+3077668,天水围的日与夜 天水圍的日與夜,https://movie.douban.com/subject/3077668/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2157923959.jpg,许鞍华,鲍起静/陈丽云/梁进龙,剧情/家庭,中国香港,2008
+1291870,雨人 Rain Man,https://movie.douban.com/subject/1291870/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2353324612.jpg,巴瑞·莱文森,达斯汀·霍夫曼/汤姆·克鲁斯/瓦莱丽亚·戈利诺,剧情,美国,1988
+1294638,E.T.外星人 E.T. the Extra-Terrestrial,https://movie.douban.com/subject/1294638/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg,史蒂文·斯皮尔伯格,亨利·托马斯/迪·沃伦斯/罗伯特·麦克纳夫顿,剧情/科幻,美国,1982
+1300741,枪火 鎗火,https://movie.douban.com/subject/1300741/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1538646661.jpg,杜琪峰,吴镇宇/任达华/黄秋生,剧情/动作/犯罪,中国香港,1999
+1291840,走出非洲 Out of Africa,https://movie.douban.com/subject/1291840/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910907281.jpg,西德尼·波拉克,梅丽尔·斯特里普/罗伯特·雷德福/克劳斯·马利亚·布朗道尔,冒险/传记/剧情/爱情,美国,1985
+1292348,洛城机密 L.A. Confidential,https://movie.douban.com/subject/1292348/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2268612099.jpg,柯蒂斯·汉森,凯文·史派西/罗素·克劳/盖·皮尔斯,剧情/犯罪/悬疑/惊悚,美国,1997
+1419936,战争之王 Lord of War,https://movie.douban.com/subject/1419936/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p792282381.jpg,安德鲁·尼科尔,尼古拉斯·凯奇/布里吉特·莫伊纳汉/杰瑞德·莱托,剧情/犯罪,美国/德国,2005
+1292728,勇闯夺命岛 The Rock,https://movie.douban.com/subject/1292728/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p636048104.jpg,迈克尔·贝,肖恩·康纳利/尼古拉斯·凯奇/艾德·哈里斯,动作/冒险,美国,1996
+1867345,遗愿清单 The Bucket List,https://movie.douban.com/subject/1867345/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2676812053.jpg,罗伯·莱纳,杰克·尼科尔森/摩根·弗里曼/西恩·海耶斯,冒险/喜剧/剧情,美国,2007
+1421278,面子 Saving Face,https://movie.douban.com/subject/1421278/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2047680236.jpg,伍思薇,杨雅慧/陈冲/陈凌,剧情/喜剧/爱情/同性,美国,2004
+1309115,帝国的毁灭 Der Untergang,https://movie.douban.com/subject/1309115/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2191978526.jpg,奥利弗·希施比格尔,布鲁诺·冈茨/亚历山德拉·玛丽亚·拉娜/科琳娜·哈弗奇,剧情/传记/历史/战争,德国/奥地利/意大利,2004
+1295684,一夜风流 It Happened One Night,https://movie.douban.com/subject/1295684/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p692891579.jpg,弗兰克·卡普拉,克拉克·盖博/克劳黛·考尔白/沃尔特·康诺利,喜剧/爱情,美国,1934
+10537853,万箭穿心,https://movie.douban.com/subject/10537853/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1759644668.jpg,王竞,颜丙燕/陈刚/焦刚,剧情/家庭,中国大陆,2012
+1296659,舞台春秋 Limelight,https://movie.douban.com/subject/1296659/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2299155914.jpg,查理·卓别林,查理·卓别林/巴斯特·基顿/克莱尔·布鲁姆,喜剧/剧情/音乐/爱情,美国,1952
+1301231,电话谋杀案 Dial M for Murder,https://movie.douban.com/subject/1301231/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1205111193.jpg,阿尔弗雷德·希区柯克,雷·米兰德/格蕾丝·凯利/罗伯特·卡明斯,犯罪/悬疑/惊悚,美国,1954
+1297920,小孩与鹰 Kes,https://movie.douban.com/subject/1297920/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1665724556.jpg,肯·洛奇,大卫·布拉德利/FreddieFletcher/琳内·佩里,剧情/儿童,英国,1969
+1293046,热泪伤痕 Dolores Claiborne,https://movie.douban.com/subject/1293046/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2151462240.jpg,泰勒·海克福德,凯西·贝茨/克里斯托弗·普卢默/大卫·斯特雷泽恩,剧情/悬疑/惊悚,美国,1995
+5975206,记我的母亲 わが母の記,https://movie.douban.com/subject/5975206/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1395004031.jpg,原田真人,役所广司/树木希林/宫崎葵,剧情,日本,2012
+1299582,绿洲 오아시스,https://movie.douban.com/subject/1299582/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2371311227.jpg,李沧东,薛景求/文素丽/安内相,剧情/爱情,韩国,2002
+1293237,变脸,https://movie.douban.com/subject/1293237/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2440233036.jpg,吴天明,朱旭/周任莹/赵志刚,剧情,中国大陆/中国香港,1995
+3037329,遥望南方的童年,https://movie.douban.com/subject/3037329/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561464321.jpg,易寒,易志兵/何伟欣/谢媛,剧情,中国大陆,2007
+1297268,秋日奏鸣曲 Höstsonaten,https://movie.douban.com/subject/1297268/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2034707962.jpg,英格玛·伯格曼,英格丽·褒曼/丽芙·乌曼/莱娜·尼曼,剧情/家庭,瑞典/西德/英国,1978
+1416898,鲸鱼马戏团 Werckmeister harmóniák,https://movie.douban.com/subject/1416898/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p726224656.jpg,贝拉·塔尔/阿尼亚斯·赫拉尼茨基,拉尔斯·鲁道夫/彼得·菲茨/汉娜·许古拉,剧情/悬疑,匈牙利/意大利/德国/法国,2000
+26703158,斯隆女士 Miss Sloane,https://movie.douban.com/subject/26703158/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2356912156.jpg,约翰·马登,杰西卡·查斯坦/古古·姆巴塔-劳/约翰·利思戈,剧情/悬疑,美国/法国,2016
+26710657,芬妮的旅程 Le voyage de Fanny,https://movie.douban.com/subject/26710657/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457733322.jpg,萝拉·多尔伦,莱奥尼·西索德/芳汀·阿杜安/朱莉安娜·勒普罗,剧情/战争,法国/比利时,2016
+1449711,世上最快的印第安摩托 The World's Fastest Indian,https://movie.douban.com/subject/1449711/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2480744820.jpg,罗杰·唐纳森,安东尼·霍普金斯/艾伦·墨菲/蒂姆·夏伯特,传记/剧情/运动,新西兰/日本/美国,2005
+1297368,卓别林 Chaplin,https://movie.douban.com/subject/1297368/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2236690438.jpg,理查德·阿滕伯勒,小罗伯特·唐尼/杰拉丁·卓别林/保罗·瑞斯,剧情/传记,英国/美国/法国/意大利,1992
+1298385,解构爱情狂 Deconstructing Harry,https://movie.douban.com/subject/1298385/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2099964935.jpg,伍迪·艾伦,伍迪·艾伦/罗宾·威廉姆斯/黛米·摩尔,喜剧,美国,1997
+1295038,哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone,https://movie.douban.com/subject/1295038/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614949805.jpg,克里斯·哥伦布,丹尼尔·雷德克里夫/艾玛·沃森/鲁伯特·格林特,奇幻/冒险,美国/英国,2001
+1296218,过年,https://movie.douban.com/subject/1296218/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2206392237.jpg,黄健中,赵丽蓉/李保田/葛优,剧情/家庭,中国大陆,1991
+3552028,弱点 The Blind Side,https://movie.douban.com/subject/3552028/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2577248102.jpg,约翰·李·汉考克,桑德拉·布洛克/蒂姆·麦格罗/昆东·亚伦,剧情/家庭/传记/运动,美国,2009
+1302605,远山的呼唤 遥かなる山の呼び声,https://movie.douban.com/subject/1302605/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2213081303.jpg,山田洋次,高仓健/倍赏千惠子/吉冈秀隆,剧情,日本,1980
+1421733,伊豆的舞女 伊豆の踊子,https://movie.douban.com/subject/1421733/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p939020358.jpg,西河克己,山口百惠/三浦友和/一之宫敦子,剧情,日本,1974
+1450031,启示 Apocalypto,https://movie.douban.com/subject/1450031/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1374588202.jpg,梅尔·吉布森,鲁迪·杨布拉德/达利娅·埃尔南德斯/乔纳森·布雷维尔,动作/冒险/剧情,美国,2006
+1418200,傲慢与偏见 Pride & Prejudice,https://movie.douban.com/subject/1418200/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg,乔·赖特,凯拉·奈特莉/马修·麦克费登/唐纳德·萨瑟兰,剧情/爱情,法国/英国/美国,2005
+1294038,流星语 流星語,https://movie.douban.com/subject/1294038/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p939431341.jpg,张之亮,张国荣/叶靖岚/狄龙,喜剧/剧情,中国香港,1999
+1309016,百万美元宝贝 Million Dollar Baby,https://movie.douban.com/subject/1309016/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1734930026.jpg,克林特·伊斯特伍德,克林特·伊斯特伍德/希拉里·斯万克/摩根·弗里曼,剧情/运动,美国,2004
+1298653,荒岛余生 Cast Away,https://movie.douban.com/subject/1298653/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2207673534.jpg,罗伯特·泽米吉斯,汤姆·汉克斯/海伦·亨特/克里斯·诺斯,冒险/剧情,美国,2000
+1308086,昨天,https://movie.douban.com/subject/1308086/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2871315616.jpg,张杨,贾宏声/王彤/贾凤森,传记/剧情/音乐,中国大陆,2001
+2000741,母亲 母べえ,https://movie.douban.com/subject/2000741/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1176372745.jpg,山田洋次,吉永小百合/浅野忠信/檀丽,剧情/家庭,日本,2008
+1292287,新龙门客栈 新龍門客棧,https://movie.douban.com/subject/1292287/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg,李惠民,张曼玉/林青霞/梁家辉,动作/爱情/武侠/古装,中国香港/中国大陆,1992
+1297991,杀死一只知更鸟 To Kill a Mockingbird,https://movie.douban.com/subject/1297991/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2164106144.jpg,罗伯特·马利根,格利高里·派克/约翰·梅根纳/弗兰克·奥弗顿,剧情/犯罪,美国,1962
+1293929,廊桥遗梦 The Bridges of Madison County,https://movie.douban.com/subject/1293929/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190558219.jpg,克林特·伊斯特伍德,克林特·伊斯特伍德/梅丽尔·斯特里普/安妮·科利,剧情/爱情,美国,1995
+1300555,回到未来 Back to the Future,https://movie.douban.com/subject/1300555/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p475872903.jpg,罗伯特·泽米吉斯,迈克尔·J·福克斯/克里斯托弗·洛伊德/莉·汤普森,喜剧/科幻/冒险,美国,1985
+1297192,致命ID Identity,https://movie.douban.com/subject/1297192/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.jpg,詹姆斯·曼高德,约翰·库萨克/雷·利奥塔/阿曼达·皮特,剧情/悬疑/惊悚,美国,2003
+1978709,黑天鹅 Black Swan,https://movie.douban.com/subject/1978709/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549648344.jpg,达伦·阿伦诺夫斯基,娜塔莉·波特曼/米拉·库尼斯/文森特·卡塞尔,剧情/惊悚,美国,2010
+2213597,朗读者 The Reader,https://movie.douban.com/subject/2213597/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg,史蒂芬·戴德利,凯特·温丝莱特/大卫·克劳斯/拉尔夫·费因斯,剧情/爱情,美国/德国,2008
+1300055,全金属外壳 Full Metal Jacket,https://movie.douban.com/subject/1300055/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553116438.jpg,斯坦利·库布里克,马修·莫迪恩/亚当·鲍德温/文森特·多诺费奥,剧情/战争,英国/美国,1987
+1457219,光荣之路 Glory Road,https://movie.douban.com/subject/1457219/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1321134590.jpg,詹姆斯·加特纳,乔什·卢卡斯/WesBrown/德里克·卢克,剧情/传记/运动,美国,2006
+1293753,十月的天空 October Sky,https://movie.douban.com/subject/1293753/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p452602741.jpg,乔·庄斯顿,杰克·吉伦哈尔/克里斯·库珀/劳拉·邓恩,传记/剧情/家庭,美国,1999
+1293695,鸳梦重温 Random Harvest,https://movie.douban.com/subject/1293695/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2203652618.jpg,茂文·勒鲁瓦,罗纳德·考尔曼/葛丽亚·嘉逊/菲利普·多恩,剧情/爱情,美国,1942
+2334904,禁闭岛 Shutter Island,https://movie.douban.com/subject/2334904/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg,马丁·斯科塞斯,莱昂纳多·迪卡普里奥/马克·鲁弗洛/本·金斯利,剧情/悬疑/惊悚,美国,2010
+1438652,无耻混蛋 Inglourious Basterds,https://movie.douban.com/subject/1438652/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1086394013.jpg,昆汀·塔伦蒂诺,布拉德·皮特/梅拉尼·罗兰/克里斯托弗·瓦尔兹,剧情/犯罪,德国/美国,2009
+1297447,倩女幽魂,https://movie.douban.com/subject/1297447/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg,程小东,张国荣/王祖贤/午马,爱情/奇幻/武侠/古装,中国香港,1987
+1297418,麻将 麻將,https://movie.douban.com/subject/1297418/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2327303475.jpg,杨德昌,柯宇纶/张震/林海象,喜剧/剧情,中国台湾,1996
+1305261,恐怖分子 恐怖份子,https://movie.douban.com/subject/1305261/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2347245849.jpg,杨德昌,缪骞人/李立群/金士杰,剧情/犯罪,中国台湾,1986
+1291852,弗里达 Frida,https://movie.douban.com/subject/1291852/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p729625029.jpg,朱丽·泰莫,萨尔玛·海耶克/阿尔弗雷德·莫里纳/米娅·麦斯特罗,传记/剧情/爱情,美国/墨西哥/加拿大,2002
+1303577,雨月物语 雨月物語,https://movie.douban.com/subject/1303577/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2439235403.jpg,沟口健二,田中绢代/森雅之/小泽荣太郎,剧情/战争/奇幻,日本,1953
+4832288,奇迹 奇跡,https://movie.douban.com/subject/4832288/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1172845476.jpg,是枝裕和,前田航基/前田旺志郎/大塚宁宁,剧情/家庭,日本,2011
+1980825,永远的三丁目的夕阳2 ALWAYS 続・三丁目の夕日,https://movie.douban.com/subject/1980825/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1011704039.jpg,山崎贵,吉冈秀隆/堤真一/小雪,剧情,日本,2007
+1291860,瓦尔特保卫萨拉热窝 Валтер брани Сарајево,https://movie.douban.com/subject/1291860/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556873379.jpg,哈伊鲁丁·克尔瓦瓦茨,韦利米尔·巴塔·日沃伊诺维奇/拉德·马尔科维奇/留比沙·萨马季奇,战争,南斯拉夫,1972
+1292943,光辉岁月 Remember the Titans,https://movie.douban.com/subject/1292943/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p858717623.jpg,鲍兹·亚金,丹泽尔·华盛顿/威尔·帕顿/伍德·哈里斯,剧情/传记/运动,美国,2000
+1303535,战场上的快乐圣诞 Merry Christmas Mr. Lawrence,https://movie.douban.com/subject/1303535/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630100110.jpg,大岛渚,大卫·鲍伊/汤姆·康蒂/坂本龙一,剧情/战争/同性,英国/新西兰/日本,1983
+1292586,再见，孩子们 Au revoir les enfants,https://movie.douban.com/subject/1292586/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1095874762.jpg,路易·马勒,加斯帕·曼尼斯/拉斐尔·费伊特/弗朗辛·拉塞特,剧情/战争,法国/西德/意大利,1987
+1300117,千钧一发 Gattaca,https://movie.douban.com/subject/1300117/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg,安德鲁·尼科尔,伊桑·霍克/乌玛·瑟曼/裘德·洛,剧情/科幻/惊悚,美国,1997
+1292226,2001太空漫游 2001: A Space Odyssey,https://movie.douban.com/subject/1292226/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560717825.jpg,斯坦利·库布里克,凯尔·杜拉/加里·洛克伍德/威廉姆·西尔维斯特,科幻/惊悚/冒险,英国/美国,1968
+3732800,我们天上见,https://movie.douban.com/subject/3732800/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p459518618.jpg,蒋雯丽,朱旭/姚君/朱一诺,剧情/家庭,中国大陆,2009
+1293145,费城故事 Philadelphia,https://movie.douban.com/subject/1293145/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p750348993.jpg,乔纳森·戴米,汤姆·汉克斯/丹泽尔·华盛顿/罗伯塔·马克斯韦尔,剧情/同性,美国,1993
+1300299,杀人回忆 살인의 추억,https://movie.douban.com/subject/1300299/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1633113220.jpg,奉俊昊,宋康昊/金相庆/金雷夏,剧情/动作/犯罪/悬疑/惊悚,韩国,2003
+1292214,非常嫌疑犯 The Usual Suspects,https://movie.douban.com/subject/1292214/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455372830.jpg,布莱恩·辛格,史蒂芬·鲍德温/加布里埃尔·伯恩/本尼西奥·德尔·托罗,犯罪/悬疑/惊悚,德国/美国,1995
+1292056,蝴蝶 Le papillon,https://movie.douban.com/subject/1292056/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464686077.jpg,费利普·弥勒,米歇尔·塞罗尔/柯莱儿·布翁尼许/娜德·蒂约,剧情/儿童/喜剧,法国,2002
+1292401,真爱至上 Love Actually,https://movie.douban.com/subject/1292401/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg,理查德·柯蒂斯,休·格兰特/连姆·尼森/科林·费尔斯,喜剧/剧情/爱情,英国/美国/法国,2003
+5383158,曼联重生 United,https://movie.douban.com/subject/5383158/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2360432019.jpg,詹姆斯·斯特朗,大卫·田纳特/杰克·奥康奈尔/山姆·克拉弗林,剧情/历史/运动,英国,2011
+3395373,蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises,https://movie.douban.com/subject/3395373/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg,克里斯托弗·诺兰,克里斯蒂安·贝尔/汤姆·哈迪/安妮·海瑟薇,剧情/动作/科幻/犯罪/惊悚,美国/英国,2012
+6753589,理查二世 Richard II,https://movie.douban.com/subject/6753589/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2096736876.jpg,鲁伯特·古尔德,本·卫肖/克蕾曼丝·波西/帕特里克·斯图尔特,剧情/历史,英国,2012
+10543906,"亨利四世：第二部分 Henry IV, Part 2",https://movie.douban.com/subject/10543906/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2096732226.jpg,理查德·艾尔,杰瑞米·艾恩斯/汤姆·希德勒斯顿/西蒙·拉塞尔·比尔,剧情/历史,英国,2012
+10441064,"亨利四世：第一部分 Henry IV, Part 1",https://movie.douban.com/subject/10441064/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2096730708.jpg,理查德·艾尔,杰瑞米·艾恩斯/汤姆·希德勒斯顿/西蒙·拉塞尔·比尔,剧情/历史,英国/美国,2012
+3993559,赛德克·巴莱 賽德克·巴萊,https://movie.douban.com/subject/3993559/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1494834979.jpg,魏德圣,林庆台/马志翔/安藤政信,剧情/历史/战争,中国台湾,2012
+6393127,赛德克·巴莱(下)：彩虹桥 賽德克·巴萊(下)彩虹橋,https://movie.douban.com/subject/6393127/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1174627051.jpg,魏德圣,马志翔/温岚/田中千绘,剧情/历史/战争,中国台湾,2011
+3796613,与玛格丽特的午后 La tête en friche,https://movie.douban.com/subject/3796613/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p855075428.jpg,让·贝克,热拉尔·德帕迪约/吉赛勒·卡扎德絮/帕特里克·伯利奇,喜剧,法国,2010
+1303075,这里的黎明静悄悄 А зори здесь тихие,https://movie.douban.com/subject/1303075/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549456054.jpg,斯坦尼斯拉夫·罗斯托茨基,安德烈·马尔蒂诺夫/伊琳娜·多尔加诺娃/伊莲娜·德罗佩科,剧情/历史/战争,苏联,1972
+4935242,焦土之城 Incendies,https://movie.douban.com/subject/4935242/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p981048348.jpg,丹尼斯·维伦纽瓦,卢巴纳·阿兹巴尔/梅丽莎·德索蒙斯-波林/马克西姆·高德特,剧情/战争/悬疑,加拿大/法国,2010
+4798707,爱 Amour,https://movie.douban.com/subject/4798707/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1566292031.jpg,迈克尔·哈内克,让-路易·特兰蒂尼昂/埃玛妞·丽娃/伊莎贝尔·于佩尔,剧情/爱情,法国/德国/奥地利,2012
+6860160,悲惨世界 Les Misérables,https://movie.douban.com/subject/6860160/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1900812761.jpg,汤姆·霍伯,休·杰克曼/罗素·克劳/安妮·海瑟薇,剧情/爱情/歌舞,英国/美国,2012
+1293373,一级谋杀 Murder in the First,https://movie.douban.com/subject/1293373/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2199907428.jpg,马可·罗科,克里斯蒂安·史莱特/凯文·贝肯/加里·奥德曼,剧情/惊悚,法国/美国,1995
+10484041,横道世之介,https://movie.douban.com/subject/10484041/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2021127692.jpg,冲田修一,高良健吾/吉高由里子/池松壮亮,剧情/爱情,日本,2013
+1303388,安全至下 Safety Last!,https://movie.douban.com/subject/1303388/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1920360311.jpg,弗雷德·C·纽迈尔/山姆·泰勒,哈罗德·劳埃德/米尔德丽德·戴维斯/比尔·斯特罗瑟,喜剧/爱情/惊悚,美国,1923
+1300955,同流者 Il conformista,https://movie.douban.com/subject/1300955/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p578516223.jpg,贝纳尔多·贝托鲁奇,让-路易·特兰蒂尼昂/斯特法尼娅·桑德雷莉/加斯通·莫辛,剧情,意大利/法国/西德,1970
+1306454,烈焰焚币 Plata quemada,https://movie.douban.com/subject/1306454/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p587156828.jpg,马西路·品尼路,莱昂纳多·斯巴拉格利亚/爱德华多·诺列加/巴勃罗·埃查里,剧情/爱情/犯罪/惊悚/同性,阿根廷/西班牙/乌拉圭,2000
+26683421,特工 공작,https://movie.douban.com/subject/26683421/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528281606.jpg,尹钟彬,黄政民/李星民/赵震雄,剧情,韩国,2018
+1291557,花样年华 花樣年華,https://movie.douban.com/subject/1291557/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg,王家卫,梁朝伟/张曼玉/潘迪华,剧情/爱情,中国香港,2000
+1307067,战争与和平 Война и мир,https://movie.douban.com/subject/1307067/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548048318.jpg,谢尔盖·邦达尔丘克,谢尔盖·邦达尔丘克/柳德米拉·萨维里耶娃/维亚切斯拉夫·吉洪诺夫,剧情/历史/爱情/战争,苏联,1966
+30327842,82年生的金智英 82년생 김지영,https://movie.douban.com/subject/30327842/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578045524.jpg,金度英,郑有美/孔刘/金美卿,剧情,韩国,2019
+30257175,燃烧女子的肖像 Portrait de la jeune fille en feu,https://movie.douban.com/subject/30257175/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584308261.jpg,瑟琳·席安玛,诺米·梅兰特/阿黛拉·哈内尔/卢安娜·巴杰拉米,剧情/爱情/同性,法国,2019
+1303521,特写 کلوزآپ,https://movie.douban.com/subject/1303521/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2350715785.jpg,阿巴斯·基亚罗斯塔米,HossainSabzian/莫森·玛克玛尔巴夫/AbolfazlAhankhah,犯罪/剧情,伊朗,1990
+26615208,隐藏人物 Hidden Figures,https://movie.douban.com/subject/26615208/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2374067318.jpg,西奥多·梅尔菲,塔拉吉·P·汉森/奥克塔维亚·斯宾瑟/加奈儿·梦奈,剧情/传记/历史,美国,2016
+6874403,再次出发之纽约遇见你 Begin Again,https://movie.douban.com/subject/6874403/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg,约翰·卡尼,凯拉·奈特莉/马克·鲁弗洛/亚当·莱文,喜剧/爱情/音乐,美国,2013
+1293414,阮玲玉,https://movie.douban.com/subject/1293414/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768817927.jpg,关锦鹏,张曼玉/梁家辉/秦汉,传记/剧情/爱情,中国香港,1991
+1292233,发条橙 A Clockwork Orange,https://movie.douban.com/subject/1292233/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p529908155.jpg,斯坦利·库布里克,马尔科姆·麦克道威尔/帕特里克·马基/迈克尔·贝茨,犯罪/剧情/科幻,英国/美国,1971
+1293323,大红灯笼高高挂,https://movie.douban.com/subject/1293323/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1254404823.jpg,张艺谋,巩俐/马精武/何赛飞,剧情,中国大陆/中国香港/中国台湾,1991
+34961898,汉密尔顿 Hamilton,https://movie.douban.com/subject/34961898/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2612429822.jpg,托马斯·凯尔,林-曼努尔·米兰达/小莱斯利·奥多姆/戴维德·迪格斯,历史/歌舞,美国,2020
+1307106,无间道2 無間道II,https://movie.douban.com/subject/1307106/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p958008320.jpg,刘伟强/麦兆辉,陈冠希/余文乐/曾志伟,剧情/犯罪/惊悚,中国香港,2003
+1303394,青蛇,https://movie.douban.com/subject/1303394/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570901292.jpg,徐克,张曼玉/王祖贤/赵文卓,剧情/爱情/奇幻/古装,中国香港/中国大陆,1993
+1295287,党同伐异 Intolerance: Love's Struggle Throughout the Ages,https://movie.douban.com/subject/1295287/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497099880.jpg,大卫·格里菲斯,丽莲·吉许/梅·马什/罗伯特·哈伦,剧情/历史/爱情,美国,1916
+1292472,巴里·林登 Barry Lyndon,https://movie.douban.com/subject/1292472/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2198677761.jpg,斯坦利·库布里克,瑞安·奥尼尔/马里莎·贝伦森/帕特里克·马基,剧情/爱情/战争,英国/美国,1975
+1308038,牧马人,https://movie.douban.com/subject/1308038/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517627958.jpg,谢晋,朱时茂/丛珊/刘琼,剧情/爱情,中国大陆,1982
+10756537,杀死比尔：整个血腥事件 Kill Bill: The Whole Bloody Affair,https://movie.douban.com/subject/10756537/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1557229084.jpg,昆汀·塔伦蒂诺,乌玛·瑟曼/迈克尔·鲍文/大卫·卡拉丁,动作/犯罪,美国,2011
+10755367,寂静人生 Still Life,https://movie.douban.com/subject/10755367/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2204300672.jpg,乌贝托·帕索里尼,埃迪·马森/琼安·弗洛加特/安德鲁·巴肯,剧情,英国/意大利,2013
+1361252,夜 La notte,https://movie.douban.com/subject/1361252/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2376274685.jpg,米开朗基罗·安东尼奥尼,马塞洛·马斯楚安尼/让娜·莫罗/莫妮卡·维蒂,剧情/爱情,意大利/法国,1961
+1302827,人工智能 A.I. Artificial Intelligence,https://movie.douban.com/subject/1302827/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg,史蒂文·斯皮尔伯格,海利·乔·奥斯蒙/弗兰西丝·奥康纳/山姆·洛巴兹,剧情/科幻,美国/英国,2001
+1307697,芝加哥 Chicago,https://movie.douban.com/subject/1307697/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2454020352.jpg,罗伯·马歇尔,泰雅·迪格斯/凯瑟琳·泽塔-琼斯/蕾妮·齐薇格,喜剧/歌舞/犯罪,美国/德国,2002
+2609258,芝加哥七君子审判 The Trial of the Chicago 7,https://movie.douban.com/subject/2609258/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2620161520.jpg,艾伦·索金,埃迪·雷德梅恩/艾利克斯·夏普/萨莎·拜伦·科恩,剧情/历史,美国/英国/印度,2020
+1295116,西线无战事 All Quiet on the Western Front,https://movie.douban.com/subject/1295116/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209784767.jpg,刘易斯·迈尔斯通,路易斯·沃海姆/刘·艾尔斯/约翰·雷,剧情/动作/历史/战争,美国,1930
+1300977,飞向太空 Солярис,https://movie.douban.com/subject/1300977/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p573091524.jpg,安德烈·塔可夫斯基,纳塔莉亚·邦达尔丘克/多纳塔斯•巴尼奥尼斯/尤里·贾维特,剧情/科幻/悬疑,苏联,1972
+1295656,潜行者 Сталкер,https://movie.douban.com/subject/1295656/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2327634482.jpg,安德烈·塔可夫斯基,亚历山大·凯伊达诺夫斯基/阿丽萨·弗雷因德利赫/安纳托利·索洛尼岑,剧情/科幻/悬疑,苏联,1979
+1294531,牺牲 Offret,https://movie.douban.com/subject/1294531/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456417673.jpg,安德烈·塔可夫斯基,厄兰·约瑟夫森/苏珊·弗利特伍德/艾伦·埃德渥,剧情,瑞典/法国/英国,1986
+2063528,盲山,https://movie.douban.com/subject/2063528/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p524941991.jpg,李杨,黄璐/杨幼安/贺运乐,剧情/犯罪,中国大陆,2007
+1305814,小树的故事 The Education of Little Tree,https://movie.douban.com/subject/1305814/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526007439.jpg,理查德·弗雷登伯格,约瑟夫·阿什顿/詹姆斯·克伦威尔/坦图·卡丁诺,剧情,加拿大,1997
+1947270,天狗,https://movie.douban.com/subject/1947270/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1379497824.jpg,戚健,富大龙/朱媛媛/刘子枫,剧情,中国大陆,2006
+1297518,九品芝麻官,https://movie.douban.com/subject/1297518/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg,王晶,周星驰/吴孟达/张敏,剧情/喜剧/古装,中国香港/中国大陆,1994
+1296542,铁达尼号沉没记 Titanic,https://movie.douban.com/subject/1296542/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1502753803.jpg,罗伯特·里伯曼,彼得·盖勒/凯瑟琳·泽塔-琼斯/乔治·C·斯科特,剧情/动作/历史/爱情/灾难,加拿大/美国,1996
+30331959,黑水 Dark Waters,https://movie.douban.com/subject/30331959/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2569450232.jpg,托德·海因斯,马克·鲁弗洛/安妮·海瑟薇/蒂姆·罗宾斯,剧情,美国,2019
+1293315,阿郎的故事,https://movie.douban.com/subject/1293315/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p763776246.jpg,杜琪峰,周润发/张艾嘉/黄坤玄,剧情/家庭,中国香港,1989
+1361276,八部半 8½,https://movie.douban.com/subject/1361276/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2161627049.jpg,费德里科·费里尼,马塞洛·马斯楚安尼/克劳迪娅·卡汀娜/阿努克·艾梅,剧情,意大利/法国,1963
+26419637,误杀瞒天记 Drishyam,https://movie.douban.com/subject/26419637/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870295964.jpg,尼西卡特·卡马特,阿贾耶·德乌干/塔布/施芮娅·萨兰,剧情/犯罪/悬疑,印度,2015
+33432655,困在时间里的父亲 The Father,https://movie.douban.com/subject/33432655/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2628877926.jpg,佛罗莱恩·泽勒,安东尼·霍普金斯/奥利维娅·科尔曼/马克·加蒂斯,剧情,英国/法国,2020
+27114240,冒牌上尉 Der Hauptmann,https://movie.douban.com/subject/27114240/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516702580.jpg,罗伯特·施文特克,麦克斯·胡巴赫/米兰·佩舍尔/弗雷德里克·劳,剧情/历史/战争,德国/波兰/法国,2017
+26671361,喜丧,https://movie.douban.com/subject/26671361/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2361586020.jpg,张涛,郁凤云/王士兰/李宝明,剧情/家庭,中国大陆/中国香港/法国,2015
+1793929,达拉斯买家俱乐部 Dallas Buyers Club,https://movie.douban.com/subject/1793929/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg,让-马克·瓦雷,马修·麦康纳/詹妮弗·加纳/杰瑞德·莱托,剧情/传记/同性,美国,2013
+1306506,阿Q正传,https://movie.douban.com/subject/1306506/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2700219205.jpg,岑范,严顺开/王苏娅/李纬,剧情,中国大陆,1981
+1946786,隐藏的恋情 Un amour à taire,https://movie.douban.com/subject/1946786/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1716549482.jpg,克里斯蒂安·富尔,杰瑞米·雷乃/露易丝·莫诺特/布鲁诺·托德契尼,剧情/爱情/战争/同性,法国,2005
+5301572,大宅门,https://movie.douban.com/subject/5301572/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1964425586.jpg,郭宝昌,斯琴高娃/陈宝国/刘佩琦,剧情/爱情/传记,中国大陆,2003
+1302467,黑客帝国3：矩阵革命 The Matrix Revolutions,https://movie.douban.com/subject/1302467/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg,拉娜·沃卓斯基/莉莉·沃卓斯基,基努·里维斯/劳伦斯·菲什伯恩/凯瑞-安·莫斯,动作/科幻,美国,2003
+34874432,花束般的恋爱 花束みたいな恋をした,https://movie.douban.com/subject/34874432/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2868462052.jpg,土井裕泰,菅田将晖/有村架纯/细田佳央太,剧情/爱情,日本,2021
+25773932,爆裂鼓手 Whiplash,https://movie.douban.com/subject/25773932/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg,达米恩·查泽雷,迈尔斯·特勒/J·K·西蒙斯/保罗·雷瑟,剧情/音乐,美国,2014
+1309163,恋恋笔记本 The Notebook,https://movie.douban.com/subject/1309163/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg,尼克·卡萨维蒂,瑞恩·高斯林/瑞秋·麦克亚当斯/吉娜·罗兰兹,剧情/爱情,美国,2004
+2208890,姊姊妹妹站起来,https://movie.douban.com/subject/2208890/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532438503.jpg,陈西禾,李萌/梁明/李纬,剧情,中国大陆,1951
+26266892,红鳉鱼 赤めだか,https://movie.douban.com/subject/26266892/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2315734512.jpg,高畑秀太,二宫和也/北野武/宫川大辅,剧情/传记,日本,2015
+1366165,死者田园祭 田園に死す,https://movie.douban.com/subject/1366165/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2141520557.jpg,寺山修司,菅贯太郎/高野浩幸/八千草薰,剧情/奇幻,日本,1974
+1432669,我是古巴 Я - Куба,https://movie.douban.com/subject/1432669/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2232357924.jpg,米哈伊尔·卡拉托佐夫,塞吉欧·柯瑞里/SalvadorWood/JoséGallardo,剧情,苏联/古巴,1964
+1299166,街角的商店 The Shop Around the Corner,https://movie.douban.com/subject/1299166/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1362848748.jpg,恩斯特·刘别谦,玛格里特·苏利文/詹姆斯·斯图尔特/弗兰克·摩根,喜剧/爱情/剧情,美国,1940
+1293841,倒扣的王牌 Ace in the Hole,https://movie.douban.com/subject/1293841/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2184912622.jpg,比利·怀尔德,柯克·道格拉斯/简·斯特林/罗伯特·亚瑟,剧情/黑色电影,美国,1951
+1295991,小偷 Вор,https://movie.douban.com/subject/1295991/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497304589.jpg,帕维尔·丘赫莱伊,弗拉基米尔·马什科夫VladimirMashkov/叶卡捷琳娜·列德尼科娃/米沙·菲利普丘克,剧情,俄罗斯/法国,1997
+1293663,天国与地狱 天国と地獄,https://movie.douban.com/subject/1293663/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2209964156.jpg,黑泽明,三船敏郎/仲代达矢/香川京子,剧情/犯罪,日本,1963
+1440164,大菩萨岭 大菩薩峠,https://movie.douban.com/subject/1440164/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2187846310.jpg,冈本喜八,仲代达矢/新珠三千代/加山雄三,剧情/动作,日本,1966
+1293861,油炸绿番茄 Fried Green Tomatoes,https://movie.douban.com/subject/1293861/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1452662468.jpg,乔恩·阿维奈,凯西·贝茨/杰西卡·坦迪/玛丽-露易丝·帕克,剧情,美国,1991
+1308607,稻草人,https://movie.douban.com/subject/1308607/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531300808.jpg,王童,卓胜利/张柏舟/吴炳南,喜剧/历史/战争,中国台湾,1987
+1298241,"玉女风流 One, Two, Three",https://movie.douban.com/subject/1298241/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1082838488.jpg,比利·怀尔德,詹姆斯·卡格尼/霍斯特·布赫霍尔茨/帕梅拉·蒂芬,喜剧,美国,1961
+1292516,碧血金沙 The Treasure of the Sierra Madre,https://movie.douban.com/subject/1292516/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1729769888.jpg,约翰·休斯顿,亨弗莱·鲍嘉/沃尔特·休斯顿/提姆·霍尔特,剧情/西部/冒险,美国,1948
+1306326,笼民 籠民,https://movie.douban.com/subject/1306326/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2650624850.jpg,张之亮,黄家驹/乔宏/廖启智,剧情,中国香港,1992
+1300352,七次机会 Seven Chances,https://movie.douban.com/subject/1300352/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2321431402.jpg,巴斯特·基顿,巴斯特·基顿/T.罗伊·巴尔内斯/辛兹·爱德华,喜剧/爱情,美国,1925
+1307639,最卑贱的人 Der letzte Mann,https://movie.douban.com/subject/1307639/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205341979.jpg,F·W·茂瑙,埃米尔·雅宁斯/梅丽·戴尔沙夫特/MaxHiller,剧情,德国,1924
+3750554,彩虹照耀 A Shine of Rainbows,https://movie.douban.com/subject/3750554/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2634561281.jpg,维克·萨林,康妮·尼尔森/艾丹·奎因/NiamhShaw,剧情/家庭,加拿大/爱尔兰,2009
+1394410,南特的雅克·德米 Jacquôt de Nantes,https://movie.douban.com/subject/1394410/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552495254.jpg,阿涅斯·瓦尔达,PhilippeMaron/EdouardJoubeaud/LaurentMonnier,传记/剧情,法国,1991
+3228134,世界旦夕之间 Welt am Draht,https://movie.douban.com/subject/3228134/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1141931637.jpg,赖纳·维尔纳·法斯宾德,克劳斯·洛维奇/芭芭拉·瓦伦汀/古特·拉姆普雷切特,科幻/犯罪/悬疑,西德,1973
+30410114,给我翅膀 Donne-moi des ailes,https://movie.douban.com/subject/30410114/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561160802.jpg,尼古拉·瓦尼埃,让-保罗·卢弗/梅拉妮·杜泰/路尔斯·瓦兹奎兹,冒险,法国,2019
+35048413,健听女孩 CODA,https://movie.douban.com/subject/35048413/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870510534.jpg,夏安·海德,艾米莉亚·琼斯/特洛伊·科特苏尔/玛丽·玛特琳,剧情/音乐,美国/法国/加拿大,2021
+30271841,多哥 Togo,https://movie.douban.com/subject/30271841/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2575882765.jpg,埃里克松·科尔,威廉·达福/朱丽安妮·尼科尔森/克里斯托弗·赫耶达尔,剧情/冒险,美国,2019
+27132510,教宗的承继 The Two Popes,https://movie.douban.com/subject/27132510/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567299222.jpg,费尔南多·梅里尔斯,安东尼·霍普金斯/乔纳森·普雷斯/胡安·米努欣,剧情/传记,英国/意大利,2019
+27202818,婚姻故事 Marriage Story,https://movie.douban.com/subject/27202818/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571760178.jpg,诺亚·鲍姆巴赫,斯嘉丽·约翰逊/亚当·德赖弗/劳拉·邓恩,剧情/爱情,英国/美国,2019
+6981153,爱尔兰人 The Irishman,https://movie.douban.com/subject/6981153/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2568902055.jpg,马丁·斯科塞斯,罗伯特·德尼罗/阿尔·帕西诺/乔·佩西,剧情/传记/犯罪,美国,2019
+26701196,无主之作 Werk ohne Autor,https://movie.douban.com/subject/26701196/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554483719.jpg,弗洛里安·亨克尔·冯·多纳斯马尔克,汤姆·希林/塞巴斯蒂安·科赫/葆拉·贝尔,剧情,德国/意大利,2018
+27119586,谁先爱上他的 誰先愛上他的,https://movie.douban.com/subject/27119586/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2548181591.jpg,徐誉庭/许智彦,邱泽/谢盈萱/陈如山,剧情/喜剧/同性,中国台湾,2018
+27060077,绿皮书 Green Book,https://movie.douban.com/subject/27060077/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531065411.jpg,彼得·法雷里,维果·莫腾森/马赫沙拉·阿里/琳达·卡德里尼,剧情/喜剧/传记/音乐,美国/中国大陆,2018
+1307766,那山那人那狗,https://movie.douban.com/subject/1307766/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p798810224.jpg,霍建起,滕汝骏/刘烨/赵秀丽,剧情/家庭,中国大陆,1999
+3369426,T省的84·85年,https://movie.douban.com/subject/3369426/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502295836.jpg,杨延晋,叶志康/达式常/郭允泰,剧情,中国大陆,1986
+19976058,念书的孩子,https://movie.douban.com/subject/19976058/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461375551.jpg,原雅轩,江化霖/李佳奇/原明轩,剧情/儿童,中国大陆,2012
+27622447,小偷家族 万引き家族,https://movie.douban.com/subject/27622447/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg,是枝裕和,中川雅也/安藤樱/松冈茉优,剧情/犯罪/家庭,日本,2018
+26787574,奇迹男孩 Wonder,https://movie.douban.com/subject/26787574/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507709428.jpg,斯蒂芬·卓博斯基,雅各布·特伦布莱/朱莉娅·罗伯茨/伊扎贝拉·维多维奇,剧情/儿童/家庭,美国/中国香港,2017
+26611804,"三块广告牌 Three Billboards Outside Ebbing, Missouri",https://movie.douban.com/subject/26611804/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502943384.jpg,马丁·麦克唐纳,弗兰西斯·麦克多蒙德/伍迪·哈里森/山姆·洛克威尔,剧情/犯罪,英国/美国,2017
+27030639,啊，荒野 后篇 あゝ、荒野 後篇,https://movie.douban.com/subject/27030639/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500978171.jpg,岸善幸,菅田将晖/梁益准/木下明里,剧情,日本,2017
+26390631,总有一天 Der kommer en dag,https://movie.douban.com/subject/26390631/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2596147131.jpg,杰斯珀·W·尼尔森,拉斯·米克尔森/苏菲·格拉宝/哈拉尔德·凯泽·赫尔曼,剧情,丹麦,2016
+26694988,比海更深 海よりもまだ深く,https://movie.douban.com/subject/26694988/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2454274023.jpg,是枝裕和,阿部宽/真木阳子/小林聪美,剧情/家庭,日本,2016
+25895901,海街日记 海街diary,https://movie.douban.com/subject/25895901/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg,是枝裕和,绫濑遥/长泽雅美/夏帆,剧情/家庭,日本,2015
+10571509,如父如子 そして父になる,https://movie.douban.com/subject/10571509/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2154079590.jpg,是枝裕和,福山雅治/尾野真千子/真木阳子,剧情/家庭,日本,2013
+25986180,釜山行 부산행,https://movie.douban.com/subject/25986180/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2360940399.jpg,延尚昊,孔刘/郑有美/马东锡,动作/惊悚/灾难,韩国,2016
+26591654,地雷区 Under sandet,https://movie.douban.com/subject/26591654/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2273266824.jpg,马丁·赞里维特,罗兰·默勒/米克尔·福尔斯加德/路易斯·霍夫曼,剧情/历史/战争,丹麦/德国,2015
+25954475,聚焦 Spotlight,https://movie.douban.com/subject/25954475/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg,汤姆·麦卡锡,马克·鲁弗洛/迈克尔·基顿/瑞秋·麦克亚当斯,剧情/传记,美国,2015
+25917973,心迷宫,https://movie.douban.com/subject/25917973/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2276780256.jpg,忻钰坤,霍卫民/王笑天/罗芸,剧情/犯罪/悬疑,中国大陆,2014
+25814707,小森林 冬春篇 リトル・フォレスト 冬・春,https://movie.douban.com/subject/25814707/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg,森淳一,桥本爱/三浦贵大/松冈茉优,剧情,日本,2015
+25814705,小森林 夏秋篇 リトル・フォレスト 夏・秋,https://movie.douban.com/subject/25814705/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564498893.jpg,森淳一,桥本爱/三浦贵大/松冈茉优,剧情,日本,2014
+10463953,模仿游戏 The Imitation Game,https://movie.douban.com/subject/10463953/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg,莫滕·泰杜姆,本尼迪克特·康伯巴奇/凯拉·奈特莉/马修·古迪,剧情/传记/战争/同性,英国/美国,2014
+24741412,哪啊哪啊神去村 WOOD JOB！神去なあなあ日常,https://movie.douban.com/subject/24741412/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2212173720.jpg,矢口史靖,染谷将太/长泽雅美/伊藤英明,剧情/喜剧,日本,2014
+22265121,另一个故乡 Die andere Heimat - Chronik einer Sehnsucht,https://movie.douban.com/subject/22265121/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2175719023.jpg,爱德嘉·莱兹,扬·迪特尔·施耐德/安东尼娅·比尔/麦斯米兰·沙伊特,剧情/历史,德国/法国,2013
+10577869,时空恋旅人 About Time,https://movie.douban.com/subject/10577869/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg,理查德·柯蒂斯,多姆纳尔·格里森/瑞秋·麦克亚当斯/比尔·奈伊,喜剧/爱情/奇幻,英国,2013
+30409439,兹山鱼谱 자산어보,https://movie.douban.com/subject/30409439/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2634952893.jpg,李濬益,薛景求/卞约汉/李姃垠,剧情/历史/古装,韩国,2021
+34908189,老友记重聚特辑 Friends: The Reunion,https://movie.douban.com/subject/34908189/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2649579601.jpg,本·温斯顿,詹妮弗·安妮斯顿/柯特妮·考克斯/马修·派瑞,喜剧/爱情,美国,2021
+11500954,编舟记 舟を編む,https://movie.douban.com/subject/11500954/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2045744896.jpg,石井裕也,松田龙平/宫崎葵/小田切让,剧情,日本,2013
+5996409,东京家族 東京家族,https://movie.douban.com/subject/5996409/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1919295170.jpg,山田洋次,桥爪功/吉行和子/西村雅彦,剧情/家庭,日本,2013
+10543907,亨利五世 Henry V,https://movie.douban.com/subject/10543907/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2096735303.jpg,西娅·夏罗克,汤姆·希德勒斯顿/朱丽·沃特斯/约翰·赫特,剧情/历史/战争,英国,2012
+1308857,可可西里,https://movie.douban.com/subject/1308857/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg,陆川,多布杰/张垒/奇道,剧情/犯罪,中国大陆/中国香港,2004
+1299330,爵士春秋 All That Jazz,https://movie.douban.com/subject/1299330/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2192967650.jpg,鲍勃·福斯,罗伊·谢德/杰西卡·兰格/利兰·帕尔默,剧情/喜剧/音乐/歌舞,美国,1979
+1422020,我这一辈子,https://movie.douban.com/subject/1422020/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2046265383.jpg,石挥,石挥/魏鹤龄/崔超明,剧情/历史,中国大陆,1950
+1389924,青之炎 青の炎,https://movie.douban.com/subject/1389924/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893976294.jpg,蜷川幸雄,二宫和也/松浦亚弥/秋吉久美子,剧情/犯罪/爱情,日本,2003
+1304141,黑客帝国2：重装上阵 The Matrix Reloaded,https://movie.douban.com/subject/1304141/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461390.jpg,拉娜·沃卓斯基/莉莉·沃卓斯基,基努·里维斯/劳伦斯·菲什伯恩/凯瑞-安·莫斯,动作/科幻,美国,2003
+1428175,血钻 Blood Diamond,https://movie.douban.com/subject/1428175/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg,爱德华·兹威克,莱昂纳多·迪卡普里奥/杰曼·翰苏/詹妮弗·康纳利,剧情/惊悚/冒险,美国/德国/英国,2006
+1292328,东邪西毒 東邪西毒,https://movie.douban.com/subject/1292328/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg,王家卫,张国荣/林青霞/梁朝伟,剧情/动作/爱情/武侠/古装,中国香港/中国台湾,1994
+1304447,记忆碎片 Memento,https://movie.douban.com/subject/1304447/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg,克里斯托弗·诺兰,盖·皮尔斯/凯瑞-安·莫斯/乔·潘托里亚诺,犯罪/剧情/悬疑/惊悚,美国,2000
+1309055,哈利·波特与火焰杯 Harry Potter and the Goblet of Fire,https://movie.douban.com/subject/1309055/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p735391084.jpg,迈克·内威尔,丹尼尔·雷德克里夫/艾玛·沃森/鲁伯特·格林特,悬疑/奇幻/冒险,英国/美国,2005
+6307447,被解救的姜戈 Django Unchained,https://movie.douban.com/subject/6307447/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1800813767.jpg,昆汀·塔伦蒂诺,杰米·福克斯/莱昂纳多·迪卡普里奥/克里斯托弗·瓦尔兹,剧情/动作/西部/冒险,美国,2012
+1296996,哈利·波特与密室 Harry Potter and the Chamber of Secrets,https://movie.douban.com/subject/1296996/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1082651990.jpg,克里斯·哥伦布,丹尼尔·雷德克里夫/艾玛·沃森/鲁伯特·格林特,奇幻/冒险,英国/美国,2002
+1306249,唐伯虎点秋香 唐伯虎點秋香,https://movie.douban.com/subject/1306249/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg,李力持,周星驰/巩俐/陈百祥,喜剧/爱情/古装,中国香港,1993
+1291544,哈利·波特与阿兹卡班的囚徒 Harry Potter and the Prisoner of Azkaban,https://movie.douban.com/subject/1291544/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910812549.jpg,阿方索·卡隆,丹尼尔·雷德克里夫/艾玛·沃森/鲁伯特·格林特,奇幻/冒险,英国/美国,2004
+1291543,功夫,https://movie.douban.com/subject/1291543/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg,周星驰,周星驰/元秋/元华,动作/喜剧/犯罪/奇幻,中国大陆/中国香港,2004
+1302425,喜剧之王 喜劇之王,https://movie.douban.com/subject/1302425/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg,周星驰/李力持,周星驰/张柏芝/莫文蔚,喜剧/剧情/爱情,中国香港,1999
+1305487,猫鼠游戏 Catch Me If You Can,https://movie.douban.com/subject/1305487/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg,史蒂文·斯皮尔伯格,莱昂纳多·迪卡普里奥/汤姆·汉克斯/克里斯托弗·沃肯,传记/犯罪/剧情,美国/加拿大,2002
+1401385,彗星美人 All About Eve,https://movie.douban.com/subject/1401385/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456699730.jpg,约瑟夫·L·曼凯维奇,贝蒂·戴维斯/安妮·巴克斯特/乔治·桑德斯,剧情,美国,1950
+1294047,凡尔杜先生 Monsieur Verdoux,https://movie.douban.com/subject/1294047/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1819874418.jpg,查理·卓别林,查理·卓别林/马迪·科雷尔/艾莉森·罗丹,喜剧/犯罪/剧情,美国,1947
+1296679,红胡子 赤ひげ,https://movie.douban.com/subject/1296679/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215875666.jpg,黑泽明,三船敏郎/加山雄三/山崎努,剧情,日本,1965
+1295211,待客之道 Our Hospitality,https://movie.douban.com/subject/1295211/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2573433510.jpg,约翰·布莱斯通/巴斯特·基顿,巴斯特·基顿/娜塔莉·塔尔梅奇/乔·罗伯茨,喜剧/爱情/惊悚,美国,1923
+1299103,冬冬的假期,https://movie.douban.com/subject/1299103/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2347250205.jpg,侯孝贤,梅芳/古军/王启光,剧情/儿童,中国台湾,1984
+1292288,公民凯恩 Citizen Kane,https://movie.douban.com/subject/1292288/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1474928139.jpg,奥逊·威尔斯,奥逊·威尔斯/约瑟夫·科顿/多萝西·康明戈尔,剧情/悬疑,美国,1941
+1295753,日出 Sunrise: A Song of Two Humans,https://movie.douban.com/subject/1295753/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1443400002.jpg,F·W·茂瑙,乔治·奥布莱恩/珍妮·盖诺/玛格丽特·利文斯顿,剧情/爱情,美国,1927
+1293783,圣女贞德蒙难记 La Passion de Jeanne d'Arc,https://movie.douban.com/subject/1293783/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502229820.jpg,卡尔·西奥多·德莱叶,玛利亚·法奥康涅蒂/安德烈·贝利/莫里斯·舒茨,传记/犯罪/剧情/历史,法国,1928
+1299080,后窗 Rear Window,https://movie.douban.com/subject/1299080/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p998913501.jpg,阿尔弗雷德·希区柯克,詹姆斯·斯图尔特/格蕾丝·凯利/温戴尔·柯瑞,悬疑/惊悚,美国,1954
+3212965,诗 시,https://movie.douban.com/subject/3212965/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p694844104.jpg,李沧东,尹静姬/李大卫/金熙罗,剧情,韩国,2010
+1303542,石榴的颜色 Նռան գույնը,https://movie.douban.com/subject/1303542/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2239895233.jpg,谢尔盖·帕拉杰诺夫,索菲柯·齐阿乌列里/米尔克·阿尔克桑亚/维勒·加尔斯特亚,剧情/传记/历史,苏联,1969
+1302077,雁南飞 Летят журавли,https://movie.douban.com/subject/1302077/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2058841317.jpg,米哈伊尔·卡拉托佐夫,塔吉娅娜·萨莫依洛娃/阿列克谢·巴塔洛夫/瓦西里·梅尔库里耶夫,剧情/爱情/战争,苏联,1957
+1466419,影子部队 L'armée des ombres,https://movie.douban.com/subject/1466419/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2204668213.jpg,让-皮埃尔·梅尔维尔,利诺·文图拉/保罗·默里斯/让-皮埃尔·卡塞尔,剧情/战争,法国/意大利,1969
+1299360,我出生了，但…… 大人の見る絵本 生れてはみたけれど,https://movie.douban.com/subject/1299360/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1964113703.jpg,小津安二郎,斋藤达雄/青木富夫/吉川满子,喜剧/剧情,日本,1932
+2138467,麻雀之歌 آواز گنجشک ها,https://movie.douban.com/subject/2138467/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2241043360.jpg,马基德·马基迪,默罕默德·阿米尔·纳吉/HosseinAghazi/MaryamAkbari,剧情,伊朗,2008
+1292589,纽伦堡的审判 Judgment at Nuremberg,https://movie.douban.com/subject/1292589/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462065580.jpg,斯坦利·克雷默,斯宾塞·屈塞/伯特·兰卡斯特/理查德·威德马克,剧情/历史,美国,1961
+1293936,杀手 The Killing,https://movie.douban.com/subject/1293936/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2192213954.jpg,斯坦利·库布里克,斯特林·海登/柯琳·格蕾/文斯·爱德华兹,犯罪/黑色电影/惊悚,美国,1956
+1299112,梦 夢,https://movie.douban.com/subject/1299112/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215880880.jpg,黑泽明,寺尾聪/倍赏美津子/根岸季衣,剧情/奇幻,日本/美国,1990
+1293310,椿三十郎,https://movie.douban.com/subject/1293310/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2346574759.jpg,黑泽明,三船敏郎/仲代达矢/小林桂树,剧情/喜剧/动作/犯罪/惊悚,日本,1962
+1419479,女人步上楼梯时 女が階段を上る時,https://movie.douban.com/subject/1419479/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1805354637.jpg,成濑巳喜男,高峰秀子/森雅之/团令子,剧情,日本,1960
+1294565,五至七时的克莱奥 Cléo de 5 à 7,https://movie.douban.com/subject/1294565/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2173127960.jpg,阿涅斯·瓦尔达,科琳娜·马尔尚/安托万·布尔塞耶/多米妮克·达夫雷,喜剧/剧情/音乐,法国/意大利,1962
+1292981,婚姻生活 Scener ur ett äktenskap,https://movie.douban.com/subject/1292981/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2037298187.jpg,英格玛·伯格曼,丽芙·乌曼/厄兰·约瑟夫森/古内尔·林德布洛姆,剧情/爱情,瑞典,1973
+1858233,春天情书 （ハル）,https://movie.douban.com/subject/1858233/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327619627.jpg,森田芳光,深津绘里/内野圣阳/户田菜穗,剧情/爱情,日本,1996
+4826419,金福南杀人事件始末 김복남 살인사건의 전말,https://movie.douban.com/subject/4826419/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p596526266.jpg,张哲洙,徐英姬/池成媛/朴政学,剧情/犯罪/惊悚,韩国,2010
+1303073,望乡 サンダカン八番娼館 望郷,https://movie.douban.com/subject/1303073/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2151476445.jpg,熊井启,栗原小卷/田中绢代/高桥洋子,剧情/历史/战争,日本,1974
+1293306,爱丽丝城市漫游记 Alice in den Städten,https://movie.douban.com/subject/1293306/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187692526.jpg,维姆·文德斯,吕迪格·福格勒/耶拉·罗特兰德尔/丽萨·克鲁泽,剧情,西德,1974
+1401905,圣山 La montaña sagrada,https://movie.douban.com/subject/1401905/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2623806236.jpg,亚历桑德罗·佐杜洛夫斯基,亚历桑德罗·佐杜洛夫斯基/霍拉西奥·萨利纳斯/ZamiraSaunders,奇幻/冒险,墨西哥,1973
+1299900,亚当斯一家的价值观 Addams Family Values,https://movie.douban.com/subject/1299900/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652970475.jpg,巴里·索南菲尔德,克里斯蒂娜·里奇/琼·库萨克/劳尔·胡里亚,喜剧/家庭/奇幻/惊悚,美国,1993
+1303471,生生长流 زندگی و دیگر هیچ,https://movie.douban.com/subject/1303471/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1944277781.jpg,阿巴斯·基亚罗斯塔米,法德哈·基德曼/布巴·巴尤尔·/奥西纳·法赫,剧情/灾难,伊朗,1992
+1309071,天国王朝 Kingdom of Heaven,https://movie.douban.com/subject/1309071/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p460797308.jpg,雷德利·斯科特,奥兰多·布鲁姆/伊娃·格林/爱德华·诺顿,剧情/历史/战争,英国/德国/西班牙/摩洛哥/美国/意大利/法国,2005
+1302181,热带鱼 熱帶魚,https://movie.douban.com/subject/1302181/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1148607609.jpg,陈玉勋,林嘉宏/文英/林正盛,喜剧/剧情,中国台湾,1995
+6019180,开心家族 헬로우 고스트,https://movie.douban.com/subject/6019180/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p892692364.jpg,金英卓,车太贤/高昌锡/张荣男,剧情/喜剧/家庭,韩国,2010
+1422088,撒旦探戈 Sátántangó,https://movie.douban.com/subject/1422088/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327374507.jpg,贝拉·塔尔,米哈伊·维格/普吉·霍瓦特/拉斯洛·费卢戈希,剧情/悬疑,匈牙利/德国/瑞士,1994
+3335464,交响情人梦 最终乐章 后篇 のだめカンタービレ 最終楽章 後編,https://movie.douban.com/subject/3335464/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p559029535.jpg,武内英樹,上野樹里/玉木宏,剧情,日本,2010
+1306664,共同警备区 공동경비구역 JSA,https://movie.douban.com/subject/1306664/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1603485241.jpg,朴赞郁,李英爱/李秉宪/宋康昊,剧情,韩国,2000
+26550176,欢乐时光 ハッピーアワー,https://movie.douban.com/subject/26550176/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2298735591.jpg,滨口龙介,田中幸惠/菊池叶月/三原麻衣子,剧情,日本,2015
+3726072,东邪西毒：终极版 東邪西毒終極版,https://movie.douban.com/subject/3726072/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792502535.jpg,王家卫,张国荣/林青霞/梁朝伟,剧情/动作/爱情,中国香港/中国大陆/中国台湾,2008
+1773216,迷恋荷尔蒙 Soldier's Girl,https://movie.douban.com/subject/1773216/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312964157.jpg,弗兰克·皮尔森,特洛伊·格雷提/李·佩斯/安德鲁·布劳尔,剧情/爱情/犯罪/同性,美国/加拿大,2003
+1466243,罗马11时 Roma ore 11,https://movie.douban.com/subject/1466243/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550326568.jpg,朱塞佩·德桑蒂斯,伊娃·瓦尼切克/卡拉·德尔波娇/马西莫·吉洛蒂,剧情,意大利/法国,1952
+1294580,其后 それから,https://movie.douban.com/subject/1294580/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1859987414.jpg,森田芳光,松田优作/藤谷美和子/小林薰,剧情,日本,1985
+1306490,侠女 俠女,https://movie.douban.com/subject/1306490/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2249959791.jpg,胡金铨,徐枫/石隽/白鹰,剧情/动作/武侠/古装,中国台湾/中国香港,1970
+1298870,浮云 浮雲,https://movie.douban.com/subject/1298870/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319858048.jpg,成濑巳喜男,高峰秀子/森雅之/冈田茉莉子,剧情/爱情,日本,1955
+1292349,阿拉伯的劳伦斯 Lawrence of Arabia,https://movie.douban.com/subject/1292349/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1697190295.jpg,大卫·里恩,彼得·奥图尔/亚历克·吉尼斯/安东尼·奎恩,剧情/传记/冒险,英国,1962
+1303083,怪谈 怪談,https://movie.douban.com/subject/1303083/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p716970089.jpg,小林正树,新珠三千代/渡边美佐子/三国连太郎,剧情/奇幻/恐怖,日本,1964
+1303723,天堂陌影 Stranger Than Paradise,https://movie.douban.com/subject/1303723/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1730030247.jpg,吉姆·贾木许,约翰·劳瑞/伊斯特·伯林特/理查德·埃德森,剧情/喜剧,美国/西德,1984
+1298672,阿玛柯德 Amarcord,https://movie.douban.com/subject/1298672/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p771183436.jpg,费德里科·费里尼,普佩拉·玛奇奥/阿尔曼多·布兰恰/玛加莉·诺埃尔,剧情/喜剧,意大利/法国,1973
+1303637,红柿子 紅柿子,https://movie.douban.com/subject/1303637/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587213240.jpg,王童,陶述/石隽/张世,剧情/家庭,中国台湾,1997
+1301926,摇滚芭比 Hedwig and the Angry Inch,https://movie.douban.com/subject/1301926/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p696969988.jpg,约翰·卡梅隆·米切尔,约翰·卡梅隆·米切尔/米利亚姆·肖尔/安德列·马丁,剧情/喜剧/同性/音乐,美国,2001
+1303357,纸月亮 Paper Moon,https://movie.douban.com/subject/1303357/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2559717631.jpg,彼得·博格丹诺维奇,瑞安·奥尼尔/塔图姆·奥尼尔/玛德莲·卡恩,喜剧/犯罪/剧情,美国,1973
+1294503,紫色 The Color Purple,https://movie.douban.com/subject/1294503/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p880920404.jpg,史蒂文·斯皮尔伯格,丹尼·格洛弗/乌比·戈德堡/玛格丽特·艾弗瑞,剧情,美国,1985
+1292529,机器管家 Bicentennial Man,https://movie.douban.com/subject/1292529/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2195410751.jpg,克里斯·哥伦布,罗宾·威廉姆斯/艾伯丝·戴维兹/山姆·尼尔,剧情/喜剧/科幻,美国/德国,1999
+1945253,自由作家 Freedom Writers,https://movie.douban.com/subject/1945253/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1009650327.jpg,理查德·拉·格拉文斯,希拉里·斯万克/帕特里克·德姆西/斯科特·格伦,传记/犯罪/剧情,美国/德国,2007
+1302789,鹳鸟踟蹰 Το Μετέωρο Βήμα του Πελαργού,https://movie.douban.com/subject/1302789/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2649401854.jpg,西奥·安哲罗普洛斯,马塞洛·马斯楚安尼/让娜·莫罗,剧情/爱情,法国/意大利/希腊/瑞士,1991
+3737287,袁隆平,https://movie.douban.com/subject/3737287/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2650578179.jpg,史凤和,果靖霖/徐筠/袁隆平,剧情/传记,中国大陆,2009
+35652715,杰伊·比姆 Jai Bhim,https://movie.douban.com/subject/35652715/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2734251414.jpg,塔·塞·纳纳维尔,苏利耶·西瓦库马/LijoMolJose/Manikandan,剧情/犯罪,印度,2021
+1293846,西力传 Zelig,https://movie.douban.com/subject/1293846/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2119299252.jpg,伍迪·艾伦,伍迪·艾伦/米娅·法罗/帕特里克霍根,喜剧/奇幻,美国,1983
+1307201,血战台儿庄,https://movie.douban.com/subject/1307201/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2357475129.jpg,杨光远/翟俊杰,邵宏来/初国梁/江化霖,历史/战争,中国大陆,1986
+35882880,宿敌 ജന ഗണ മന,https://movie.douban.com/subject/35882880/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2874026114.jpg,DijoJoseAntony,普利特维拉吉·苏库玛兰/玛玛塔·莫汉达斯/VincyAloshious,剧情,印度,2022
+1400829,我的舅舅 Mon Oncle,https://movie.douban.com/subject/1400829/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p685838678.jpg,雅克·塔蒂,让·皮埃尔·佐拉/AdrienneServantie/LucienFrégis,喜剧,意大利/法国,1958
+1296987,安妮·霍尔 Annie Hall,https://movie.douban.com/subject/1296987/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p619900470.jpg,伍迪·艾伦,伍迪·艾伦/黛安·基顿/托尼·罗伯茨,喜剧/剧情/爱情,美国,1977
+1292895,精武英雄,https://movie.douban.com/subject/1292895/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2431081842.jpg,陈嘉上,李连杰/中山忍/钱小豪,动作/剧情,中国香港/中国大陆,1994
+1307708,马路天使 馬路天使,https://movie.douban.com/subject/1307708/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2194956092.jpg,袁牧之,周璇/赵丹/魏鹤龄,剧情/喜剧,中国大陆,1937
+1293456,莫里斯 Maurice,https://movie.douban.com/subject/1293456/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455549510.jpg,詹姆斯·伊沃里,詹姆斯·维尔比/休·格兰特/鲁珀特·格雷夫斯,剧情/爱情/同性,英国,1987
+1868933,"让娜·迪尔曼 Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",https://movie.douban.com/subject/1868933/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506409538.jpg,香特尔·阿克曼,德菲因·塞里格/亨利.斯多克/雅克·多尼奥-瓦克罗兹,剧情,比利时/法国,1975
+1464535,战争子午线,https://movie.douban.com/subject/1464535/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517655851.jpg,冯小宁,富大龙/沈丹萍/江韵辉牛萌萌董扬,剧情/战争,中国大陆,1990
+1828115,色，戒,https://movie.douban.com/subject/1828115/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453716305.jpg,李安,梁朝伟/汤唯/陈冲,剧情/爱情/情色,中国台湾/中国大陆/美国/中国香港,2007
+27305997,椒麻堂会,https://movie.douban.com/subject/27305997/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2666413657.jpg,邱炯炯,易思成/关南/邱志敏,剧情,中国香港/法国,2021
+1293156,处女泉 Jungfrukällan,https://movie.douban.com/subject/1293156/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2186774515.jpg,英格玛·伯格曼,马克斯·冯·叙多夫/贝吉塔·瓦尔堡/古内尔·林德布洛姆,犯罪/剧情,瑞典,1960
+26682565,在西伯利亚森林中 Dans les forêts de Sibérie,https://movie.douban.com/subject/26682565/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2659899032.jpg,萨菲·奈布,拉斐尔·佩尔索纳/EvgeniySidikhin,冒险,法国,2016
+35870056,乐土 Joyland,https://movie.douban.com/subject/35870056/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2881033774.jpg,塞姆·萨迪克,阿利·朱尼乔/拉斯蒂·法鲁克/阿丽娜·汗,剧情/同性,巴基斯坦,2022
+1305666,时时刻刻 The Hours,https://movie.douban.com/subject/1305666/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512031570.jpg,史蒂芬·戴德利,梅丽尔·斯特里普/朱丽安·摩尔/妮可·基德曼,剧情,美国/英国,2002
+30292777,阳光普照 陽光普照,https://movie.douban.com/subject/30292777/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570235120.jpg,钟孟宏,陈以文/柯淑勤/巫建和,剧情/犯罪/家庭,中国台湾,2019
+1296482,安东尼娅家族 Antonia,https://movie.douban.com/subject/1296482/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p544715774.jpg,玛琳·格里斯,维勒克·范阿梅尔罗伊/埃尔斯·多特曼斯/多拉·范·德·格伦,剧情/喜剧,荷兰/比利时/英国,1995
+1417911,旅行 El viaje,https://movie.douban.com/subject/1417911/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2610856871.jpg,费尔南多·索拉纳斯,沃尔特·奎罗斯/安吉拉·科雷亚/多米妮克·桑达,剧情,阿根廷/法国/德国/意大利/日本/墨西哥/西班牙/英国,1992
+35593344,奥本海默 Oppenheimer,https://movie.douban.com/subject/35593344/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897210097.jpg,克里斯托弗·诺兰,基里安·墨菲/艾米莉·布朗特/马特·达蒙,剧情/传记/历史,美国/英国,2023
+1422186,自己去看 Иди и смотри,https://movie.douban.com/subject/1422186/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2181115350.jpg,依莱姆·克里莫夫,阿列克谢·克拉夫琴科/奥尔加·米罗诺娃/柳博米拉斯·劳恰维丘斯,剧情/战争,苏联,1985
+35797709,怪物,https://movie.douban.com/subject/35797709/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890005059.jpg,是枝裕和,安藤樱/永山瑛太/黑川想矢,剧情,日本,2023

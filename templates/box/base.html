@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Analysis from {{user.username}}'s Watchlist</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link href="https://cdn.bootcdn.net/ajax/libs/bootswatch/5.3.1/flatly/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/mdb-ui-kit/6.4.1/mdb.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcdn.net/ajax/libs/echarts/5.4.3/echarts.min.js"></script>
+    <link href="{{ url_for('static', filename='css/sidebar.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <!-- Sidebar -->
+        <nav id="sidebarMenu" class="collapse d-lg-block sidebar collapse bg-white">
+            <div class="position-sticky">
+                <div class="list-group list-group-flush mx-3 mt-4">
+                    <p class="fs-5">Movie</p>
+                    <a href="{{ url_for('box_movie') }}" class="list-group-item list-group-item-action py-2 ripple">
+                        <i class="fas fa-tachometer-alt fa-fw me-3"></i><span>Movies</span>
+                    </a>
+                    <a href="{{ url_for('box_top10') }}" class="list-group-item list-group-item-action py-2 ripple">
+                        <i class="fas fa-tachometer-alt fa-fw me-3"></i><span>Movie Top 10</span>
+                    </a>
+                    <p class="fs-5">Actor</p>
+                    <a href="{{ url_for('box_actor') }}" class="list-group-item list-group-item-action py-2 ripple">
+                        <i class="fas fa-chart-area fa-fw me-3"></i><span>Actors</span>
+                    </a>
+                    <a href="{{ url_for('actor_box_top10') }}" class="list-group-item list-group-item-action py-2 ripple">
+                        <i class="fas fa-tachometer-alt fa-fw me-3"></i><span>Actors Top 10</span>
+                    </a>        
+                </div>
+            </div>
+        </nav>
+        <!-- Sidebar -->
+
+
+        <!-- Navbar -->
+        <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+            <!-- Container wrapper -->
+            <div class="container-fluid">
+                <!-- Toggle button -->
+                <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#sidebarMenu"
+                    aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <!-- Brand -->
+                <h2>{{user.username}}'s Analysis</h2>
+
+            </div>
+            <!-- Container wrapper -->
+        </nav>
+        <!-- Navbar -->
+
+
+    </header>
+    <main>
+        <div class="container-fluid mx-3">
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+    <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.3.1/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/mdb-ui-kit/6.4.1/mdb.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    {% block scripts %} {% endblock %}
+
+</body>
+
+</html>

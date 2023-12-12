@@ -21,6 +21,8 @@
 		<ul>
 			<li><a href="{{ url_for('index') }}">Home</a></li>
 			<li><a href="{{ url_for('actor') }}">Actor</a></li>
+			<li><a href="{{ url_for('box_movie') }}">票房分析</a></li>
+			<li><a href="{{ url_for('box_predict') }}">票房预测</a></li>
 		{% if current_user.is_authenticated %}
 			<li><a href="{{ url_for('settings') }}">Settings</a></li>
 			<li><a href="{{ url_for('logout') }}">Logout</a></li>

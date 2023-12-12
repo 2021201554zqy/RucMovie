@@ -10,8 +10,9 @@
 	</form>
 	{% endif %}
 <form method="get" action="{{ url_for('search_actor') }}">
-	Search Actors: <input type="text" name="keyword" autocomplete="off" required>
+	Search Movies: <input type="text" name="keyword" autocomplete="off" required>
 	<input class="btn" type="submit" value="Search">
+	<a class="btn" href="{{ url_for('condition_search_actor') }}">Condition Search</a>
 </form>
 <ul class="movie-list">
 	{% for actor in actors %}
@@ -26,8 +27,6 @@
 			{% endif %}
 			<a class="baidu" href="https://www.baidu.com/s?wd={{actor.actor_name }}" target="_blank" title="Find this movie on baidu">IMDb</a>
 		</span>	
-		
-
 	</li>
 	{% endfor %}
 </ul>

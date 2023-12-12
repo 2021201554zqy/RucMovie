@@ -1,0 +1,27 @@
+{% extends 'box/base.html' %}
+{% block content %}
+<section id="douban_list">
+            <p class="text-center fs-3 my-3">演员票房排行榜</p>
+        <table id="tblActors" class="display"> </table>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+    // movie_list datatable
+    const dataSet = {{ vars.data | tojson | safe }};
+    console.log(dataSet);
+
+    new DataTable('#tblActors', {
+        columns: [
+            { title: '演员姓名'},
+            { title: '性别' },
+            { title: '国家' },
+            { title: '总票房' },
+            { title: '平均票房' },
+            { title: '最高票房' },
+        ],
+        data: dataSet,
+        order: [[4, 'desc'], [5, 'desc']]
+    });
+</script>
+{% endblock %}

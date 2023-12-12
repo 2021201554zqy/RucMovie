@@ -14,25 +14,6 @@
 	<a class="btn" href="{{ url_for('condition_search_movie') }}">Condition Search</a>
 </form>
 
-<form method="get" action="{{ url_for('condition_search_movie') }}">
-	Genre:
-	<select name="movie_type_genre" id="movie-type-genre">
-		<option value=999>无</option>
-        <option value="动画">动画</option>
-        <option value="战争">战争</option>
-        <option value="科幻">科幻</option>
-        <option value="喜剧">喜剧</option>
-        <option value="剧情">剧情</option>
-        <option value="动作">动作</option>
-	</select>
-    Country:
-    <select id="movie-type-country" name="movie_type_country">
-        <option value="中国">中国</option>
-        <option value="美国">美国</option>
-    </select>
-	<input type="submit" value="Submit" />
-</form>
-
 <ul class="movie-list">
 	{% for movie in movies %}
 	<li>{{ movie.movie_name }} - {{ movie.release_year }}
@@ -44,7 +25,7 @@
 					<input class="btn" type="submit" name="delete" value="Delete" onclick="return confirm('Are you sure?')">
 				</form>
 			{% endif %}
-			<a class="imdb" href="https://www.imdb.com/find?q={{movie.title }}" target="_blank" title="Find this movie on IMDb">IMDb</a>
+			<a class="imdb" href="https://www.imdb.com/find?q={{movie.movie_name }}" target="_blank" title="Find this movie on IMDb">IMDb</a>
 		</span>
 	</li>
 	{% endfor %}

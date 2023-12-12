@@ -1,0 +1,27 @@
+{% extends 'box/base.html' %}
+{% block content %}
+<section id="douban_list">
+    <p class="text-center fs-3 my-3">电影票房榜</p>
+    <table id="tblMovies" class="display"> </table>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+    // movie_list datatable
+    const dataSet = {{ vars.data | tojson | safe }};
+    console.log(dataSet);
+
+    new DataTable('#tblMovies', {
+        columns: [
+            { title: 'movie_id', 'visible': false },
+            { title: '电影名称' },
+            { title: '发行<br>年份', "width": "10%" },
+            { title: '电影<br>类别', "width": "10%" },
+            { title: '发行地区' },
+            { title: '电影票房' },
+        ],
+        data: dataSet,
+        order: [[5, 'desc']]
+    });
+</script>
+{% endblock %}
