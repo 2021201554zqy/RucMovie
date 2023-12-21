@@ -80,8 +80,23 @@
 查询到的结果
 ![条件搜索2](./screenshots/condition_search2.png)
 
+### 票房分析
+#### 进入票房分析界面，可以看出每个电影的相关信息，也可以按照票房对电影进行排名
+![条件搜索1](./screenshots/box_analysis.png)
+#### 还可以对所用电影、按照类型、年份划分的电影票房的可视化
+![条件搜索1](./screenshots/box_visualization.png)
+#### 还有演员的票房分析
+![条件搜索1](./screenshots/actor_analysis.png)
+#### 还可以对所用电影、按照类型、年份划分的电影票房的可视化
+![条件搜索1](./screenshots/actor_visualization.png)
+
+### 票房预测
+#### 进入票房预测界面，可以看出每个电影的预测票房与实际票房，并看出两者之间的差异百分比
+![条件搜索1](./screenshots/box_prediction.png)
+
 ### 设置状态
 ![改变用户名等](./screenshots/settings.png)
+
 
 
 ## Installation:
